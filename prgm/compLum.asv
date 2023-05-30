@@ -214,15 +214,15 @@ for path = 1:numel(sourcePaths)
     shortNames = erase(imname, 'SHINE_color_cielab_');
 
     %save histMat (individual imgs) and meanHist (pooled) to .csv
-    hists = [stats{path}.histMat, stats{path}.meanHist];
+    hists = [stats{path}.histMat, stats{numD}.meanHist];
     histMat = array2table(hists);
     newNames = vertcat(shortNames, {'pooled'});
     histMat.Properties.VariableNames = newNames;
     writetable(histMat, fullfile(targetDir, 'histMat.csv'));
 
     %save meanVec and stdVec to .csv
-    meanVec = num2cell(stats{path}.meanVec);
-    meanVec = [shortNames, num2cell(stats{path}.meanVec), num2cell(stats{path}.stdVec)];
+    meanVec = num2cell(stats{numD}.meanVec);
+    meanVec = [shortNames, num2cell(stats{numD}.meanVec), num2cell(stats{numD}.stdVec)];
     meanVec = cell2table(meanVec);
     meanVec.Properties.VariableNames = {'img', 'meanLum', 'sdLum'};
     writetable(meanVec, fullfile(targetDir, 'meanVec.csv'));
