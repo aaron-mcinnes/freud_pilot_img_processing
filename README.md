@@ -16,7 +16,7 @@ Images are processed in the following steps:
 3. Images are calibrated for luminance and contrast
 * Input is 2_croppedImg and output is 3_calibImg, using imgCalibration.m
 * Additional post-processing statistics are calculated using compLum.m
-* See calibResults.ipynb for a detailed description of the method used and example output of the image calibration
+* See prgm>calibResults.ipynb for a detailed description of the method used and example output of the image calibration
 
 4. Images are sorted into msp/stp win/nowin 
 * Input is 3_calibImg and output is 4_sortedImg, using prgm>imgSort.py
