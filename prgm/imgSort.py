@@ -50,8 +50,14 @@ class ImageCategorizer:
         self.no_button = tk.Button(self.button_frame, text="No", width=10, command=self.save_categorization_no)
         self.no_button.pack(side=tk.LEFT, padx=5, pady=5)
 
-        self.skip_button = tk.Button(self.button_frame, text="Skip", width=10, command=self.skip_image)
-        self.skip_button.pack(side=tk.LEFT, padx=5, pady=5)
+        # self.skip_button = tk.Button(self.button_frame, text="Skip", width=10, command=self.skip_image)
+        # self.skip_button.pack(side=tk.LEFT, padx=5, pady=5)
+        
+        self.reject_button = tk.Button(self.button_frame, text="Reject", width=10, command=self.reject_image)
+        self.reject_button.pack(side=tk.LEFT, padx=5, pady=5)
+        
+        self.flag_button = tk.Button(self.button_frame, text="Flag", width=10, command=self.flag_image)
+        self.flag_button.pack(side=tk.LEFT, padx=5, pady=5)
 
         self.note_label = tk.Label(root, text="Notes:")
         self.note_label.pack()
@@ -84,15 +90,21 @@ class ImageCategorizer:
             self.image_tk = ImageTk.PhotoImage(image)
             self.canvas.create_image(0, 0, anchor=tk.NW, image=self.image_tk)
         else:
-            messagebox.showinfo("Image Categorization", "All images categorized!")
+            messagebox.showinfo("Image Categorization", "All " + imgCity + " images categorized!")
 
     def save_categorization_yes(self):
-        self.save_categorization(True)
+        self.save_categorization(True, False, False)
 
     def save_categorization_no(self):
-        self.save_categorization(False)
+        self.save_categorization(True, False, False)
+        
+    def reject_image(self):
+        self.save_categorization(False, True, False)
+    
+    def flag_image(self):
+        self.save_categorization(True, False, True)
 
-    def save_categorization(self, has_windows):
+    def save_categorization(self, has_windows, rejectImg, flagImg):
         image_path = self.image_paths[self.current_index]
         image_name = os.path.basename(image_path)  # Extract only the file name
         notes = self.note_entry.get()
@@ -109,6 +121,7 @@ class ImageCategorizer:
                 
         # Save data to spreadsheet
         data = {'Image': [image_name], 'City': [imgCity], 'HasWindows': [has_windows], 
+                'Reject': [rejectImg], 'Flag': [flagImg],
                 'meanLum':[meanLum],'sdLum':[sdLum], 'colorspace': [colorspace], 'Notes': [notes]}
         df = pd.DataFrame(data)
 
@@ -118,12 +131,22 @@ class ImageCategorizer:
         else:
             df.to_csv(csv_file, index=False)
 
+        #make img rejection folder
+        rejectPath = targetPath.replace('4_sortedImg', '4_badImg')
+        
         #categorise into folder
-        if has_windows:
-            winCategory = 'win'
-        else:
-            winCategory = 'nowin'
-        categoryFolder = os.path.join(targetPath, winCategory)
+        if rejectImg or flagImg:
+            if rejectImg:
+                winCategory = 'reject'
+            elif flagImg:
+                winCategory = 'flag'
+            categoryFolder = os.path.join(rejectPath, winCategory)
+        else :
+            if has_windows:
+                winCategory = 'win'
+            else:
+                winCategory = 'nowin'
+            categoryFolder = os.path.join(targetPath, winCategory)
         if not os.path.isdir(categoryFolder):
             os.makedirs(categoryFolder, exist_ok=True)
         shutil.copy(image_path, categoryFolder)
