@@ -24,13 +24,19 @@ def convert2jpg(sourceFile, targetPath):
     img.format='jpg'
     img.save(filename=targetPath)
     img.close()
-    
-     
+
+def filter_folders(file_directories):
+    filtered_directories = []
+    for directory in file_directories:
+        if os.path.isdir(directory):
+            filtered_directories.append(directory)
+    return filtered_directories
+
 # Provides the directory of the two image folders relative to this script
 rawDir = os.path.join(os.path.dirname(os.getcwd()), 'RawImg') 
 sourceFolders = os.listdir(rawDir)
 sourcePaths = list(map(lambda element: rawDir + "\\" +  element, sourceFolders))
-
+sourcePaths = filter_folders(sourcePaths)
 
 #iterate over the source directories
 for path in sourcePaths:
@@ -40,6 +46,7 @@ for path in sourcePaths:
     targetDir = targetDir.replace('_Raw', '_Converted')
     targetDir = targetDir.replace('Minneapolis', 'msp') #keep consistent with intheon naming convention
     targetDir = targetDir.replace('StPaul', 'stp') #keep consistent with intheon naming convention
+    targetDir = targetDir.replace('Control', 'ctl') #keep consistent with intheon naming convention
     # Create the target directories if they don't exist
     if not os.path.exists(targetDir):
         os.makedirs(targetDir)

@@ -37,6 +37,11 @@ for i = 1:size(sourcePaths,2)
     
 end
 
+%extract output to target directory
+if ~exist(fullfile(shineOut, 'DIAGNOSTICS'), 'dir')
+    mkdir(shineOut)
+end
+
 %run SHINE on all images
 cd(shineBase)
 SHINE_color %requires user input.
@@ -54,7 +59,7 @@ outputFolder = fullfile(fileparts(targetDir), 'all', type);
 if ~exist(outputFolder, 'dir')
     mkdir(outputFolder)
 end
-%extract output to target directory
+
 movefile(fullfile(shineOut, '*'), outputFolder);
 mkdir(fullfile(shineOut, 'DIAGNOSTICS')) ; %recreate the diagnostics folder in shine output directory
 %clear the shine input

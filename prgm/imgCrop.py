@@ -16,6 +16,7 @@ from tqdm import tqdm
 
 ############################### options #######################################
 downsample = 1 #whether or not you want to downsample to the minimum resolution of all images in collection
+targetMinResolution = 600 #images will be rejected if x or y resolution is below this 
 ###############################################################################
 
 
@@ -78,12 +79,18 @@ def get_image_resolution(image_path):
         return img.size
 
 # Function to find the minimum resolution among multiple images
+#also reject images if they are below target res 
 def find_minimum_resolution(image_paths):
     min_resolution = float('inf')
+    badPaths = []
     for path in image_paths:
         resolution = get_image_resolution(path)
         min_resolution = min(min_resolution, min(resolution))
-    return min_resolution
+        if min_resolution < targetMinResolution:
+            badPaths.append(path)
+            min_resolution = targetMinResolution
+    return [min_resolution, badPaths]
+
 
 # Specify the path to your folder of images
 rawDir = os.path.join(os.path.dirname(os.getcwd()), '1_convertedImg') 
@@ -98,7 +105,7 @@ if downsample:
         all_image_paths.extend(image_paths)
     
 minRes = find_minimum_resolution(all_image_paths)
-targetResolution = (minRes, minRes)
+targetResolution = (minRes[0], minRes[0])
 
 for path in sourcePaths:
     sourceDir = path
@@ -112,13 +119,17 @@ for path in sourcePaths:
     with tqdm(total = len(os.listdir(sourceDir))) as pbar:
         for file in os.listdir(sourceDir):
             pbar.update(1)
-            crop2square(file, targetDir)
+            if os.path.join(sourceDir, file) in minRes[1]:
+                continue
+            else:
+                crop2square(file, targetDir)
     #check that all images made it safely
     if len(os.listdir(sourceDir)) == len(os.listdir(targetDir)) :
         print('\n>>All images in {} were cropped to {}'.format(sourceDir, targetDir))
     else:
-        print('\n>>Files were lost during cropping. Check for errors')
-        break
+        nCropped = len(os.listdir(targetDir))
+        nRemoved = len(os.listdir(sourceDir)) - len(os.listdir(targetDir))
+        print('\n>>{} valid images cropped to {}. {} images were removed due to low resolution.'.format(nCropped, targetDir, nRemoved))
         
 
 
