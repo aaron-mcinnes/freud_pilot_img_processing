@@ -96,13 +96,13 @@ class ImageCategorizer:
         self.save_categorization(True, False, False)
 
     def save_categorization_no(self):
-        self.save_categorization(True, False, False)
+        self.save_categorization(False, False, False)
         
     def reject_image(self):
         self.save_categorization(False, True, False)
     
     def flag_image(self):
-        self.save_categorization(True, False, True)
+        self.save_categorization(False, False, True)
 
     def save_categorization(self, has_windows, rejectImg, flagImg):
         image_path = self.image_paths[self.current_index]
