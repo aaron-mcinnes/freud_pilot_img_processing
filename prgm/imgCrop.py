@@ -16,7 +16,7 @@ from tqdm import tqdm
 
 ############################### options #######################################
 downsample = 1 #whether or not you want to downsample to the minimum resolution of all images in collection
-targetMinResolution = 600 #images will be rejected if x or y resolution is below this 
+targetMinResolution = 900 #images will be rejected if x or y resolution is below this 
 ###############################################################################
 
 
@@ -112,14 +112,20 @@ for path in sourcePaths:
     #set the target path
     targetDir = sourceDir.replace('1_convertedImg', '2_croppedImg') 
     targetDir = targetDir.replace('_Converted', "")
+    #set path for rejected photos (resolution too low)
+    junkDir = sourceDir.replace('1_convertedImg', '4_badImg') 
+    junkDir = junkDir.replace('_Converted', "_ResolutionTooLow")
     # Create the target directories if they don't exist
     if not os.path.exists(targetDir):
         os.makedirs(targetDir)
+    if not os.path.exists(junkDir):
+        os.makedirs(junkDir)
     print('\n>>Cropping images in \n{} to \n{}\n'.format(sourceDir, targetDir))
     with tqdm(total = len(os.listdir(sourceDir))) as pbar:
         for file in os.listdir(sourceDir):
             pbar.update(1)
             if os.path.join(sourceDir, file) in minRes[1]:
+                crop2square(file, junkDir)
                 continue
             else:
                 crop2square(file, targetDir)
