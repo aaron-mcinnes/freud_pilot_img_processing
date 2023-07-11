@@ -1,2 +1,0 @@
-colorspace,luminanceMode,spectralMode
-cielab_,histMatch2,specMatch1

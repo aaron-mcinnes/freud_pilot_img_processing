@@ -198,6 +198,8 @@ for path = 1:numel(sourcePaths)
         imgTitle = 'Minneapolis';
     elseif strcmp(folderName, 'stp')
         imgTitle = 'StPaul';
+    elseif strcmp(folderName, 'ctl')
+        imgTitle = 'Control';
     end
     title(imgTitle)
     label = ['M = ', num2str(stats{path}.meanLum), ' ; SD = ', num2str(stats{path}.meanStd)];
