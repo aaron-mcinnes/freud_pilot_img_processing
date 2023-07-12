@@ -101,6 +101,9 @@ for source = 1:numel(sourcePaths)
     end
 end
 
+cd(baseDir)
+compLum %call separate matlab script
+
 
 
 
