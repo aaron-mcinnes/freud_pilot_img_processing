@@ -1,377 +1,387 @@
 Img_pre	Mean_pre	SD_pre	Img_post	Mean_post	SD_post
--002unionterminal.jpg20140619_cropped.jpg	82.1219	46.9161	cielab_-002unionterminal.jpg20140619_cropped.jpg	137.7034	23.4372
-0e7953b8-5fe0dfb3-2_cropped.jpg	102.6959	52.5949	cielab_0e7953b8-5fe0dfb3-2_cropped.jpg	137.7034	23.4372
-1000s_cropped.jpg	136.9791	70.3731	cielab_1000s_cropped.jpg	137.7034	23.4372
-110705395-kansas-city-mo-city-_cropped.jpg	168.7076	51.1690	cielab_110705395-kansas-city-mo-city-_cropped.jpg	137.7034	23.4372
-1200px-Old_State_House_(croppe_cropped.jpg	107.3250	52.6839	cielab_1200px-Old_State_House_(croppe_cropped.jpg	137.7034	23.4372
-134819466_cropped.jpg	144.0539	54.6135	cielab_134819466_cropped.jpg	137.7034	23.4372
-1510241520_30ca1e1e45_c_cropped.jpg	112.0512	80.4714	cielab_1510241520_30ca1e1e45_c_cropped.jpg	137.7034	23.4372
-16081493946_c07e0cc4c3_h_cropped.jpg	119.5657	61.2307	cielab_16081493946_c07e0cc4c3_h_cropped.jpg	137.7034	23.4372
-18067587124_fb0c31a448_b_cropped.jpg	136.5342	45.5522	cielab_18067587124_fb0c31a448_b_cropped.jpg	137.7034	23.4372
-19184271178_d581587039_h_cropped.jpg	138.3188	55.1662	cielab_19184271178_d581587039_h_cropped.jpg	137.7034	23.4372
-20170320_124458_cropped.jpg	131.0225	87.4696	cielab_20170320_124458_cropped.jpg	137.7034	23.4372
-2018-04-09-hks-promedica-hq-ph_cropped.jpg	142.4446	48.5928	cielab_2018-04-09-hks-promedica-hq-ph_cropped.jpg	137.7034	23.4372
-2021-review-Delicate-Arch-1_cropped.jpg	133.5223	59.6782	cielab_2021-review-Delicate-Arch-1_cropped.jpg	137.7034	23.4372
-20220509_184649-scaled (1)_cropped.jpg	145.0554	66.9102	cielab_20220509_184649-scaled (1)_cropped.jpg	137.7034	23.4372
-32ABGFL6ZNHB7D4C5244RSWIAM_cropped.jpg	82.8040	56.9333	cielab_32ABGFL6ZNHB7D4C5244RSWIAM_cropped.jpg	137.7034	23.4372
-3592280035_78522fa927_b_cropped.jpg	158.4591	63.5775	cielab_3592280035_78522fa927_b_cropped.jpg	137.7034	23.4372
-80_cropped.jpg	137.7493	54.9621	cielab_80_cropped.jpg	137.7034	23.4372
-9FzbFtis_cropped.jpg	73.4923	57.2724	cielab_9FzbFtis_cropped.jpg	137.7034	23.4372
-Alabama_State_Capitol,_Montgom_cropped.jpg	154.2053	64.0555	cielab_Alabama_State_Capitol,_Montgom_cropped.jpg	137.7034	23.4372
-AtlantaFoxTheatre2-scaled_cropped.jpg	156.8050	66.0423	cielab_AtlantaFoxTheatre2-scaled_cropped.jpg	137.7034	23.4372
-Buchanan_ComoConservatory_cropped.jpg	157.6536	51.0626	cielab_Buchanan_ComoConservatory_cropped.jpg	137.7034	23.4372
-Buchanan_Fairgrounds_cropped.jpg	194.9489	65.9650	cielab_Buchanan_Fairgrounds_cropped.jpg	137.7034	23.4372
-Buchanan_JamesJHillHouse_cropped.jpg	132.3702	60.7345	cielab_Buchanan_JamesJHillHouse_cropped.jpg	137.7034	23.4372
-Buchanan_NYLifeEagle_cropped.jpg	131.9395	71.5945	cielab_Buchanan_NYLifeEagle_cropped.jpg	137.7034	23.4372
-Buchanan_StThomasCathedral_cropped.jpg	130.3670	69.9930	cielab_Buchanan_StThomasCathedral_cropped.jpg	137.7034	23.4372
-Cinderella_Castle_October_1_cropped.jpg	174.0753	47.4105	cielab_Cinderella_Castle_October_1_cropped.jpg	137.7034	23.4372
-Detroit-GAR-Building-5_cropped.jpg	112.9472	66.0721	cielab_Detroit-GAR-Building-5_cropped.jpg	137.7034	23.4372
-Document_cropped.jpg	138.7797	62.9066	cielab_Document_cropped.jpg	137.7034	23.4372
-Dreamchaser-mural-by-Kevin-Wol_cropped.jpg	130.3254	55.3695	cielab_Dreamchaser-mural-by-Kevin-Wol_cropped.jpg	137.7034	23.4372
-EnmXcUIW4AUweaQ_cropped.jpg	85.4397	47.7415	cielab_EnmXcUIW4AUweaQ_cropped.jpg	137.7034	23.4372
-Fleming_Administration_Buildin_cropped.jpg	125.3742	64.3374	cielab_Fleming_Administration_Buildin_cropped.jpg	137.7034	23.4372
-Free-Stamp_cropped.jpg	126.0101	70.3390	cielab_Free-Stamp_cropped.jpg	137.7034	23.4372
-IMG_1554-e1539276837754_cropped.jpg	195.3173	67.2817	cielab_IMG_1554-e1539276837754_cropped.jpg	137.7034	23.4372
-IMG_3018-scaled_cropped.jpg	83.1720	74.4013	cielab_IMG_3018-scaled_cropped.jpg	137.7034	23.4372
-Ichel_AnniesParlour_cropped.jpg	133.7040	59.7721	cielab_Ichel_AnniesParlour_cropped.jpg	137.7034	23.4372
-Ichel_BlockMFlowers_cropped.jpg	117.1528	62.5048	cielab_Ichel_BlockMFlowers_cropped.jpg	137.7034	23.4372
-Ichel_BruininksHall_cropped.jpg	125.3589	43.4766	cielab_Ichel_BruininksHall_cropped.jpg	137.7034	23.4372
-Ichel_BuildingAndTowerStatue_cropped.jpg	136.8357	52.9870	cielab_Ichel_BuildingAndTowerStatue_cropped.jpg	137.7034	23.4372
-Ichel_CalebDDorrStatue_cropped.jpg	121.0984	77.3572	cielab_Ichel_CalebDDorrStatue_cropped.jpg	137.7034	23.4372
-Ichel_EarleBrownHouseStatue_cropped.jpg	155.6932	61.0287	cielab_Ichel_EarleBrownHouseStatue_cropped.jpg	137.7034	23.4372
-Ichel_EastHennepinAvenueBuildi_cropped.jpg	138.9352	54.6556	cielab_Ichel_EastHennepinAvenueBuildi_cropped.jpg	137.7034	23.4372
-Ichel_EcolabBuilding_cropped.jpg	151.6719	41.2485	cielab_Ichel_EcolabBuilding_cropped.jpg	137.7034	23.4372
-Ichel_EddyHallSculptures_cropped.jpg	100.8545	52.1924	cielab_Ichel_EddyHallSculptures_cropped.jpg	137.7034	23.4372
-Ichel_FirstCongregationalChurc_cropped.jpg	127.6688	60.8676	cielab_Ichel_FirstCongregationalChurc_cropped.jpg	137.7034	23.4372
-Ichel_FlorenceCourtStatue_cropped.jpg	131.0123	55.1711	cielab_Ichel_FlorenceCourtStatue_cropped.jpg	137.7034	23.4372
-Ichel_FolwellHall_cropped.jpg	132.8438	63.4814	cielab_Ichel_FolwellHall_cropped.jpg	137.7034	23.4372
-Ichel_FredLSmithHouseStatue_cropped.jpg	132.9292	56.8938	cielab_Ichel_FredLSmithHouseStatue_cropped.jpg	137.7034	23.4372
-Ichel_GoldMedalFlourBuilding_cropped.jpg	162.3888	61.8899	cielab_Ichel_GoldMedalFlourBuilding_cropped.jpg	137.7034	23.4372
-Ichel_GoldMedalParkSign_cropped.jpg	164.6825	56.3222	cielab_Ichel_GoldMedalParkSign_cropped.jpg	137.7034	23.4372
-Ichel_GuthrieTheater_cropped.jpg	124.3743	74.5101	cielab_Ichel_GuthrieTheater_cropped.jpg	137.7034	23.4372
-Ichel_HennepinCountyGovernment_cropped.jpg	150.2249	51.7267	cielab_Ichel_HennepinCountyGovernment_cropped.jpg	137.7034	23.4372
-Ichel_InternationalChristianUn_cropped.jpg	134.8252	69.5901	cielab_Ichel_InternationalChristianUn_cropped.jpg	137.7034	23.4372
-Ichel_JohnDudleyHouseStatue_cropped.jpg	163.0813	47.4650	cielab_Ichel_JohnDudleyHouseStatue_cropped.jpg	137.7034	23.4372
-Ichel_JonesHallSculpture_cropped.jpg	112.5515	50.0575	cielab_Ichel_JonesHallSculpture_cropped.jpg	137.7034	23.4372
-Ichel_LandmarkCenter_cropped.jpg	151.2009	42.0846	cielab_Ichel_LandmarkCenter_cropped.jpg	137.7034	23.4372
-Ichel_LoringParkGreenway_cropped.jpg	120.5987	63.6263	cielab_Ichel_LoringParkGreenway_cropped.jpg	137.7034	23.4372
-Ichel_LuterGageJohnsonStoreSta_cropped.jpg	121.1950	59.4104	cielab_Ichel_LuterGageJohnsonStoreSta_cropped.jpg	137.7034	23.4372
-Ichel_MainStreetBuildings_cropped.jpg	155.7108	57.8614	cielab_Ichel_MainStreetBuildings_cropped.jpg	137.7034	23.4372
-Ichel_ManLiftingWheatSackStatu_cropped.jpg	122.0776	76.8003	cielab_Ichel_ManLiftingWheatSackStatu_cropped.jpg	137.7034	23.4372
-Ichel_MinneapolisCourthouse_cropped.jpg	157.7319	60.4366	cielab_Ichel_MinneapolisCourthouse_cropped.jpg	137.7034	23.4372
-Ichel_MinnesotaHistoryCenter_cropped.jpg	146.2248	41.1206	cielab_Ichel_MinnesotaHistoryCenter_cropped.jpg	137.7034	23.4372
-Ichel_MoleculaStatue_cropped.jpg	107.3955	67.0969	cielab_Ichel_MoleculaStatue_cropped.jpg	137.7034	23.4372
-Ichel_MoosTower_cropped.jpg	137.4720	58.3482	cielab_Ichel_MoosTower_cropped.jpg	137.7034	23.4372
-Ichel_NewsRoom_cropped.jpg	153.7944	56.8562	cielab_Ichel_NewsRoom_cropped.jpg	137.7034	23.4372
-Ichel_NorthropAuditorium_cropped.jpg	164.6789	53.7251	cielab_Ichel_NorthropAuditorium_cropped.jpg	137.7034	23.4372
-Ichel_OctaviusBroughtonHouseSt_cropped.jpg	168.4241	61.8291	cielab_Ichel_OctaviusBroughtonHouseSt_cropped.jpg	137.7034	23.4372
-Ichel_Ordway_cropped.jpg	135.6354	62.2438	cielab_Ichel_Ordway_cropped.jpg	137.7034	23.4372
-Ichel_PeterLessHouseStatue_cropped.jpg	121.7076	54.1122	cielab_Ichel_PeterLessHouseStatue_cropped.jpg	137.7034	23.4372
-Ichel_PillsburyAMillStatue_cropped.jpg	117.0421	71.6252	cielab_Ichel_PillsburyAMillStatue_cropped.jpg	137.7034	23.4372
-Ichel_PillsburyLibrary_cropped.jpg	118.9504	55.6872	cielab_Ichel_PillsburyLibrary_cropped.jpg	137.7034	23.4372
-Ichel_PillsburyStatue_cropped.jpg	87.8251	74.7736	cielab_Ichel_PillsburyStatue_cropped.jpg	137.7034	23.4372
-Ichel_PrinceMural_cropped.jpg	147.6579	60.5320	cielab_Ichel_PrinceMural_cropped.jpg	137.7034	23.4372
-Ichel_ScienceMuseum_cropped.jpg	119.3320	56.7332	cielab_Ichel_ScienceMuseum_cropped.jpg	137.7034	23.4372
-Ichel_ShepardManufacturingComp_cropped.jpg	143.9449	63.8613	cielab_Ichel_ShepardManufacturingComp_cropped.jpg	137.7034	23.4372
-Ichel_StPaulCathedral_cropped.jpg	152.4031	51.8160	cielab_Ichel_StPaulCathedral_cropped.jpg	137.7034	23.4372
-Ichel_StPaulLibrary_cropped.jpg	144.2444	53.6876	cielab_Ichel_StPaulLibrary_cropped.jpg	137.7034	23.4372
-Ichel_StoneArchBridge_cropped.jpg	164.1324	64.3096	cielab_Ichel_StoneArchBridge_cropped.jpg	137.7034	23.4372
-Ichel_ThomasFAndrewsHouseStatu_cropped.jpg	124.9825	50.1502	cielab_Ichel_ThomasFAndrewsHouseStatu_cropped.jpg	137.7034	23.4372
-Ichel_UMNSign_cropped.jpg	102.7787	58.8514	cielab_Ichel_UMNSign_cropped.jpg	137.7034	23.4372
-Ichel_UptownLargeChairs_cropped.jpg	135.0796	65.7579	cielab_Ichel_UptownLargeChairs_cropped.jpg	137.7034	23.4372
-Ichel_VanCleveHouse_cropped.jpg	167.7043	60.1428	cielab_Ichel_VanCleveHouse_cropped.jpg	137.7034	23.4372
-Ichel_WashingtonAveBridge_cropped.jpg	109.7537	59.4064	cielab_Ichel_WashingtonAveBridge_cropped.jpg	137.7034	23.4372
-Ichel_WeismanArtMuseum_cropped.jpg	162.3941	57.4598	cielab_Ichel_WeismanArtMuseum_cropped.jpg	137.7034	23.4372
-Ichel_WinslowHouseHotelStatue_cropped.jpg	133.6455	67.1869	cielab_Ichel_WinslowHouseHotelStatue_cropped.jpg	137.7034	23.4372
-Ichel_WinthropSchoolEastHighSc_cropped.jpg	150.2206	67.9510	cielab_Ichel_WinthropSchoolEastHighSc_cropped.jpg	137.7034	23.4372
-Ichel_WoodburyFiskHouseStatue_cropped.jpg	118.1248	50.7100	cielab_Ichel_WoodburyFiskHouseStatue_cropped.jpg	137.7034	23.4372
-Ichel_XcelEnergyCenter_cropped.jpg	143.2341	69.4993	cielab_Ichel_XcelEnergyCenter_cropped.jpg	137.7034	23.4372
-In_Retrospectspring20_cropped.jpg	159.4080	48.8272	cielab_In_Retrospectspring20_cropped.jpg	137.7034	23.4372
-Independence-Hall-Historical-P_cropped.jpg	154.9437	67.1758	cielab_Independence-Hall-Historical-P_cropped.jpg	137.7034	23.4372
-Indiana-Landmarks-Center-India_cropped.jpg	166.7310	68.2038	cielab_Indiana-Landmarks-Center-India_cropped.jpg	137.7034	23.4372
-John_J._Zampieri_State_Office__cropped.jpg	134.4899	70.9566	cielab_John_J._Zampieri_State_Office__cropped.jpg	137.7034	23.4372
-Louisiana_State_Capitol_Buildi_cropped.jpg	157.1825	40.7856	cielab_Louisiana_State_Capitol_Buildi_cropped.jpg	137.7034	23.4372
-MPLS_AMERICANSWEDISHINSTITUTE_cropped.jpg	134.5153	55.2187	cielab_MPLS_AMERICANSWEDISHINSTITUTE_cropped.jpg	137.7034	23.4372
-MPLS_AMILLARTISTLOFTS_cropped.jpg	161.7001	61.1197	cielab_MPLS_AMILLARTISTLOFTS_cropped.jpg	137.7034	23.4372
-MPLS_ANTHONYCRAGGSCULPTURE_cropped.jpg	142.0768	63.0480	cielab_MPLS_ANTHONYCRAGGSCULPTURE_cropped.jpg	137.7034	23.4372
-MPLS_ARVONNEFRASERLIBRARY_cropped.jpg	137.9713	55.8131	cielab_MPLS_ARVONNEFRASERLIBRARY_cropped.jpg	137.7034	23.4372
-MPLS_ASTERCAFE_cropped.jpg	127.9984	63.2643	cielab_MPLS_ASTERCAFE_cropped.jpg	137.7034	23.4372
-MPLS_AUGSBURGUNIVERSITY_cropped.jpg	143.4032	63.5679	cielab_MPLS_AUGSBURGUNIVERSITY_cropped.jpg	137.7034	23.4372
-MPLS_BASEBALLSTATUE_cropped.jpg	122.6225	59.3996	cielab_MPLS_BASEBALLSTATUE_cropped.jpg	137.7034	23.4372
-MPLS_BETHLEHEMBAPTISTCHURCH_cropped.jpg	141.0523	58.1414	cielab_MPLS_BETHLEHEMBAPTISTCHURCH_cropped.jpg	137.7034	23.4372
-MPLS_BLACKCOFFEEWAFFLEBAR_cropped.jpg	140.5688	86.9472	cielab_MPLS_BLACKCOFFEEWAFFLEBAR_cropped.jpg	137.7034	23.4372
-MPLS_BOOMISLANDLIGHTHOUSE_cropped.jpg	135.3589	63.8444	cielab_MPLS_BOOMISLANDLIGHTHOUSE_cropped.jpg	137.7034	23.4372
-MPLS_CAMPBELLMITHUNTOWER_cropped.jpg	109.8530	39.9321	cielab_MPLS_CAMPBELLMITHUNTOWER_cropped.jpg	137.7034	23.4372
-MPLS_CARLSONSCHOOLOFMANAGEMENT_cropped.jpg	167.5003	61.7686	cielab_MPLS_CARLSONSCHOOLOFMANAGEMENT_cropped.jpg	137.7034	23.4372
-MPLS_CENTRALLUTHERANCHURCH_cropped.jpg	137.1015	73.6571	cielab_MPLS_CENTRALLUTHERANCHURCH_cropped.jpg	137.7034	23.4372
-MPLS_CHARLIEBROWN_cropped.jpg	113.5254	68.0052	cielab_MPLS_CHARLIEBROWN_cropped.jpg	137.7034	23.4372
-MPLS_CHILDRENSHOSPITAL_cropped.jpg	140.6045	66.9292	cielab_MPLS_CHILDRENSHOSPITAL_cropped.jpg	137.7034	23.4372
-MPLS_CITYHALLSTATUE_cropped.jpg	133.0948	53.2652	cielab_MPLS_CITYHALLSTATUE_cropped.jpg	137.7034	23.4372
-MPLS_COFFMANMEMORIALUNION_cropped.jpg	118.2458	61.7946	cielab_MPLS_COFFMANMEMORIALUNION_cropped.jpg	137.7034	23.4372
-MPLS_CRAFTCOUNCILBUILDING_cropped.jpg	153.2180	53.7316	cielab_MPLS_CRAFTCOUNCILBUILDING_cropped.jpg	137.7034	23.4372
-MPLS_DISAPPEARINGPEOPLESTATUES_cropped.jpg	142.1288	59.3371	cielab_MPLS_DISAPPEARINGPEOPLESTATUES_cropped.jpg	137.7034	23.4372
-MPLS_EDDYHALL_cropped.jpg	114.4653	63.4082	cielab_MPLS_EDDYHALL_cropped.jpg	137.7034	23.4372
-MPLS_ELEVENONTHERIVER_cropped.jpg	185.4988	53.8397	cielab_MPLS_ELEVENONTHERIVER_cropped.jpg	137.7034	23.4372
-MPLS_FATHERHENNEPINSTATUE_cropped.jpg	169.0310	67.2157	cielab_MPLS_FATHERHENNEPINSTATUE_cropped.jpg	137.7034	23.4372
-MPLS_FIRSTAVENUE_cropped.jpg	115.8779	92.6126	cielab_MPLS_FIRSTAVENUE_cropped.jpg	137.7034	23.4372
-MPLS_FLOYDOLSONSTATUE_cropped.jpg	116.3059	54.0516	cielab_MPLS_FLOYDOLSONSTATUE_cropped.jpg	137.7034	23.4372
-MPLS_FOLWELLHALLANGLE2_cropped.jpg	129.9138	62.9993	cielab_MPLS_FOLWELLHALLANGLE2_cropped.jpg	137.7034	23.4372
-MPLS_GENERALMILLS_cropped.jpg	107.5878	81.5271	cielab_MPLS_GENERALMILLS_cropped.jpg	137.7034	23.4372
-MPLS_GOLDYGOPHERSTATUE_cropped.jpg	113.6318	63.1108	cielab_MPLS_GOLDYGOPHERSTATUE_cropped.jpg	137.7034	23.4372
-MPLS_GRADUATEHOTEL_cropped.jpg	121.0894	49.1221	cielab_MPLS_GRADUATEHOTEL_cropped.jpg	137.7034	23.4372
-MPLS_HENNEPINCOUNTYMEDICALCENT_cropped.jpg	134.9125	76.7113	cielab_MPLS_HENNEPINCOUNTYMEDICALCENT_cropped.jpg	137.7034	23.4372
-MPLS_HENNEPINCOUNTYPUBLICSAFET_cropped.jpg	117.3079	58.4727	cielab_MPLS_HENNEPINCOUNTYPUBLICSAFET_cropped.jpg	137.7034	23.4372
-MPLS_HOPECOMMUNITYCHURCH_cropped.jpg	133.6382	41.0211	cielab_MPLS_HOPECOMMUNITYCHURCH_cropped.jpg	137.7034	23.4372
-MPLS_HUNTINGTONBANKSCOREBOARD_cropped.jpg	109.4001	73.5823	cielab_MPLS_HUNTINGTONBANKSCOREBOARD_cropped.jpg	137.7034	23.4372
-MPLS_IRONMIKESTATUE_cropped.jpg	139.2946	49.9395	cielab_MPLS_IRONMIKESTATUE_cropped.jpg	137.7034	23.4372
-MPLS_LAKEOFTHEISLESLUTHERANCHU_cropped.jpg	173.2647	55.5635	cielab_MPLS_LAKEOFTHEISLESLUTHERANCHU_cropped.jpg	137.7034	23.4372
-MPLS_LYNDALEPARKGARDENS_cropped.jpg	142.8850	72.5630	cielab_MPLS_LYNDALEPARKGARDENS_cropped.jpg	137.7034	23.4372
-MPLS_MARIUCCIARENA_cropped.jpg	142.5690	56.5960	cielab_MPLS_MARIUCCIARENA_cropped.jpg	137.7034	23.4372
-MPLS_MARKETATMALCOLMYARDS_cropped.jpg	143.3588	66.6943	cielab_MPLS_MARKETATMALCOLMYARDS_cropped.jpg	137.7034	23.4372
-MPLS_MARYTYLERMOORESTATUE_cropped.jpg	146.9323	73.1258	cielab_MPLS_MARYTYLERMOORESTATUE_cropped.jpg	137.7034	23.4372
-MPLS_MILLCITYMUSEUM_cropped.jpg	127.1942	77.8909	cielab_MPLS_MILLCITYMUSEUM_cropped.jpg	137.7034	23.4372
-MPLS_MINNEAPOLISCENTRALLIBRARY_cropped.jpg	125.4741	57.8943	cielab_MPLS_MINNEAPOLISCENTRALLIBRARY_cropped.jpg	137.7034	23.4372
-MPLS_MINNEAPOLISCOLLEGE_cropped.jpg	99.2882	78.6189	cielab_MPLS_MINNEAPOLISCOLLEGE_cropped.jpg	137.7034	23.4372
-MPLS_MINNEAPOLISCONVENTIONCENT_cropped.jpg	135.6077	52.4686	cielab_MPLS_MINNEAPOLISCONVENTIONCENT_cropped.jpg	137.7034	23.4372
-MPLS_MINNEAPOLISINSTITUEOFART_cropped.jpg	148.7594	65.7479	cielab_MPLS_MINNEAPOLISINSTITUEOFART_cropped.jpg	137.7034	23.4372
-MPLS_NICOLLETISLANDBRIDGE_cropped.jpg	143.4444	56.1002	cielab_MPLS_NICOLLETISLANDBRIDGE_cropped.jpg	137.7034	23.4372
-MPLS_NICOLLETISLANDINN_cropped.jpg	142.4841	67.4691	cielab_MPLS_NICOLLETISLANDINN_cropped.jpg	137.7034	23.4372
-MPLS_NICOLLETISLANDPAVILION_cropped.jpg	153.7500	64.0949	cielab_MPLS_NICOLLETISLANDPAVILION_cropped.jpg	137.7034	23.4372
-MPLS_ORPHEUMTHEATER_cropped.jpg	154.8624	55.5114	cielab_MPLS_ORPHEUMTHEATER_cropped.jpg	137.7034	23.4372
-MPLS_PEAVEYPLAZA_cropped.jpg	118.5171	59.5058	cielab_MPLS_PEAVEYPLAZA_cropped.jpg	137.7034	23.4372
-MPLS_PILLSBURYHALL_cropped.jpg	108.2543	68.0370	cielab_MPLS_PILLSBURYHALL_cropped.jpg	137.7034	23.4372
-MPLS_PIONEERSSTATUE_cropped.jpg	137.0217	60.7964	cielab_MPLS_PIONEERSSTATUE_cropped.jpg	137.7034	23.4372
-MPLS_PLATONICFIGURE_cropped.jpg	110.9702	62.1797	cielab_MPLS_PLATONICFIGURE_cropped.jpg	137.7034	23.4372
-MPLS_PRINCESTATUE_cropped.jpg	117.2107	56.3568	cielab_MPLS_PRINCESTATUE_cropped.jpg	137.7034	23.4372
-MPLS_PUBLICSERVICEBUILDING_cropped.jpg	139.2657	69.2889	cielab_MPLS_PUBLICSERVICEBUILDING_cropped.jpg	137.7034	23.4372
-MPLS_PURCELLCUTSHOUSE_cropped.jpg	113.6679	64.4727	cielab_MPLS_PURCELLCUTSHOUSE_cropped.jpg	137.7034	23.4372
-MPLS_REGISCENTERFORTHEARTS_cropped.jpg	114.3977	53.8376	cielab_MPLS_REGISCENTERFORTHEARTS_cropped.jpg	137.7034	23.4372
-MPLS_RIDDERARENA_cropped.jpg	135.4978	70.5470	cielab_MPLS_RIDDERARENA_cropped.jpg	137.7034	23.4372
-MPLS_RIVERSIDEPLAZA_cropped.jpg	147.7621	72.6357	cielab_MPLS_RIVERSIDEPLAZA_cropped.jpg	137.7034	23.4372
-MPLS_SOCIALSCIENCESTOWER_cropped.jpg	118.1186	51.2338	cielab_MPLS_SOCIALSCIENCESTOWER_cropped.jpg	137.7034	23.4372
-MPLS_SPSTOWER_cropped.jpg	125.5863	61.3153	cielab_MPLS_SPSTOWER_cropped.jpg	137.7034	23.4372
-MPLS_STATETHEATER_cropped.jpg	117.0225	74.4998	cielab_MPLS_STATETHEATER_cropped.jpg	137.7034	23.4372
-MPLS_TARGETFIELD_cropped.jpg	130.2573	40.7033	cielab_MPLS_TARGETFIELD_cropped.jpg	137.7034	23.4372
-MPLS_THEARMORYUMN_cropped.jpg	148.9878	87.3281	cielab_MPLS_THEARMORYUMN_cropped.jpg	137.7034	23.4372
-MPLS_THEARMORY_cropped.jpg	160.6531	61.8783	cielab_MPLS_THEARMORY_cropped.jpg	137.7034	23.4372
-MPLS_TJJONESMEMORIALLIBRARY_cropped.jpg	145.7264	75.4662	cielab_MPLS_TJJONESMEMORIALLIBRARY_cropped.jpg	137.7034	23.4372
-MPLS_USBANKPLAZA_cropped.jpg	118.8842	56.4005	cielab_MPLS_USBANKPLAZA_cropped.jpg	137.7034	23.4372
-MPLS_USBANKSTADIUM_cropped.jpg	98.4263	44.9527	cielab_MPLS_USBANKSTADIUM_cropped.jpg	137.7034	23.4372
-MPLS_VIKINGSLONGHOUSE_cropped.jpg	155.8893	79.1127	cielab_MPLS_VIKINGSLONGHOUSE_cropped.jpg	137.7034	23.4372
-MPLS_WALKERARTCENTER_cropped.jpg	164.8216	59.7411	cielab_MPLS_WALKERARTCENTER_cropped.jpg	137.7034	23.4372
-MPLS_WALTERLIBRARY_cropped.jpg	123.4750	71.6657	cielab_MPLS_WALTERLIBRARY_cropped.jpg	137.7034	23.4372
-MPLS_WELLSFARGO550TOWER_cropped.jpg	100.7622	58.4528	cielab_MPLS_WELLSFARGO550TOWER_cropped.jpg	137.7034	23.4372
-MPLS_WELLSFARGOCENTER_cropped.jpg	121.0502	70.6251	cielab_MPLS_WELLSFARGOCENTER_cropped.jpg	137.7034	23.4372
-MPLS_WILSONLIBRARY_cropped.jpg	126.5563	51.4179	cielab_MPLS_WILSONLIBRARY_cropped.jpg	137.7034	23.4372
-MPLS_WITCHHATTOWER_cropped.jpg	155.7686	68.9894	cielab_MPLS_WITCHHATTOWER_cropped.jpg	137.7034	23.4372
-Marquette_Building_Detroit_MI_cropped.jpg	133.0399	72.8379	cielab_Marquette_Building_Detroit_MI_cropped.jpg	137.7034	23.4372
-Nk5L-1.ext.TimothyHursley.8704_cropped.jpg	107.7986	59.4328	cielab_Nk5L-1.ext.TimothyHursley.8704_cropped.jpg	137.7034	23.4372
-Oakland_City_Hall_(Oakland,_CA_cropped.jpg	147.5619	49.1113	cielab_Oakland_City_Hall_(Oakland,_CA_cropped.jpg	137.7034	23.4372
-Projects_HealthyLiving_hero_cropped.jpg	124.5478	70.6382	cielab_Projects_HealthyLiving_hero_cropped.jpg	137.7034	23.4372
-SD-BikeMickelson_082719_0429e2_cropped.jpg	126.9556	40.6769	cielab_SD-BikeMickelson_082719_0429e2_cropped.jpg	137.7034	23.4372
-STP_AGRACULTUREKITCHEN_cropped.jpg	92.0452	66.3234	cielab_STP_AGRACULTUREKITCHEN_cropped.jpg	137.7034	23.4372
-STP_ALEXANDERRAMSEYHOUSE_cropped.jpg	119.5980	59.9685	cielab_STP_ALEXANDERRAMSEYHOUSE_cropped.jpg	137.7034	23.4372
-STP_ALLIANZFIELD_cropped.jpg	139.7591	70.4807	cielab_STP_ALLIANZFIELD_cropped.jpg	137.7034	23.4372
-STP_ALONZOHAUSERTHESOURCE_cropped.jpg	102.2857	59.1384	cielab_STP_ALONZOHAUSERTHESOURCE_cropped.jpg	137.7034	23.4372
-STP_BELLMUSEUM_cropped.jpg	120.8962	49.2615	cielab_STP_BELLMUSEUM_cropped.jpg	137.7034	23.4372
-STP_BRONZEBULLS_cropped.jpg	158.1807	63.6501	cielab_STP_BRONZEBULLS_cropped.jpg	137.7034	23.4372
-STP_BURBANKLIVINGSTONGRIGGSMAN_cropped.jpg	118.5710	67.1207	cielab_STP_BURBANKLIVINGSTONGRIGGSMAN_cropped.jpg	137.7034	23.4372
-STP_CANDYLAND_cropped.jpg	111.3321	62.7637	cielab_STP_CANDYLAND_cropped.jpg	137.7034	23.4372
-STP_CAPITOLBUILDING_cropped.jpg	130.3466	40.5440	cielab_STP_CAPITOLBUILDING_cropped.jpg	137.7034	23.4372
-STP_CARTYPARK_cropped.jpg	118.8016	40.1754	cielab_STP_CARTYPARK_cropped.jpg	137.7034	23.4372
-STP_CASSGILBERTMEMORIALPARK_cropped.jpg	115.3506	64.8103	cielab_STP_CASSGILBERTMEMORIALPARK_cropped.jpg	137.7034	23.4372
-STP_CATHEDRAL_cropped.jpg	142.0151	65.3787	cielab_STP_CATHEDRAL_cropped.jpg	137.7034	23.4372
-STP_CECILS_cropped.jpg	119.4489	58.7291	cielab_STP_CECILS_cropped.jpg	137.7034	23.4372
-STP_CENTRALVILLAGEPARK_cropped.jpg	82.2130	56.0706	cielab_STP_CENTRALVILLAGEPARK_cropped.jpg	137.7034	23.4372
-STP_CHARLESLINDBERGHSTATUE_cropped.jpg	129.3976	65.6212	cielab_STP_CHARLESLINDBERGHSTATUE_cropped.jpg	137.7034	23.4372
-STP_CHILDRENS_cropped.jpg	153.2122	55.9495	cielab_STP_CHILDRENS_cropped.jpg	137.7034	23.4372
-STP_CHRISTOPHERCOLUMBUSSTATUE_cropped.jpg	119.8688	52.4957	cielab_STP_CHRISTOPHERCOLUMBUSSTATUE_cropped.jpg	137.7034	23.4372
-STP_CHURCHOFTHEASSUMPTION_cropped.jpg	125.9923	54.9815	cielab_STP_CHURCHOFTHEASSUMPTION_cropped.jpg	137.7034	23.4372
-STP_CITIESCHURCH_cropped.jpg	153.7935	66.3247	cielab_STP_CITIESCHURCH_cropped.jpg	137.7034	23.4372
-STP_CITYHALLHUBERHHUMPHREYSTAT_cropped.jpg	127.1042	59.4087	cielab_STP_CITYHALLHUBERHHUMPHREYSTAT_cropped.jpg	137.7034	23.4372
-STP_COCHRANPARKFOUNTAIN_cropped.jpg	112.5081	75.9357	cielab_STP_COCHRANPARKFOUNTAIN_cropped.jpg	137.7034	23.4372
-STP_COSSETTAS_cropped.jpg	92.6036	57.9534	cielab_STP_COSSETTAS_cropped.jpg	137.7034	23.4372
-STP_DAVIDSONHOTEL_cropped.jpg	147.2085	67.2699	cielab_STP_DAVIDSONHOTEL_cropped.jpg	137.7034	23.4372
-STP_DEWDROPPOND_cropped.jpg	144.4959	74.4393	cielab_STP_DEWDROPPOND_cropped.jpg	137.7034	23.4372
-STP_DEWITTLIBRARY_cropped.jpg	116.3856	63.2907	cielab_STP_DEWITTLIBRARY_cropped.jpg	137.7034	23.4372
-STP_DOUBLETREEBYHILTONHOTEL_cropped.jpg	104.7240	60.5295	cielab_STP_DOUBLETREEBYHILTONHOTEL_cropped.jpg	137.7034	23.4372
-STP_DOWNTOWNAIRPORT_cropped.jpg	188.1446	59.1631	cielab_STP_DOWNTOWNAIRPORT_cropped.jpg	137.7034	23.4372
-STP_ELRIOVISTARECREATIONCENTER_cropped.jpg	122.7057	67.9394	cielab_STP_ELRIOVISTARECREATIONCENTER_cropped.jpg	137.7034	23.4372
-STP_FITZGERALDTHEATER_cropped.jpg	142.1972	58.9557	cielab_STP_FITZGERALDTHEATER_cropped.jpg	137.7034	23.4372
-STP_FORDDAMSCENICOVERLOOK_cropped.jpg	105.9517	72.5193	cielab_STP_FORDDAMSCENICOVERLOOK_cropped.jpg	137.7034	23.4372
-STP_FORDLITTLELEAGUEFIELD_cropped.jpg	156.7600	63.3618	cielab_STP_FORDLITTLELEAGUEFIELD_cropped.jpg	137.7034	23.4372
-STP_FORTSNELLING2_cropped.jpg	175.8839	43.0810	cielab_STP_FORTSNELLING2_cropped.jpg	137.7034	23.4372
-STP_FSCOTTFITZGERALDSTATUE_cropped.jpg	107.5670	46.2989	cielab_STP_FSCOTTFITZGERALDSTATUE_cropped.jpg	137.7034	23.4372
-STP_GERMANICAMERICANINSTITUTE_cropped.jpg	150.9098	69.7354	cielab_STP_GERMANICAMERICANINSTITUTE_cropped.jpg	137.7034	23.4372
-STP_GIBBSFARM_cropped.jpg	136.5306	56.9672	cielab_STP_GIBBSFARM_cropped.jpg	137.7034	23.4372
-STP_GOVERNORSRESIDENCE_cropped.jpg	111.8592	68.1070	cielab_STP_GOVERNORSRESIDENCE_cropped.jpg	137.7034	23.4372
-STP_GRANDAVENUETATTOO_cropped.jpg	109.0875	74.7545	cielab_STP_GRANDAVENUETATTOO_cropped.jpg	137.7034	23.4372
-STP_GRANDOLECREAMERY_cropped.jpg	146.9941	61.3914	cielab_STP_GRANDOLECREAMERY_cropped.jpg	137.7034	23.4372
-STP_GRANDSTAND_cropped.jpg	121.3481	72.4031	cielab_STP_GRANDSTAND_cropped.jpg	137.7034	23.4372
-STP_GRANDVIEWTHEATRE_cropped.jpg	147.2090	76.8176	cielab_STP_GRANDVIEWTHEATRE_cropped.jpg	137.7034	23.4372
-STP_GREENLINE_cropped.jpg	145.3777	78.9141	cielab_STP_GREENLINE_cropped.jpg	137.7034	23.4372
-STP_GROVELANDRECREATIONCENTER_cropped.jpg	96.1020	50.1498	cielab_STP_GROVELANDRECREATIONCENTER_cropped.jpg	137.7034	23.4372
-STP_HAMLINEUNIVERSITY_cropped.jpg	128.3603	64.7152	cielab_STP_HAMLINEUNIVERSITY_cropped.jpg	137.7034	23.4372
-STP_HARRIETISLANDPARK_cropped.jpg	114.5947	56.5862	cielab_STP_HARRIETISLANDPARK_cropped.jpg	137.7034	23.4372
-STP_HARRIETISLANDPAVILION_cropped.jpg	114.0052	48.9627	cielab_STP_HARRIETISLANDPAVILION_cropped.jpg	137.7034	23.4372
-STP_HERBBROOKSSTATUE_cropped.jpg	135.8188	66.0946	cielab_STP_HERBBROOKSSTATUE_cropped.jpg	137.7034	23.4372
-STP_HIGHBRIDGEOVERLOOK_cropped.jpg	155.1700	79.5246	cielab_STP_HIGHBRIDGEOVERLOOK_cropped.jpg	137.7034	23.4372
-STP_HIGHBRIDGE_cropped.jpg	120.0342	51.5454	cielab_STP_HIGHBRIDGE_cropped.jpg	137.7034	23.4372
-STP_HIGHLANDPARKCRISPANDGREEN_cropped.jpg	120.4873	43.6093	cielab_STP_HIGHLANDPARKCRISPANDGREEN_cropped.jpg	137.7034	23.4372
-STP_HISTORICALAIRWAYBEACON_cropped.jpg	143.2112	58.7975	cielab_STP_HISTORICALAIRWAYBEACON_cropped.jpg	137.7034	23.4372
-STP_HISTORICDISTRICTBEDANDBREA_cropped.jpg	128.5503	56.9620	cielab_STP_HISTORICDISTRICTBEDANDBREA_cropped.jpg	137.7034	23.4372
-STP_HORACEMANNPLAYGROUND_cropped.jpg	142.1861	51.8432	cielab_STP_HORACEMANNPLAYGROUND_cropped.jpg	137.7034	23.4372
-STP_INDIANMOUNDSPARKENTRANCE_cropped.jpg	132.1016	54.5298	cielab_STP_INDIANMOUNDSPARKENTRANCE_cropped.jpg	137.7034	23.4372
-STP_IRVINEPARKGAZEBO_cropped.jpg	120.5147	57.1559	cielab_STP_IRVINEPARKGAZEBO_cropped.jpg	137.7034	23.4372
-STP_IRVINEPARK_cropped.jpg	107.3823	54.9546	cielab_STP_IRVINEPARK_cropped.jpg	137.7034	23.4372
-STP_JIMMYLEEPLAYAREA_cropped.jpg	165.0776	62.0631	cielab_STP_JIMMYLEEPLAYAREA_cropped.jpg	137.7034	23.4372
-STP_KELLOGGMALLPARK_cropped.jpg	103.2719	59.1206	cielab_STP_KELLOGGMALLPARK_cropped.jpg	137.7034	23.4372
-STP_KOREANWARMEMORIAL1_cropped.jpg	133.0605	64.0306	cielab_STP_KOREANWARMEMORIAL1_cropped.jpg	137.7034	23.4372
-STP_KOREANWARMEMORIAL2_cropped.jpg	128.1089	65.3279	cielab_STP_KOREANWARMEMORIAL2_cropped.jpg	137.7034	23.4372
-STP_KOWALSKISONGRAND_cropped.jpg	134.7542	66.8484	cielab_STP_KOWALSKISONGRAND_cropped.jpg	137.7034	23.4372
-STP_LAFAYETTEBRIDGE_cropped.jpg	109.7167	53.3633	cielab_STP_LAFAYETTEBRIDGE_cropped.jpg	137.7034	23.4372
-STP_LARGEGREENCHAIR_cropped.jpg	108.2617	68.8766	cielab_STP_LARGEGREENCHAIR_cropped.jpg	137.7034	23.4372
-STP_LEIFERIKSONMEMORIAL_cropped.jpg	148.7323	71.0742	cielab_STP_LEIFERIKSONMEMORIAL_cropped.jpg	137.7034	23.4372
-STP_LINUSANDSALLY_cropped.jpg	134.2828	61.0164	cielab_STP_LINUSANDSALLY_cropped.jpg	137.7034	23.4372
-STP_MACALESTEROLDMAIN_cropped.jpg	123.8919	52.0299	cielab_STP_MACALESTEROLDMAIN_cropped.jpg	137.7034	23.4372
-STP_MANATTANBUILDING_cropped.jpg	103.0971	55.9156	cielab_STP_MANATTANBUILDING_cropped.jpg	137.7034	23.4372
-STP_MARTINLUTHERKINGRECREATION_cropped.jpg	138.1395	72.5726	cielab_STP_MARTINLUTHERKINGRECREATION_cropped.jpg	137.7034	23.4372
-STP_MCQUILLANPARK_cropped.jpg	140.1040	75.4283	cielab_STP_MCQUILLANPARK_cropped.jpg	137.7034	23.4372
-STP_METROPOLITANSTATEUNIVERSIT_cropped.jpg	132.6455	54.9370	cielab_STP_METROPOLITANSTATEUNIVERSIT_cropped.jpg	137.7034	23.4372
-STP_MINNESOTABUILDING_cropped.jpg	140.9615	55.9787	cielab_STP_MINNESOTABUILDING_cropped.jpg	137.7034	23.4372
-STP_MNDNR_cropped.jpg	126.9360	80.9510	cielab_STP_MNDNR_cropped.jpg	137.7034	23.4372
-STP_MOSCOWONTHEHILL_cropped.jpg	147.9220	69.6565	cielab_STP_MOSCOWONTHEHILL_cropped.jpg	137.7034	23.4372
-STP_MOUNDSPARK_cropped.jpg	112.7902	81.6015	cielab_STP_MOUNDSPARK_cropped.jpg	137.7034	23.4372
-STP_NATHANHALESTATUE_cropped.jpg	121.3259	64.3386	cielab_STP_NATHANHALESTATUE_cropped.jpg	137.7034	23.4372
-STP_NINASCOFFEE_cropped.jpg	103.4503	68.6170	cielab_STP_NINASCOFFEE_cropped.jpg	137.7034	23.4372
-STP_NORMANBORLAUGSTATUE_cropped.jpg	102.5621	76.3896	cielab_STP_NORMANBORLAUGSTATUE_cropped.jpg	137.7034	23.4372
-STP_NORTHPOLEEXPRESS_cropped.jpg	169.5619	59.6757	cielab_STP_NORTHPOLEEXPRESS_cropped.jpg	137.7034	23.4372
-STP_OAKLANDCEMETERY_cropped.jpg	144.0802	53.4682	cielab_STP_OAKLANDCEMETERY_cropped.jpg	137.7034	23.4372
-STP_OSHAUGHNESSYSTADIUM_cropped.jpg	105.0636	61.3894	cielab_STP_OSHAUGHNESSYSTADIUM_cropped.jpg	137.7034	23.4372
-STP_OURLADYOFVICTORYCHAPEL_cropped.jpg	124.6709	52.8256	cielab_STP_OURLADYOFVICTORYCHAPEL_cropped.jpg	137.7034	23.4372
-STP_PATRICKMCGOVERNSPUB_cropped.jpg	131.5872	74.8540	cielab_STP_PATRICKMCGOVERNSPUB_cropped.jpg	137.7034	23.4372
-STP_PEANUTSCHARACTER_cropped.jpg	133.1482	66.7590	cielab_STP_PEANUTSCHARACTER_cropped.jpg	137.7034	23.4372
-STP_PEZVELASTATUE_cropped.jpg	112.9456	66.7365	cielab_STP_PEZVELASTATUE_cropped.jpg	137.7034	23.4372
-STP_PHALENREGIONALPARK_cropped.jpg	124.2132	64.5061	cielab_STP_PHALENREGIONALPARK_cropped.jpg	137.7034	23.4372
-STP_QUADRIGA_cropped.jpg	119.4525	53.9197	cielab_STP_QUADRIGA_cropped.jpg	137.7034	23.4372
-STP_RAMSAYCOUNTYCOURTHOUSE_cropped.jpg	100.2208	52.1133	cielab_STP_RAMSAYCOUNTYCOURTHOUSE_cropped.jpg	137.7034	23.4372
-STP_RASPBERRYISLAND_cropped.jpg	140.0665	54.1368	cielab_STP_RASPBERRYISLAND_cropped.jpg	137.7034	23.4372
-STP_RICEPARK_cropped.jpg	136.1837	48.4023	cielab_STP_RICEPARK_cropped.jpg	137.7034	23.4372
-STP_RICESTREETLIBRARY_cropped.jpg	139.7358	61.9218	cielab_STP_RICESTREETLIBRARY_cropped.jpg	137.7034	23.4372
-STP_SAINTPAULHOTEL_cropped.jpg	115.4037	55.1041	cielab_STP_SAINTPAULHOTEL_cropped.jpg	137.7034	23.4372
-STP_SAINTPAULSEMINARY_cropped.jpg	99.2969	74.1927	cielab_STP_SAINTPAULSEMINARY_cropped.jpg	137.7034	23.4372
-STP_SALUTBARAMERICAIN_cropped.jpg	121.8225	81.6942	cielab_STP_SALUTBARAMERICAIN_cropped.jpg	137.7034	23.4372
-STP_SCHROEDERANDLUCY_cropped.jpg	142.9641	67.9265	cielab_STP_SCHROEDERANDLUCY_cropped.jpg	137.7034	23.4372
-STP_SEAFOAMSTADIUM_cropped.jpg	142.7927	71.2949	cielab_STP_SEAFOAMSTADIUM_cropped.jpg	137.7034	23.4372
-STP_SOLDIERSANDSAILORSSTATUE_cropped.jpg	137.1433	47.4199	cielab_STP_SOLDIERSANDSAILORSSTATUE_cropped.jpg	137.7034	23.4372
-STP_STASSENBUILDING_cropped.jpg	143.3901	61.8403	cielab_STP_STASSENBUILDING_cropped.jpg	137.7034	23.4372
-STP_STATECAPITOLHUBERTHHUMPHRE_cropped.jpg	121.2044	69.3996	cielab_STP_STATECAPITOLHUBERTHHUMPHRE_cropped.jpg	137.7034	23.4372
-STP_STATEFAIRSNOOPY_cropped.jpg	115.7520	48.7154	cielab_STP_STATEFAIRSNOOPY_cropped.jpg	137.7034	23.4372
-STP_STCATHERINES_cropped.jpg	125.3898	58.6308	cielab_STP_STCATHERINES_cropped.jpg	137.7034	23.4372
-STP_STFRANCISCOMOCONSERVATORY_cropped.jpg	104.8363	76.1115	cielab_STP_STFRANCISCOMOCONSERVATORY_cropped.jpg	137.7034	23.4372
-STP_STJOHNTHEEVANGELISTEPISCOP_cropped.jpg	120.0540	57.9200	cielab_STP_STJOHNTHEEVANGELISTEPISCOP_cropped.jpg	137.7034	23.4372
-STP_STONESTATUE_cropped.jpg	159.1032	77.8964	cielab_STP_STONESTATUE_cropped.jpg	137.7034	23.4372
-STP_STPAULACADEMYANDSUMMITSCHO_cropped.jpg	121.8734	70.5746	cielab_STP_STPAULACADEMYANDSUMMITSCHO_cropped.jpg	137.7034	23.4372
-STP_STPAULBREWING_cropped.jpg	140.8772	63.3984	cielab_STP_STPAULBREWING_cropped.jpg	137.7034	23.4372
-STP_STPAULCOLLEGE_cropped.jpg	118.2754	50.4069	cielab_STP_STPAULCOLLEGE_cropped.jpg	137.7034	23.4372
-STP_STPAULFARMERSMARKET_cropped.jpg	135.1517	80.6770	cielab_STP_STPAULFARMERSMARKET_cropped.jpg	137.7034	23.4372
-STP_STPAULPOLICEDEPARTMENT_cropped.jpg	120.3653	75.6086	cielab_STP_STPAULPOLICEDEPARTMENT_cropped.jpg	137.7034	23.4372
-STP_STPAULSUNITEDCHURCHOFCHRIS_cropped.jpg	128.8863	49.7912	cielab_STP_STPAULSUNITEDCHURCHOFCHRIS_cropped.jpg	137.7034	23.4372
-STP_STTHOMASSTATUE_cropped.jpg	139.1452	74.0472	cielab_STP_STTHOMASSTATUE_cropped.jpg	137.7034	23.4372
-STP_STTHOMAS_cropped.jpg	130.6982	57.8095	cielab_STP_STTHOMAS_cropped.jpg	137.7034	23.4372
-STP_SUMMITAVENUE_cropped.jpg	138.5316	68.4974	cielab_STP_SUMMITAVENUE_cropped.jpg	137.7034	23.4372
-STP_SUMMITHILLCOMMUNITYGARDEN_cropped.jpg	163.4503	63.9913	cielab_STP_SUMMITHILLCOMMUNITYGARDEN_cropped.jpg	137.7034	23.4372
-STP_SUMMITMANORRECEPTIONHOUSE_cropped.jpg	125.2030	82.6194	cielab_STP_SUMMITMANORRECEPTIONHOUSE_cropped.jpg	137.7034	23.4372
-STP_SUMMITOVERLOOKPARK_cropped.jpg	137.1748	67.4504	cielab_STP_SUMMITOVERLOOKPARK_cropped.jpg	137.7034	23.4372
-STP_SUNKENGARDENCOMOCONSERVATO_cropped.jpg	109.6659	81.4382	cielab_STP_SUNKENGARDENCOMOCONSERVATO_cropped.jpg	137.7034	23.4372
-STP_THELEXINGTON_cropped.jpg	121.9127	73.5613	cielab_STP_THELEXINGTON_cropped.jpg	137.7034	23.4372
-STP_THEUNIVERSITYCLUBOFSAINTPA_cropped.jpg	103.4189	52.0771	cielab_STP_THEUNIVERSITYCLUBOFSAINTPA_cropped.jpg	137.7034	23.4372
-STP_THIRTYSIXCAFE_cropped.jpg	193.3630	38.8999	cielab_STP_THIRTYSIXCAFE_cropped.jpg	137.7034	23.4372
-STP_TOWNSQUARETOWER_cropped.jpg	165.6527	72.5316	cielab_STP_TOWNSQUARETOWER_cropped.jpg	137.7034	23.4372
-STP_TREASUREISLANDCENTER_cropped.jpg	133.0953	62.9025	cielab_STP_TREASUREISLANDCENTER_cropped.jpg	137.7034	23.4372
-STP_UMNPROUDCHAIR_cropped.jpg	107.8862	59.9333	cielab_STP_UMNPROUDCHAIR_cropped.jpg	137.7034	23.4372
-STP_UMNWATERTOWER_cropped.jpg	140.7206	36.5196	cielab_STP_UMNWATERTOWER_cropped.jpg	137.7034	23.4372
-STP_UNIONDEPOTEXTERIOR_cropped.jpg	170.5227	63.2998	cielab_STP_UNIONDEPOTEXTERIOR_cropped.jpg	137.7034	23.4372
-STP_VIETNAMVETERANSMEMORIAL_cropped.jpg	129.4670	80.7436	cielab_STP_VIETNAMVETERANSMEMORIAL_cropped.jpg	137.7034	23.4372
-STP_WABASHASTREETBRIDGE_cropped.jpg	129.7326	38.4115	cielab_STP_WABASHASTREETBRIDGE_cropped.jpg	137.7034	23.4372
-STP_WABASHASTREETCAVESSNOOPY_cropped.jpg	135.9563	55.6545	cielab_STP_WABASHASTREETCAVESSNOOPY_cropped.jpg	137.7034	23.4372
-STP_WABASHASTREETCAVES_cropped.jpg	138.4212	51.9808	cielab_STP_WABASHASTREETCAVES_cropped.jpg	137.7034	23.4372
-STP_WELLSFARGOBUILDING2_cropped.jpg	125.0762	49.6178	cielab_STP_WELLSFARGOBUILDING2_cropped.jpg	137.7034	23.4372
-STP_WESTERNSCULPTUREPARK1_cropped.jpg	128.3988	48.2265	cielab_STP_WESTERNSCULPTUREPARK1_cropped.jpg	137.7034	23.4372
-STP_WESTERNSCULPTUREPARK2_cropped.jpg	102.2189	62.2705	cielab_STP_WESTERNSCULPTUREPARK2_cropped.jpg	137.7034	23.4372
-STP_WESTERNSCULPTUREPARK3_cropped.jpg	132.1882	64.2194	cielab_STP_WESTERNSCULPTUREPARK3_cropped.jpg	137.7034	23.4372
-STP_WESTERNSCULPTUREPARK4_cropped.jpg	143.7563	51.7897	cielab_STP_WESTERNSCULPTUREPARK4_cropped.jpg	137.7034	23.4372
-STP_WESTERNSCULPTUREPARK5_cropped.jpg	126.5807	69.7994	cielab_STP_WESTERNSCULPTUREPARK5_cropped.jpg	137.7034	23.4372
-STP_WORLDWARIMEMORIAL_cropped.jpg	110.5339	80.8535	cielab_STP_WORLDWARIMEMORIAL_cropped.jpg	137.7034	23.4372
-STP_YACHTCLUB_cropped.jpg	113.9924	49.6701	cielab_STP_YACHTCLUB_cropped.jpg	137.7034	23.4372
-StateTheatreAnnArborMarquee_cropped.jpg	51.4949	71.5194	cielab_StateTheatreAnnArborMarquee_cropped.jpg	137.7034	23.4372
-Sullivan_250_Marquette_cropped.jpg	138.9147	65.0226	cielab_Sullivan_250_Marquette_cropped.jpg	137.7034	23.4372
-Sullivan_430OakGrove_cropped.jpg	139.0684	61.5558	cielab_Sullivan_430OakGrove_cropped.jpg	137.7034	23.4372
-Sullivan_5th_Street_Toewrs_cropped.jpg	146.8362	61.5526	cielab_Sullivan_5th_Street_Toewrs_cropped.jpg	137.7034	23.4372
-Sullivan_ATT_Tower_cropped.jpg	159.9024	60.9845	cielab_Sullivan_ATT_Tower_cropped.jpg	137.7034	23.4372
-Sullivan_Basillica_cropped.jpg	177.0593	45.2400	cielab_Sullivan_Basillica_cropped.jpg	137.7034	23.4372
-Sullivan_BrittsPub_cropped.jpg	149.6089	65.1214	cielab_Sullivan_BrittsPub_cropped.jpg	137.7034	23.4372
-Sullivan_ChicagoLiquior_cropped.jpg	157.2627	54.4683	cielab_Sullivan_ChicagoLiquior_cropped.jpg	137.7034	23.4372
-Sullivan_Daytons_cropped.jpg	121.0580	62.9444	cielab_Sullivan_Daytons_cropped.jpg	137.7034	23.4372
-Sullivan_FarmersMarketChicken_cropped.jpg	130.6547	67.6111	cielab_Sullivan_FarmersMarketChicken_cropped.jpg	137.7034	23.4372
-Sullivan_FarmersMarketMural_cropped.jpg	141.3117	54.6096	cielab_Sullivan_FarmersMarketMural_cropped.jpg	137.7034	23.4372
-Sullivan_Foshay_Enterance_cropped.jpg	135.5530	47.9386	cielab_Sullivan_Foshay_Enterance_cropped.jpg	137.7034	23.4372
-Sullivan_HennepinTheater_cropped.jpg	119.3146	72.5618	cielab_Sullivan_HennepinTheater_cropped.jpg	137.7034	23.4372
-Sullivan_LoringBridge_cropped.jpg	136.6793	54.2532	cielab_Sullivan_LoringBridge_cropped.jpg	137.7034	23.4372
-Sullivan_LoringGreenwayEnteran_cropped.jpg	120.7429	63.2341	cielab_Sullivan_LoringGreenwayEnteran_cropped.jpg	137.7034	23.4372
-Sullivan_LoringPark1_cropped.jpg	132.2748	66.3011	cielab_Sullivan_LoringPark1_cropped.jpg	137.7034	23.4372
-Sullivan_LoringPark2_cropped.jpg	144.4616	64.3469	cielab_Sullivan_LoringPark2_cropped.jpg	137.7034	23.4372
-Sullivan_LoringPark3_cropped.jpg	104.7571	53.6264	cielab_Sullivan_LoringPark3_cropped.jpg	137.7034	23.4372
-Sullivan_MPLS_WholeFoods_cropped.jpg	149.7002	69.6803	cielab_Sullivan_MPLS_WholeFoods_cropped.jpg	137.7034	23.4372
-Sullivan_Mackenzie_cropped.jpg	129.9763	66.6136	cielab_Sullivan_Mackenzie_cropped.jpg	137.7034	23.4372
-Sullivan_Marquette_Cancer_Surv_cropped.jpg	142.1086	52.1757	cielab_Sullivan_Marquette_Cancer_Surv_cropped.jpg	137.7034	23.4372
-Sullivan_MaryTylerMoore_cropped.jpg	133.9270	66.6341	cielab_Sullivan_MaryTylerMoore_cropped.jpg	137.7034	23.4372
-Sullivan_MidtownMarket_cropped.jpg	159.4598	46.9950	cielab_Sullivan_MidtownMarket_cropped.jpg	137.7034	23.4372
-Sullivan_MusicMural_cropped.jpg	166.1007	53.7452	cielab_Sullivan_MusicMural_cropped.jpg	137.7034	23.4372
-Sullivan_NicolletCaribou_cropped.jpg	122.6366	73.5214	cielab_Sullivan_NicolletCaribou_cropped.jpg	137.7034	23.4372
-Sullivan_NicolletGlobe1_cropped.jpg	109.4300	68.2140	cielab_Sullivan_NicolletGlobe1_cropped.jpg	137.7034	23.4372
-Sullivan_NicolletGlobe2_cropped.jpg	125.1911	66.7344	cielab_Sullivan_NicolletGlobe2_cropped.jpg	137.7034	23.4372
-Sullivan_NicolletSkyway_cropped.jpg	149.0356	53.8894	cielab_Sullivan_NicolletSkyway_cropped.jpg	137.7034	23.4372
-Sullivan_NicolletStation_cropped.jpg	117.8040	74.8921	cielab_Sullivan_NicolletStation_cropped.jpg	137.7034	23.4372
-Sullivan_OrangeLineSign_cropped.jpg	119.4342	72.3008	cielab_Sullivan_OrangeLineSign_cropped.jpg	137.7034	23.4372
-Sullivan_Orpheium_cropped.jpg	128.3517	73.9760	cielab_Sullivan_Orpheium_cropped.jpg	137.7034	23.4372
-Sullivan_PeavyClock_cropped.jpg	122.4747	70.0830	cielab_Sullivan_PeavyClock_cropped.jpg	137.7034	23.4372
-Sullivan_RBC_Gateway_cropped.jpg	153.6621	50.6064	cielab_Sullivan_RBC_Gateway_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden10_cropped.jpg	142.2554	61.0176	cielab_Sullivan_SculptureGarden10_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden11_cropped.jpg	125.0901	84.4101	cielab_Sullivan_SculptureGarden11_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden12_cropped.jpg	147.1843	69.7597	cielab_Sullivan_SculptureGarden12_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden1_cropped.jpg	127.0016	56.1532	cielab_Sullivan_SculptureGarden1_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden2_cropped.jpg	107.0228	56.8863	cielab_Sullivan_SculptureGarden2_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden3_cropped.jpg	115.2695	58.3930	cielab_Sullivan_SculptureGarden3_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden4_cropped.jpg	127.8327	54.7189	cielab_Sullivan_SculptureGarden4_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden5_cropped.jpg	119.4231	57.5763	cielab_Sullivan_SculptureGarden5_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden6_cropped.jpg	109.7381	62.7562	cielab_Sullivan_SculptureGarden6_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden7_cropped.jpg	119.2322	51.1102	cielab_Sullivan_SculptureGarden7_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGarden9_cropped.jpg	145.9901	65.9913	cielab_Sullivan_SculptureGarden9_cropped.jpg	137.7034	23.4372
-Sullivan_SculptureGardenCherry_cropped.jpg	149.0925	54.0749	cielab_Sullivan_SculptureGardenCherry_cropped.jpg	137.7034	23.4372
-Sullivan_Skyway_cropped.jpg	138.0024	62.0101	cielab_Sullivan_Skyway_cropped.jpg	137.7034	23.4372
-Sullivan_SooLineBuilding_cropped.jpg	120.3031	70.0969	cielab_Sullivan_SooLineBuilding_cropped.jpg	137.7034	23.4372
-Sullivan_StThomas_cropped.jpg	128.1242	55.4010	cielab_Sullivan_StThomas_cropped.jpg	137.7034	23.4372
-Sullivan_Target_cropped.jpg	135.2043	57.5366	cielab_Sullivan_Target_cropped.jpg	137.7034	23.4372
-Sullivan_TheNewsRoom_cropped.jpg	129.8356	63.5604	cielab_Sullivan_TheNewsRoom_cropped.jpg	137.7034	23.4372
-Sullivan_ThirdPrecinct_cropped.jpg	131.2565	63.3333	cielab_Sullivan_ThirdPrecinct_cropped.jpg	137.7034	23.4372
-Sullivan_UptownCrown_cropped.jpg	135.3646	69.4103	cielab_Sullivan_UptownCrown_cropped.jpg	137.7034	23.4372
-Sullivan_WCCO_cropped.jpg	118.2943	69.1178	cielab_Sullivan_WCCO_cropped.jpg	137.7034	23.4372
-Sullivan_WellsFargoCenter_cropped.jpg	124.2927	62.2197	cielab_Sullivan_WellsFargoCenter_cropped.jpg	137.7034	23.4372
-VT-01-RU40-001_cropped.jpg	128.8074	56.7656	cielab_VT-01-RU40-001_cropped.jpg	137.7034	23.4372
-Wells_Fargo_Center,_Sacramento_cropped.jpg	148.2351	57.4739	cielab_Wells_Fargo_Center,_Sacramento_cropped.jpg	137.7034	23.4372
-Wiegers_Kathryn_3_cropped.jpg	111.7683	49.7289	cielab_Wiegers_Kathryn_3_cropped.jpg	137.7034	23.4372
-cincyobservatory_thornton013_cropped.jpg	190.7191	65.6818	cielab_cincyobservatory_thornton013_cropped.jpg	137.7034	23.4372
-clock-tower-michigan-state-uni_cropped.jpg	138.3819	52.9069	cielab_clock-tower-michigan-state-uni_cropped.jpg	137.7034	23.4372
-dom.NWS_.WoodyAllenMural.3.26._cropped.jpg	137.9804	65.1337	cielab_dom.NWS_.WoodyAllenMural.3.26._cropped.jpg	137.7034	23.4372
-gettyimages-461049221a-1515707_cropped.jpg	139.1256	58.0351	cielab_gettyimages-461049221a-1515707_cropped.jpg	137.7034	23.4372
-iphone-pix-246_cropped.jpg	126.0795	65.8181	cielab_iphone-pix-246_cropped.jpg	137.7034	23.4372
-jpeg_large_202112291737-3d8f4a_cropped.jpg	148.2166	45.4758	cielab_jpeg_large_202112291737-3d8f4a_cropped.jpg	137.7034	23.4372
-large_cropped.jpg	130.6207	68.4474	cielab_large_cropped.jpg	137.7034	23.4372
-liberty-memorial008_cropped.jpg	143.4185	31.0719	cielab_liberty-memorial008_cropped.jpg	137.7034	23.4372
-monument_cropped.jpg	157.5736	61.3480	cielab_monument_cropped.jpg	137.7034	23.4372
-outside-you-actually_cropped.jpg	127.3172	67.4291	cielab_outside-you-actually_cropped.jpg	137.7034	23.4372
-photo1jpg_cropped.jpg	113.6458	61.2942	cielab_photo1jpg_cropped.jpg	137.7034	23.4372
-roadsidelandmarks1-1_cropped.jpg	141.7154	71.3442	cielab_roadsidelandmarks1-1_cropped.jpg	137.7034	23.4372
-twaincoverhouse_standard_cropped.jpg	114.8529	65.2822	cielab_twaincoverhouse_standard_cropped.jpg	137.7034	23.4372
-Pooled	132.1932	62.3785	Pooled	137.7034	23.4372
+20220509_184649-scaled (1)_cropped.jpg	145.0471	67.0678	cielab_20220509_184649-scaled (1)_cropped.jpg	140.7178	22.7154
+Alabama_State_Capitol_cropped.jpg	154.1685	64.3997	cielab_Alabama_State_Capitol_cropped.jpg	140.7178	22.7154
+Ann Arbor_cropped.jpg	137.9507	65.5660	cielab_Ann Arbor_cropped.jpg	140.7178	22.7154
+Arbor BLU_cropped.jpg	121.5875	70.6831	cielab_Arbor BLU_cropped.jpg	140.7178	22.7154
+Ard Godfrey House_cropped.jpg	103.6778	57.7153	cielab_Ard Godfrey House_cropped.jpg	140.7178	22.7154
+Boynton Health_cropped.jpg	136.1722	49.5474	cielab_Boynton Health_cropped.jpg	140.7178	22.7154
+Buchanan_ComoConservatory_cropped.jpg	157.6364	51.3823	cielab_Buchanan_ComoConservatory_cropped.jpg	140.7178	22.7154
+Buchanan_Fairgrounds_cropped.jpg	194.9396	66.2341	cielab_Buchanan_Fairgrounds_cropped.jpg	140.7178	22.7154
+Buchanan_JamesJHillHouse_cropped.jpg	132.3506	60.9761	cielab_Buchanan_JamesJHillHouse_cropped.jpg	140.7178	22.7154
+Buchanan_NYLifeEagle_cropped.jpg	131.9293	71.8555	cielab_Buchanan_NYLifeEagle_cropped.jpg	140.7178	22.7154
+Buchanan_StThomasCathedral_cropped.jpg	130.3456	70.2628	cielab_Buchanan_StThomasCathedral_cropped.jpg	140.7178	22.7154
+Capital City Market_cropped.jpg	102.6895	52.9030	cielab_Capital City Market_cropped.jpg	140.7178	22.7154
+Chez Olga_cropped.jpg	130.9989	87.7444	cielab_Chez Olga_cropped.jpg	140.7178	22.7154
+Children_s Museum of Indianapo_cropped.jpg	137.7482	55.0648	cielab_Children_s Museum of Indianapo_cropped.jpg	140.7178	22.7154
+Church of Scientology_cropped.jpg	167.6724	58.2262	cielab_Church of Scientology_cropped.jpg	140.7178	22.7154
+Cinderella_Castle_cropped.jpg	174.0721	47.6542	cielab_Cinderella_Castle_cropped.jpg	140.7178	22.7154
+Cinnabon Store_cropped.jpg	118.0787	64.9415	cielab_Cinnabon Store_cropped.jpg	140.7178	22.7154
+Cossetta_cropped.jpg	118.8163	66.0940	cielab_Cossetta_cropped.jpg	140.7178	22.7154
+Crazy Horse Monument SD_cropped.jpg	158.5197	44.2617	cielab_Crazy Horse Monument SD_cropped.jpg	140.7178	22.7154
+Crazy Horse_cropped.jpg	126.9312	41.0850	cielab_Crazy Horse_cropped.jpg	140.7178	22.7154
+Delicate Arch_cropped.jpg	133.5220	59.9253	cielab_Delicate Arch_cropped.jpg	140.7178	22.7154
+Depew Memorial Fountain_cropped.jpg	126.0418	66.3261	cielab_Depew Memorial Fountain_cropped.jpg	140.7178	22.7154
+Derham Hall_cropped.jpg	128.3417	45.9499	cielab_Derham Hall_cropped.jpg	140.7178	22.7154
+Devils Tower 2 WY_cropped.jpg	149.7275	54.4564	cielab_Devils Tower 2 WY_cropped.jpg	140.7178	22.7154
+Devils Tower 3 WY_cropped.jpg	100.6161	55.6957	cielab_Devils Tower 3 WY_cropped.jpg	140.7178	22.7154
+Devils Tower WY_cropped.jpg	140.0549	44.9450	cielab_Devils Tower WY_cropped.jpg	140.7178	22.7154
+Duke Paoa Kahanamoku Statue_cropped.jpg	113.6091	61.7728	cielab_Duke Paoa Kahanamoku Statue_cropped.jpg	140.7178	22.7154
+Eastcliff Mansion_cropped.jpg	150.4718	69.5055	cielab_Eastcliff Mansion_cropped.jpg	140.7178	22.7154
+Emiliano Zapata Statue_cropped.jpg	90.3987	67.9543	cielab_Emiliano Zapata Statue_cropped.jpg	140.7178	22.7154
+EnmXcUIW4AUweaQ_cropped.jpg	85.4973	48.0030	cielab_EnmXcUIW4AUweaQ_cropped.jpg	140.7178	22.7154
+F. Scott Fitzgerald House_cropped.jpg	93.1279	47.2677	cielab_F. Scott Fitzgerald House_cropped.jpg	140.7178	22.7154
+Fleming_Administration_Buildin_cropped.jpg	125.3040	65.1018	cielab_Fleming_Administration_Buildin_cropped.jpg	140.7178	22.7154
+Fort Snelling_cropped.jpg	175.8898	43.1235	cielab_Fort Snelling_cropped.jpg	140.7178	22.7154
+FoxTheatre_cropped.jpg	156.7870	66.4837	cielab_FoxTheatre_cropped.jpg	140.7178	22.7154
+Franklin Institute_cropped.jpg	157.2942	52.5911	cielab_Franklin Institute_cropped.jpg	140.7178	22.7154
+Fremont-Troll_cropped.jpg	119.1910	49.9383	cielab_Fremont-Troll_cropped.jpg	140.7178	22.7154
+Governor_s Palace_cropped.jpg	159.4067	49.0933	cielab_Governor_s Palace_cropped.jpg	140.7178	22.7154
+Grand Army of the Republic Bui_cropped.jpg	112.9442	66.2316	cielab_Grand Army of the Republic Bui_cropped.jpg	140.7178	22.7154
+Guthrie Theatre_cropped.jpg	143.0222	78.6101	cielab_Guthrie Theatre_cropped.jpg	140.7178	22.7154
+Holman_Field_cropped.jpg	113.3368	44.6552	cielab_Holman_Field_cropped.jpg	140.7178	22.7154
+Hoover Dam NV_cropped.jpg	129.3741	62.7245	cielab_Hoover Dam NV_cropped.jpg	140.7178	22.7154
+Huntington Bank Stadium_cropped.jpg	123.8774	59.7944	cielab_Huntington Bank Stadium_cropped.jpg	140.7178	22.7154
+Huntoon Park_cropped.jpg	130.5976	68.9054	cielab_Huntoon Park_cropped.jpg	140.7178	22.7154
+HussCenter_cropped.jpg	177.7505	70.9673	cielab_HussCenter_cropped.jpg	140.7178	22.7154
+IMG_3018-scaled_cropped.jpg	83.1921	74.5595	cielab_IMG_3018-scaled_cropped.jpg	140.7178	22.7154
+Ichel_AnniesParlour_cropped.jpg	133.6418	60.5854	cielab_Ichel_AnniesParlour_cropped.jpg	140.7178	22.7154
+Ichel_BlockMFlowers_cropped.jpg	117.0341	63.9413	cielab_Ichel_BlockMFlowers_cropped.jpg	140.7178	22.7154
+Ichel_BruininksHall_cropped.jpg	125.3431	43.7337	cielab_Ichel_BruininksHall_cropped.jpg	140.7178	22.7154
+Ichel_BuildingAndTowerStatue_cropped.jpg	136.8134	53.1401	cielab_Ichel_BuildingAndTowerStatue_cropped.jpg	140.7178	22.7154
+Ichel_CalebDDorrStatue_cropped.jpg	121.0593	77.7878	cielab_Ichel_CalebDDorrStatue_cropped.jpg	140.7178	22.7154
+Ichel_EarleBrownHouseStatue_cropped.jpg	155.6813	61.2553	cielab_Ichel_EarleBrownHouseStatue_cropped.jpg	140.7178	22.7154
+Ichel_EastHennepinAvenueBuildi_cropped.jpg	138.9063	54.9817	cielab_Ichel_EastHennepinAvenueBuildi_cropped.jpg	140.7178	22.7154
+Ichel_EcolabBuilding_cropped.jpg	151.6613	41.4024	cielab_Ichel_EcolabBuilding_cropped.jpg	140.7178	22.7154
+Ichel_EddyHallSculptures_cropped.jpg	100.8117	52.7926	cielab_Ichel_EddyHallSculptures_cropped.jpg	140.7178	22.7154
+Ichel_FirstCongregationalChurc_cropped.jpg	127.6512	61.0828	cielab_Ichel_FirstCongregationalChurc_cropped.jpg	140.7178	22.7154
+Ichel_FlorenceCourtStatue_cropped.jpg	130.9950	55.5806	cielab_Ichel_FlorenceCourtStatue_cropped.jpg	140.7178	22.7154
+Ichel_FolwellHall_cropped.jpg	132.7980	63.9918	cielab_Ichel_FolwellHall_cropped.jpg	140.7178	22.7154
+Ichel_FredLSmithHouseStatue_cropped.jpg	132.9145	57.0882	cielab_Ichel_FredLSmithHouseStatue_cropped.jpg	140.7178	22.7154
+Ichel_GoldMedalFlourBuilding_cropped.jpg	162.3553	62.2885	cielab_Ichel_GoldMedalFlourBuilding_cropped.jpg	140.7178	22.7154
+Ichel_GoldMedalParkSign_cropped.jpg	164.6522	56.6841	cielab_Ichel_GoldMedalParkSign_cropped.jpg	140.7178	22.7154
+Ichel_GuthrieTheater_cropped.jpg	124.3561	74.5924	cielab_Ichel_GuthrieTheater_cropped.jpg	140.7178	22.7154
+Ichel_HennepinCountyGovernment_cropped.jpg	150.1949	51.9778	cielab_Ichel_HennepinCountyGovernment_cropped.jpg	140.7178	22.7154
+Ichel_InternationalChristianUn_cropped.jpg	134.8150	69.7349	cielab_Ichel_InternationalChristianUn_cropped.jpg	140.7178	22.7154
+Ichel_JohnDudleyHouseStatue_cropped.jpg	163.0844	47.6608	cielab_Ichel_JohnDudleyHouseStatue_cropped.jpg	140.7178	22.7154
+Ichel_JonesHallSculpture_cropped.jpg	112.5448	50.2936	cielab_Ichel_JonesHallSculpture_cropped.jpg	140.7178	22.7154
+Ichel_LandmarkCenter_cropped.jpg	151.1841	42.6602	cielab_Ichel_LandmarkCenter_cropped.jpg	140.7178	22.7154
+Ichel_LoringParkGreenway_cropped.jpg	120.5383	64.2354	cielab_Ichel_LoringParkGreenway_cropped.jpg	140.7178	22.7154
+Ichel_LuterGageJohnsonStoreSta_cropped.jpg	121.1670	59.7372	cielab_Ichel_LuterGageJohnsonStoreSta_cropped.jpg	140.7178	22.7154
+Ichel_MainStreetBuildings_cropped.jpg	155.7042	58.0632	cielab_Ichel_MainStreetBuildings_cropped.jpg	140.7178	22.7154
+Ichel_ManLiftingWheatSackStatu_cropped.jpg	122.0579	76.9965	cielab_Ichel_ManLiftingWheatSackStatu_cropped.jpg	140.7178	22.7154
+Ichel_MinneapolisCourthouse_cropped.jpg	157.7010	60.8762	cielab_Ichel_MinneapolisCourthouse_cropped.jpg	140.7178	22.7154
+Ichel_MinnesotaHistoryCenter_cropped.jpg	146.1954	41.7244	cielab_Ichel_MinnesotaHistoryCenter_cropped.jpg	140.7178	22.7154
+Ichel_MoleculaStatue_cropped.jpg	107.3520	67.6182	cielab_Ichel_MoleculaStatue_cropped.jpg	140.7178	22.7154
+Ichel_MoosTower_cropped.jpg	137.4382	58.6630	cielab_Ichel_MoosTower_cropped.jpg	140.7178	22.7154
+Ichel_NewsRoom_cropped.jpg	153.7709	57.2422	cielab_Ichel_NewsRoom_cropped.jpg	140.7178	22.7154
+Ichel_NorthropAuditorium_cropped.jpg	164.6632	54.0120	cielab_Ichel_NorthropAuditorium_cropped.jpg	140.7178	22.7154
+Ichel_OctaviusBroughtonHouseSt_cropped.jpg	168.4233	62.0017	cielab_Ichel_OctaviusBroughtonHouseSt_cropped.jpg	140.7178	22.7154
+Ichel_Ordway_cropped.jpg	135.5976	62.6867	cielab_Ichel_Ordway_cropped.jpg	140.7178	22.7154
+Ichel_PeterLessHouseStatue_cropped.jpg	121.6992	54.3199	cielab_Ichel_PeterLessHouseStatue_cropped.jpg	140.7178	22.7154
+Ichel_PillsburyAMillStatue_cropped.jpg	116.9920	72.1276	cielab_Ichel_PillsburyAMillStatue_cropped.jpg	140.7178	22.7154
+Ichel_PillsburyLibrary_cropped.jpg	118.9347	55.9081	cielab_Ichel_PillsburyLibrary_cropped.jpg	140.7178	22.7154
+Ichel_PillsburyStatue_cropped.jpg	87.7619	75.3746	cielab_Ichel_PillsburyStatue_cropped.jpg	140.7178	22.7154
+Ichel_PrinceMural_cropped.jpg	147.6528	60.6877	cielab_Ichel_PrinceMural_cropped.jpg	140.7178	22.7154
+Ichel_ScienceMuseum_cropped.jpg	119.3148	56.9305	cielab_Ichel_ScienceMuseum_cropped.jpg	140.7178	22.7154
+Ichel_ShepardManufacturingComp_cropped.jpg	143.9246	64.0794	cielab_Ichel_ShepardManufacturingComp_cropped.jpg	140.7178	22.7154
+Ichel_StPaulCathedral_cropped.jpg	152.3726	52.2735	cielab_Ichel_StPaulCathedral_cropped.jpg	140.7178	22.7154
+Ichel_StPaulLibrary_cropped.jpg	144.2205	53.9615	cielab_Ichel_StPaulLibrary_cropped.jpg	140.7178	22.7154
+Ichel_StoneArchBridge_cropped.jpg	164.1181	64.7320	cielab_Ichel_StoneArchBridge_cropped.jpg	140.7178	22.7154
+Ichel_ThomasFAndrewsHouseStatu_cropped.jpg	124.9627	50.3656	cielab_Ichel_ThomasFAndrewsHouseStatu_cropped.jpg	140.7178	22.7154
+Ichel_UMNSign_cropped.jpg	102.7082	59.6714	cielab_Ichel_UMNSign_cropped.jpg	140.7178	22.7154
+Ichel_UptownLargeChairs_cropped.jpg	134.9951	66.7033	cielab_Ichel_UptownLargeChairs_cropped.jpg	140.7178	22.7154
+Ichel_VanCleveHouse_cropped.jpg	167.7041	60.3375	cielab_Ichel_VanCleveHouse_cropped.jpg	140.7178	22.7154
+Ichel_WashingtonAveBridge_cropped.jpg	109.7646	59.4750	cielab_Ichel_WashingtonAveBridge_cropped.jpg	140.7178	22.7154
+Ichel_WeismanArtMuseum_cropped.jpg	162.3848	57.5953	cielab_Ichel_WeismanArtMuseum_cropped.jpg	140.7178	22.7154
+Ichel_WinslowHouseHotelStatue_cropped.jpg	133.5907	67.6822	cielab_Ichel_WinslowHouseHotelStatue_cropped.jpg	140.7178	22.7154
+Ichel_WinthropSchoolEastHighSc_cropped.jpg	150.1961	68.1507	cielab_Ichel_WinthropSchoolEastHighSc_cropped.jpg	140.7178	22.7154
+Ichel_WoodburyFiskHouseStatue_cropped.jpg	118.0982	51.0837	cielab_Ichel_WoodburyFiskHouseStatue_cropped.jpg	140.7178	22.7154
+Ichel_XcelEnergyCenter_cropped.jpg	143.2396	69.5327	cielab_Ichel_XcelEnergyCenter_cropped.jpg	140.7178	22.7154
+Independence-Hall_cropped.jpg	154.9180	67.5157	cielab_Independence-Hall_cropped.jpg	140.7178	22.7154
+Indiana-Landmarks-Center_cropped.jpg	166.7309	68.3193	cielab_Indiana-Landmarks-Center_cropped.jpg	140.7178	22.7154
+John_J._Zampieri_State_Office__cropped.jpg	134.4945	71.0139	cielab_John_J._Zampieri_State_Office__cropped.jpg	140.7178	22.7154
+Kansas_City_Hall_cropped.jpg	150.8975	48.1427	cielab_Kansas_City_Hall_cropped.jpg	140.7178	22.7154
+LEGO Store_cropped.jpg	102.4749	59.2168	cielab_LEGO Store_cropped.jpg	140.7178	22.7154
+Lake Calhoun_cropped.jpg	120.1952	77.8714	cielab_Lake Calhoun_cropped.jpg	140.7178	22.7154
+Lake Mead NV_cropped.jpg	119.6513	62.1582	cielab_Lake Mead NV_cropped.jpg	140.7178	22.7154
+Landmark Plaza_cropped.jpg	142.9485	68.0733	cielab_Landmark Plaza_cropped.jpg	140.7178	22.7154
+Las Vegas Dome 2 NV_cropped.jpg	169.6752	50.2060	cielab_Las Vegas Dome 2 NV_cropped.jpg	140.7178	22.7154
+Las Vegas Dome NV_cropped.jpg	156.4345	62.5863	cielab_Las Vegas Dome NV_cropped.jpg	140.7178	22.7154
+Las Vegas Sign NV_cropped.jpg	138.6666	57.5243	cielab_Las Vegas Sign NV_cropped.jpg	140.7178	22.7154
+Light House Tybee Island GA_cropped.jpg	168.3253	29.6833	cielab_Light House Tybee Island GA_cropped.jpg	140.7178	22.7154
+Literati Bookstore_cropped.jpg	73.4750	57.5046	cielab_Literati Bookstore_cropped.jpg	140.7178	22.7154
+Louisiana_State_Capitol_cropped.jpg	157.1671	41.0748	cielab_Louisiana_State_Capitol_cropped.jpg	140.7178	22.7154
+MN Nice Cream_cropped.jpg	136.7043	50.9182	cielab_MN Nice Cream_cropped.jpg	140.7178	22.7154
+MPLS_AMERICANSWEDISHINSTITUTE_cropped.jpg	134.4897	55.5209	cielab_MPLS_AMERICANSWEDISHINSTITUTE_cropped.jpg	140.7178	22.7154
+MPLS_AMILLARTISTLOFTS_cropped.jpg	161.6750	61.4797	cielab_MPLS_AMILLARTISTLOFTS_cropped.jpg	140.7178	22.7154
+MPLS_ANTHONYCRAGGSCULPTURE_cropped.jpg	142.0849	63.0905	cielab_MPLS_ANTHONYCRAGGSCULPTURE_cropped.jpg	140.7178	22.7154
+MPLS_ARVONNEFRASERLIBRARY_cropped.jpg	137.9523	56.3389	cielab_MPLS_ARVONNEFRASERLIBRARY_cropped.jpg	140.7178	22.7154
+MPLS_ASTERCAFE_cropped.jpg	127.9990	63.6046	cielab_MPLS_ASTERCAFE_cropped.jpg	140.7178	22.7154
+MPLS_BASEBALLSTATUE_cropped.jpg	122.6043	59.6400	cielab_MPLS_BASEBALLSTATUE_cropped.jpg	140.7178	22.7154
+MPLS_BETHLEHEMBAPTISTCHURCH_cropped.jpg	141.0332	58.4200	cielab_MPLS_BETHLEHEMBAPTISTCHURCH_cropped.jpg	140.7178	22.7154
+MPLS_BOOMISLANDLIGHTHOUSE_cropped.jpg	135.3255	64.3478	cielab_MPLS_BOOMISLANDLIGHTHOUSE_cropped.jpg	140.7178	22.7154
+MPLS_CAMPBELLMITHUNTOWER_cropped.jpg	109.8440	40.1210	cielab_MPLS_CAMPBELLMITHUNTOWER_cropped.jpg	140.7178	22.7154
+MPLS_CARLSONSCHOOLOFMANAGEMENT_cropped.jpg	167.4783	62.0782	cielab_MPLS_CARLSONSCHOOLOFMANAGEMENT_cropped.jpg	140.7178	22.7154
+MPLS_CENTRALLUTHERANCHURCH_cropped.jpg	137.0702	73.8342	cielab_MPLS_CENTRALLUTHERANCHURCH_cropped.jpg	140.7178	22.7154
+MPLS_CHARLIEBROWN_cropped.jpg	113.5409	68.1285	cielab_MPLS_CHARLIEBROWN_cropped.jpg	140.7178	22.7154
+MPLS_CHILDRENSHOSPITAL_cropped.jpg	140.5843	67.1405	cielab_MPLS_CHILDRENSHOSPITAL_cropped.jpg	140.7178	22.7154
+MPLS_CITYHALLSTATUE_cropped.jpg	133.0850	53.3866	cielab_MPLS_CITYHALLSTATUE_cropped.jpg	140.7178	22.7154
+MPLS_COFFMANMEMORIALUNION_cropped.jpg	118.2395	61.9299	cielab_MPLS_COFFMANMEMORIALUNION_cropped.jpg	140.7178	22.7154
+MPLS_CRAFTCOUNCILBUILDING_cropped.jpg	153.2067	54.0091	cielab_MPLS_CRAFTCOUNCILBUILDING_cropped.jpg	140.7178	22.7154
+MPLS_DISAPPEARINGPEOPLESTATUES_cropped.jpg	142.0684	59.9685	cielab_MPLS_DISAPPEARINGPEOPLESTATUES_cropped.jpg	140.7178	22.7154
+MPLS_EDDYHALL_cropped.jpg	114.4174	63.9266	cielab_MPLS_EDDYHALL_cropped.jpg	140.7178	22.7154
+MPLS_ELEVENONTHERIVER_cropped.jpg	185.4774	54.1280	cielab_MPLS_ELEVENONTHERIVER_cropped.jpg	140.7178	22.7154
+MPLS_FATHERHENNEPINSTATUE_cropped.jpg	169.0020	67.5871	cielab_MPLS_FATHERHENNEPINSTATUE_cropped.jpg	140.7178	22.7154
+MPLS_FIRSTAVENUE_cropped.jpg	115.8750	92.7364	cielab_MPLS_FIRSTAVENUE_cropped.jpg	140.7178	22.7154
+MPLS_FLOYDOLSONSTATUE_cropped.jpg	116.1505	54.4533	cielab_MPLS_FLOYDOLSONSTATUE_cropped.jpg	140.7178	22.7154
+MPLS_FOLWELLHALLANGLE2_cropped.jpg	129.8851	63.2636	cielab_MPLS_FOLWELLHALLANGLE2_cropped.jpg	140.7178	22.7154
+MPLS_GENERALMILLS_cropped.jpg	107.5702	81.6085	cielab_MPLS_GENERALMILLS_cropped.jpg	140.7178	22.7154
+MPLS_GRADUATEHOTEL_cropped.jpg	121.0609	49.6962	cielab_MPLS_GRADUATEHOTEL_cropped.jpg	140.7178	22.7154
+MPLS_HENNEPINCOUNTYMEDICALCENT_cropped.jpg	134.8851	76.9427	cielab_MPLS_HENNEPINCOUNTYMEDICALCENT_cropped.jpg	140.7178	22.7154
+MPLS_IRONMIKESTATUE_cropped.jpg	139.2640	50.3335	cielab_MPLS_IRONMIKESTATUE_cropped.jpg	140.7178	22.7154
+MPLS_LYNDALEPARKGARDENS_cropped.jpg	142.8585	72.8174	cielab_MPLS_LYNDALEPARKGARDENS_cropped.jpg	140.7178	22.7154
+MPLS_MARIUCCIARENA_cropped.jpg	142.5458	56.9636	cielab_MPLS_MARIUCCIARENA_cropped.jpg	140.7178	22.7154
+MPLS_MARYTYLERMOORESTATUE_cropped.jpg	146.7894	73.4958	cielab_MPLS_MARYTYLERMOORESTATUE_cropped.jpg	140.7178	22.7154
+MPLS_MINNEAPOLISCENTRALLIBRARY_cropped.jpg	125.4605	58.0532	cielab_MPLS_MINNEAPOLISCENTRALLIBRARY_cropped.jpg	140.7178	22.7154
+MPLS_MINNEAPOLISCOLLEGE_cropped.jpg	99.3092	78.9877	cielab_MPLS_MINNEAPOLISCOLLEGE_cropped.jpg	140.7178	22.7154
+MPLS_MINNEAPOLISCONVENTIONCENT_cropped.jpg	135.5954	52.7267	cielab_MPLS_MINNEAPOLISCONVENTIONCENT_cropped.jpg	140.7178	22.7154
+MPLS_MINNEAPOLISINSTITUEOFART_cropped.jpg	148.7450	65.8808	cielab_MPLS_MINNEAPOLISINSTITUEOFART_cropped.jpg	140.7178	22.7154
+MPLS_NICOLLETISLANDINN_cropped.jpg	142.4635	67.7613	cielab_MPLS_NICOLLETISLANDINN_cropped.jpg	140.7178	22.7154
+MPLS_ORPHEUMTHEATER_cropped.jpg	154.8424	55.7814	cielab_MPLS_ORPHEUMTHEATER_cropped.jpg	140.7178	22.7154
+MPLS_PEAVEYPLAZA_cropped.jpg	118.4862	59.7920	cielab_MPLS_PEAVEYPLAZA_cropped.jpg	140.7178	22.7154
+MPLS_PIONEERSSTATUE_cropped.jpg	137.0101	60.8821	cielab_MPLS_PIONEERSSTATUE_cropped.jpg	140.7178	22.7154
+MPLS_PLATONICFIGURE_cropped.jpg	110.9033	63.4211	cielab_MPLS_PLATONICFIGURE_cropped.jpg	140.7178	22.7154
+MPLS_PRINCESTATUE_cropped.jpg	117.1807	56.8812	cielab_MPLS_PRINCESTATUE_cropped.jpg	140.7178	22.7154
+MPLS_PUBLICSERVICEBUILDING_cropped.jpg	139.2395	69.5973	cielab_MPLS_PUBLICSERVICEBUILDING_cropped.jpg	140.7178	22.7154
+MPLS_REGISCENTERFORTHEARTS_cropped.jpg	114.3831	53.9874	cielab_MPLS_REGISCENTERFORTHEARTS_cropped.jpg	140.7178	22.7154
+MPLS_RIVERSIDEPLAZA_cropped.jpg	147.7244	72.9457	cielab_MPLS_RIVERSIDEPLAZA_cropped.jpg	140.7178	22.7154
+MPLS_SPSTOWER_cropped.jpg	125.5468	61.6397	cielab_MPLS_SPSTOWER_cropped.jpg	140.7178	22.7154
+MPLS_STATETHEATER_cropped.jpg	117.0206	74.6502	cielab_MPLS_STATETHEATER_cropped.jpg	140.7178	22.7154
+MPLS_TARGETFIELD_cropped.jpg	130.2377	40.8739	cielab_MPLS_TARGETFIELD_cropped.jpg	140.7178	22.7154
+MPLS_THEARMORY_cropped.jpg	160.6312	62.1480	cielab_MPLS_THEARMORY_cropped.jpg	140.7178	22.7154
+MPLS_TJJONESMEMORIALLIBRARY_cropped.jpg	145.7137	75.6369	cielab_MPLS_TJJONESMEMORIALLIBRARY_cropped.jpg	140.7178	22.7154
+MPLS_USBANKPLAZA_cropped.jpg	118.8587	56.6400	cielab_MPLS_USBANKPLAZA_cropped.jpg	140.7178	22.7154
+MPLS_USBANKSTADIUM_cropped.jpg	98.4041	45.3666	cielab_MPLS_USBANKSTADIUM_cropped.jpg	140.7178	22.7154
+MPLS_VIKINGSLONGHOUSE_cropped.jpg	155.8792	79.2145	cielab_MPLS_VIKINGSLONGHOUSE_cropped.jpg	140.7178	22.7154
+MPLS_WALKERARTCENTER_cropped.jpg	165.0306	59.8943	cielab_MPLS_WALKERARTCENTER_cropped.jpg	140.7178	22.7154
+MPLS_WALTERLIBRARY_cropped.jpg	123.4341	72.1167	cielab_MPLS_WALTERLIBRARY_cropped.jpg	140.7178	22.7154
+MPLS_WELLSFARGO550TOWER_cropped.jpg	100.7568	58.8708	cielab_MPLS_WELLSFARGO550TOWER_cropped.jpg	140.7178	22.7154
+MPLS_WELLSFARGOCENTER_cropped.jpg	121.0340	70.9389	cielab_MPLS_WELLSFARGOCENTER_cropped.jpg	140.7178	22.7154
+MPLS_WILSONLIBRARY_cropped.jpg	126.5149	52.1946	cielab_MPLS_WILSONLIBRARY_cropped.jpg	140.7178	22.7154
+M_M_s Store_cropped.jpg	110.7566	71.9057	cielab_M_M_s Store_cropped.jpg	140.7178	22.7154
+Macalester College_cropped.jpg	128.1787	56.1350	cielab_Macalester College_cropped.jpg	140.7178	22.7154
+Mall of America_cropped.jpg	133.0745	55.5285	cielab_Mall of America_cropped.jpg	140.7178	22.7154
+Mark Twain House_cropped.jpg	114.8256	65.5003	cielab_Mark Twain House_cropped.jpg	140.7178	22.7154
+Marquette_Building_cropped.jpg	132.9060	73.2609	cielab_Marquette_Building_cropped.jpg	140.7178	22.7154
+Minnehaha-Falls_cropped.jpg	125.7245	66.4248	cielab_Minnehaha-Falls_cropped.jpg	140.7178	22.7154
+Minnesota Children_s Museum_cropped.jpg	132.8612	66.4595	cielab_Minnesota Children_s Museum_cropped.jpg	140.7178	22.7154
+Minnesota House of Representat_cropped.jpg	96.9472	74.4298	cielab_Minnesota House of Representat_cropped.jpg	140.7178	22.7154
+Monument to the Living_cropped.jpg	171.1413	62.2714	cielab_Monument to the Living_cropped.jpg	140.7178	22.7154
+Morrill Hall_cropped.jpg	120.5987	69.7770	cielab_Morrill Hall_cropped.jpg	140.7178	22.7154
+Mt Rushmore SD_cropped.jpg	154.6898	57.0513	cielab_Mt Rushmore SD_cropped.jpg	140.7178	22.7154
+Nickolodeon Universe_cropped.jpg	112.2081	62.8172	cielab_Nickolodeon Universe_cropped.jpg	140.7178	22.7154
+Oakland_City_Hall_(Oakland,_CA_cropped.jpg	147.5300	49.5878	cielab_Oakland_City_Hall_(Oakland,_CA_cropped.jpg	140.7178	22.7154
+Old State House_cropped.jpg	107.2193	53.8682	cielab_Old State House_cropped.jpg	140.7178	22.7154
+Otter’s Saloon_cropped.jpg	135.8575	62.4155	cielab_Otter’s Saloon_cropped.jpg	140.7178	22.7154
+Padelford-Riverboat_cropped.jpg	143.0386	55.7395	cielab_Padelford-Riverboat_cropped.jpg	140.7178	22.7154
+Palace of the Governors_cropped.jpg	138.3198	55.3272	cielab_Palace of the Governors_cropped.jpg	140.7178	22.7154
+Pike_Place_Market_cropped.jpg	144.7765	73.0345	cielab_Pike_Place_Market_cropped.jpg	140.7178	22.7154
+Projects_HealthyLiving_hero_cropped.jpg	124.5102	71.0157	cielab_Projects_HealthyLiving_hero_cropped.jpg	140.7178	22.7154
+Psycho Suzie_s_cropped.jpg	143.7083	70.3732	cielab_Psycho Suzie_s_cropped.jpg	140.7178	22.7154
+Pulp Mill Covered Bridge_cropped.jpg	136.9550	70.4756	cielab_Pulp Mill Covered Bridge_cropped.jpg	140.7178	22.7154
+Regions_Hospital_cropped.jpg	115.5572	59.9683	cielab_Regions_Hospital_cropped.jpg	140.7178	22.7154
+Rice Park Fountain_cropped.jpg	144.2745	54.2396	cielab_Rice Park Fountain_cropped.jpg	140.7178	22.7154
+River Centre_cropped.jpg	145.5617	54.1586	cielab_River Centre_cropped.jpg	140.7178	22.7154
+Rock _ Roll Hall of Fame_cropped.jpg	107.7739	59.5433	cielab_Rock _ Roll Hall of Fame_cropped.jpg	140.7178	22.7154
+Ryman Auditorium_cropped.jpg	127.3072	67.7114	cielab_Ryman Auditorium_cropped.jpg	140.7178	22.7154
+SE Washington Ave_cropped.jpg	125.6811	61.8946	cielab_SE Washington Ave_cropped.jpg	140.7178	22.7154
+STP_ALEXANDERRAMSEYHOUSE_cropped.jpg	119.4831	61.3468	cielab_STP_ALEXANDERRAMSEYHOUSE_cropped.jpg	140.7178	22.7154
+STP_ALLIANZFIELD_cropped.jpg	139.7130	71.0248	cielab_STP_ALLIANZFIELD_cropped.jpg	140.7178	22.7154
+STP_ALONZOHAUSERTHESOURCE_cropped.jpg	102.2564	59.4187	cielab_STP_ALONZOHAUSERTHESOURCE_cropped.jpg	140.7178	22.7154
+STP_BELLMUSEUM_cropped.jpg	120.8815	49.5449	cielab_STP_BELLMUSEUM_cropped.jpg	140.7178	22.7154
+STP_BRONZEBULLS_cropped.jpg	158.1653	64.0073	cielab_STP_BRONZEBULLS_cropped.jpg	140.7178	22.7154
+STP_BURBANKLIVINGSTONGRIGGSMAN_cropped.jpg	118.5407	67.6029	cielab_STP_BURBANKLIVINGSTONGRIGGSMAN_cropped.jpg	140.7178	22.7154
+STP_CANDYLAND_cropped.jpg	111.3319	62.8775	cielab_STP_CANDYLAND_cropped.jpg	140.7178	22.7154
+STP_CAPITOLBUILDING_cropped.jpg	130.3469	40.7042	cielab_STP_CAPITOLBUILDING_cropped.jpg	140.7178	22.7154
+STP_CARTYPARK_cropped.jpg	118.7489	40.9954	cielab_STP_CARTYPARK_cropped.jpg	140.7178	22.7154
+STP_CASSGILBERTMEMORIALPARK_cropped.jpg	115.3345	64.9908	cielab_STP_CASSGILBERTMEMORIALPARK_cropped.jpg	140.7178	22.7154
+STP_CATHEDRAL_cropped.jpg	142.0092	65.5055	cielab_STP_CATHEDRAL_cropped.jpg	140.7178	22.7154
+STP_CECILS_cropped.jpg	119.4385	58.9294	cielab_STP_CECILS_cropped.jpg	140.7178	22.7154
+STP_CHARLESLINDBERGHSTATUE_cropped.jpg	129.3850	65.8670	cielab_STP_CHARLESLINDBERGHSTATUE_cropped.jpg	140.7178	22.7154
+STP_CHILDRENS_cropped.jpg	153.2108	56.3350	cielab_STP_CHILDRENS_cropped.jpg	140.7178	22.7154
+STP_CHRISTOPHERCOLUMBUSSTATUE_cropped.jpg	119.8326	53.1191	cielab_STP_CHRISTOPHERCOLUMBUSSTATUE_cropped.jpg	140.7178	22.7154
+STP_CHURCHOFTHEASSUMPTION_cropped.jpg	125.9301	55.7284	cielab_STP_CHURCHOFTHEASSUMPTION_cropped.jpg	140.7178	22.7154
+STP_CITIESCHURCH_cropped.jpg	153.7708	66.6266	cielab_STP_CITIESCHURCH_cropped.jpg	140.7178	22.7154
+STP_CITYHALLHUBERHHUMPHREYSTAT_cropped.jpg	127.0770	59.8248	cielab_STP_CITYHALLHUBERHHUMPHREYSTAT_cropped.jpg	140.7178	22.7154
+STP_COCHRANPARKFOUNTAIN_cropped.jpg	112.4348	76.6248	cielab_STP_COCHRANPARKFOUNTAIN_cropped.jpg	140.7178	22.7154
+STP_DAVIDSONHOTEL_cropped.jpg	147.1601	67.7110	cielab_STP_DAVIDSONHOTEL_cropped.jpg	140.7178	22.7154
+STP_DEWDROPPOND_cropped.jpg	144.4691	74.7838	cielab_STP_DEWDROPPOND_cropped.jpg	140.7178	22.7154
+STP_DEWITTLIBRARY_cropped.jpg	116.3902	63.6550	cielab_STP_DEWITTLIBRARY_cropped.jpg	140.7178	22.7154
+STP_DOUBLETREEBYHILTONHOTEL_cropped.jpg	104.7181	60.7462	cielab_STP_DOUBLETREEBYHILTONHOTEL_cropped.jpg	140.7178	22.7154
+STP_ELRIOVISTARECREATIONCENTER_cropped.jpg	122.6922	68.1134	cielab_STP_ELRIOVISTARECREATIONCENTER_cropped.jpg	140.7178	22.7154
+STP_FORDDAMSCENICOVERLOOK_cropped.jpg	105.9173	72.7906	cielab_STP_FORDDAMSCENICOVERLOOK_cropped.jpg	140.7178	22.7154
+STP_FORDLITTLELEAGUEFIELD_cropped.jpg	156.7536	63.3892	cielab_STP_FORDLITTLELEAGUEFIELD_cropped.jpg	140.7178	22.7154
+STP_FORTSNELLING2_cropped.jpg	175.8898	43.1235	cielab_STP_FORTSNELLING2_cropped.jpg	140.7178	22.7154
+STP_FSCOTTFITZGERALDSTATUE_cropped.jpg	107.5521	46.6384	cielab_STP_FSCOTTFITZGERALDSTATUE_cropped.jpg	140.7178	22.7154
+STP_GERMANICAMERICANINSTITUTE_cropped.jpg	150.9052	69.8914	cielab_STP_GERMANICAMERICANINSTITUTE_cropped.jpg	140.7178	22.7154
+STP_GIBBSFARM_cropped.jpg	136.4859	57.5206	cielab_STP_GIBBSFARM_cropped.jpg	140.7178	22.7154
+STP_GOVERNORSRESIDENCE_cropped.jpg	111.8453	68.7179	cielab_STP_GOVERNORSRESIDENCE_cropped.jpg	140.7178	22.7154
+STP_GRANDAVENUETATTOO_cropped.jpg	109.0950	75.0142	cielab_STP_GRANDAVENUETATTOO_cropped.jpg	140.7178	22.7154
+STP_GRANDSTAND_cropped.jpg	121.3353	72.6546	cielab_STP_GRANDSTAND_cropped.jpg	140.7178	22.7154
+STP_GROVELANDRECREATIONCENTER_cropped.jpg	96.0891	50.4281	cielab_STP_GROVELANDRECREATIONCENTER_cropped.jpg	140.7178	22.7154
+STP_HAMLINEUNIVERSITY_cropped.jpg	128.3450	64.7881	cielab_STP_HAMLINEUNIVERSITY_cropped.jpg	140.7178	22.7154
+STP_HARRIETISLANDPARK_cropped.jpg	114.5923	56.9470	cielab_STP_HARRIETISLANDPARK_cropped.jpg	140.7178	22.7154
+STP_HARRIETISLANDPAVILION_cropped.jpg	113.9781	49.4009	cielab_STP_HARRIETISLANDPAVILION_cropped.jpg	140.7178	22.7154
+STP_HIGHBRIDGEOVERLOOK_cropped.jpg	155.1384	79.7911	cielab_STP_HIGHBRIDGEOVERLOOK_cropped.jpg	140.7178	22.7154
+STP_HIGHBRIDGE_cropped.jpg	119.9996	52.0912	cielab_STP_HIGHBRIDGE_cropped.jpg	140.7178	22.7154
+STP_HIGHLANDPARKCRISPANDGREEN_cropped.jpg	120.4771	43.8471	cielab_STP_HIGHLANDPARKCRISPANDGREEN_cropped.jpg	140.7178	22.7154
+STP_HORACEMANNPLAYGROUND_cropped.jpg	142.1761	52.1993	cielab_STP_HORACEMANNPLAYGROUND_cropped.jpg	140.7178	22.7154
+STP_INDIANMOUNDSPARKENTRANCE_cropped.jpg	132.0825	54.7630	cielab_STP_INDIANMOUNDSPARKENTRANCE_cropped.jpg	140.7178	22.7154
+STP_IRVINEPARKGAZEBO_cropped.jpg	120.5181	57.2920	cielab_STP_IRVINEPARKGAZEBO_cropped.jpg	140.7178	22.7154
+STP_JIMMYLEEPLAYAREA_cropped.jpg	165.0617	62.2967	cielab_STP_JIMMYLEEPLAYAREA_cropped.jpg	140.7178	22.7154
+STP_KOREANWARMEMORIAL1_cropped.jpg	133.2719	64.4652	cielab_STP_KOREANWARMEMORIAL1_cropped.jpg	140.7178	22.7154
+STP_KOREANWARMEMORIAL2_cropped.jpg	128.0889	65.6291	cielab_STP_KOREANWARMEMORIAL2_cropped.jpg	140.7178	22.7154
+STP_KOWALSKISONGRAND_cropped.jpg	134.7144	67.1768	cielab_STP_KOWALSKISONGRAND_cropped.jpg	140.7178	22.7154
+STP_LAFAYETTEBRIDGE_cropped.jpg	109.7016	53.5540	cielab_STP_LAFAYETTEBRIDGE_cropped.jpg	140.7178	22.7154
+STP_LARGEGREENCHAIR_cropped.jpg	108.2450	69.2436	cielab_STP_LARGEGREENCHAIR_cropped.jpg	140.7178	22.7154
+STP_LEIFERIKSONMEMORIAL_cropped.jpg	148.5803	71.4570	cielab_STP_LEIFERIKSONMEMORIAL_cropped.jpg	140.7178	22.7154
+STP_MACALESTEROLDMAIN_cropped.jpg	123.8611	52.8415	cielab_STP_MACALESTEROLDMAIN_cropped.jpg	140.7178	22.7154
+STP_MANATTANBUILDING_cropped.jpg	103.0748	56.3892	cielab_STP_MANATTANBUILDING_cropped.jpg	140.7178	22.7154
+STP_MARTINLUTHERKINGRECREATION_cropped.jpg	138.1308	72.7127	cielab_STP_MARTINLUTHERKINGRECREATION_cropped.jpg	140.7178	22.7154
+STP_MCQUILLANPARK_cropped.jpg	140.0754	75.7487	cielab_STP_MCQUILLANPARK_cropped.jpg	140.7178	22.7154
+STP_MNDNR_cropped.jpg	126.9210	81.1772	cielab_STP_MNDNR_cropped.jpg	140.7178	22.7154
+STP_MOSCOWONTHEHILL_cropped.jpg	147.9254	69.7368	cielab_STP_MOSCOWONTHEHILL_cropped.jpg	140.7178	22.7154
+STP_NATHANHALESTATUE_cropped.jpg	121.1420	65.1100	cielab_STP_NATHANHALESTATUE_cropped.jpg	140.7178	22.7154
+STP_NINASCOFFEE_cropped.jpg	103.4312	69.0443	cielab_STP_NINASCOFFEE_cropped.jpg	140.7178	22.7154
+STP_NORMANBORLAUGSTATUE_cropped.jpg	102.5215	76.7739	cielab_STP_NORMANBORLAUGSTATUE_cropped.jpg	140.7178	22.7154
+STP_NORTHPOLEEXPRESS_cropped.jpg	169.5532	59.8738	cielab_STP_NORTHPOLEEXPRESS_cropped.jpg	140.7178	22.7154
+STP_OAKLANDCEMETERY_cropped.jpg	143.9293	53.9009	cielab_STP_OAKLANDCEMETERY_cropped.jpg	140.7178	22.7154
+STP_OSHAUGHNESSYSTADIUM_cropped.jpg	105.0586	61.5216	cielab_STP_OSHAUGHNESSYSTADIUM_cropped.jpg	140.7178	22.7154
+STP_OURLADYOFVICTORYCHAPEL_cropped.jpg	124.4531	53.9992	cielab_STP_OURLADYOFVICTORYCHAPEL_cropped.jpg	140.7178	22.7154
+STP_PATRICKMCGOVERNSPUB_cropped.jpg	131.5691	75.0548	cielab_STP_PATRICKMCGOVERNSPUB_cropped.jpg	140.7178	22.7154
+STP_PEANUTSCHARACTER_cropped.jpg	133.1270	67.0238	cielab_STP_PEANUTSCHARACTER_cropped.jpg	140.7178	22.7154
+STP_PHALENREGIONALPARK_cropped.jpg	124.1917	64.9215	cielab_STP_PHALENREGIONALPARK_cropped.jpg	140.7178	22.7154
+STP_RAMSAYCOUNTYCOURTHOUSE_cropped.jpg	100.1842	52.7673	cielab_STP_RAMSAYCOUNTYCOURTHOUSE_cropped.jpg	140.7178	22.7154
+STP_RASPBERRYISLAND_cropped.jpg	140.0005	54.8971	cielab_STP_RASPBERRYISLAND_cropped.jpg	140.7178	22.7154
+STP_RICEPARK_cropped.jpg	136.1420	48.7994	cielab_STP_RICEPARK_cropped.jpg	140.7178	22.7154
+STP_SAINTPAULHOTEL_cropped.jpg	115.3738	55.5783	cielab_STP_SAINTPAULHOTEL_cropped.jpg	140.7178	22.7154
+STP_SAINTPAULSEMINARY_cropped.jpg	99.2626	74.5942	cielab_STP_SAINTPAULSEMINARY_cropped.jpg	140.7178	22.7154
+STP_SCHROEDERANDLUCY_cropped.jpg	142.9485	68.0733	cielab_STP_SCHROEDERANDLUCY_cropped.jpg	140.7178	22.7154
+STP_SEAFOAMSTADIUM_cropped.jpg	142.7748	71.4512	cielab_STP_SEAFOAMSTADIUM_cropped.jpg	140.7178	22.7154
+STP_SOLDIERSANDSAILORSSTATUE_cropped.jpg	137.1362	47.5449	cielab_STP_SOLDIERSANDSAILORSSTATUE_cropped.jpg	140.7178	22.7154
+STP_STASSENBUILDING_cropped.jpg	143.5787	61.9257	cielab_STP_STASSENBUILDING_cropped.jpg	140.7178	22.7154
+STP_STATECAPITOLHUBERTHHUMPHRE_cropped.jpg	121.1772	69.6163	cielab_STP_STATECAPITOLHUBERTHHUMPHRE_cropped.jpg	140.7178	22.7154
+STP_STATEFAIRSNOOPY_cropped.jpg	115.7457	48.9585	cielab_STP_STATEFAIRSNOOPY_cropped.jpg	140.7178	22.7154
+STP_STCATHERINES_cropped.jpg	125.3340	59.4812	cielab_STP_STCATHERINES_cropped.jpg	140.7178	22.7154
+STP_STFRANCISCOMOCONSERVATORY_cropped.jpg	104.8408	76.1638	cielab_STP_STFRANCISCOMOCONSERVATORY_cropped.jpg	140.7178	22.7154
+STP_STJOHNTHEEVANGELISTEPISCOP_cropped.jpg	120.0100	58.5356	cielab_STP_STJOHNTHEEVANGELISTEPISCOP_cropped.jpg	140.7178	22.7154
+STP_STPAULACADEMYANDSUMMITSCHO_cropped.jpg	121.8542	70.8500	cielab_STP_STPAULACADEMYANDSUMMITSCHO_cropped.jpg	140.7178	22.7154
+STP_STPAULBREWING_cropped.jpg	140.8720	63.6476	cielab_STP_STPAULBREWING_cropped.jpg	140.7178	22.7154
+STP_STPAULCOLLEGE_cropped.jpg	118.2456	51.1185	cielab_STP_STPAULCOLLEGE_cropped.jpg	140.7178	22.7154
+STP_STPAULFARMERSMARKET_cropped.jpg	135.1284	80.9199	cielab_STP_STPAULFARMERSMARKET_cropped.jpg	140.7178	22.7154
+STP_STPAULSUNITEDCHURCHOFCHRIS_cropped.jpg	128.8737	49.9808	cielab_STP_STPAULSUNITEDCHURCHOFCHRIS_cropped.jpg	140.7178	22.7154
+STP_STTHOMASSTATUE_cropped.jpg	139.1760	74.1516	cielab_STP_STTHOMASSTATUE_cropped.jpg	140.7178	22.7154
+STP_SUMMITAVENUE_cropped.jpg	138.5095	68.8718	cielab_STP_SUMMITAVENUE_cropped.jpg	140.7178	22.7154
+STP_SUMMITHILLCOMMUNITYGARDEN_cropped.jpg	163.4213	64.3742	cielab_STP_SUMMITHILLCOMMUNITYGARDEN_cropped.jpg	140.7178	22.7154
+STP_SUMMITMANORRECEPTIONHOUSE_cropped.jpg	125.1842	82.9208	cielab_STP_SUMMITMANORRECEPTIONHOUSE_cropped.jpg	140.7178	22.7154
+STP_THELEXINGTON_cropped.jpg	121.9110	73.6747	cielab_STP_THELEXINGTON_cropped.jpg	140.7178	22.7154
+STP_THEUNIVERSITYCLUBOFSAINTPA_cropped.jpg	103.3978	52.4199	cielab_STP_THEUNIVERSITYCLUBOFSAINTPA_cropped.jpg	140.7178	22.7154
+STP_THIRTYSIXCAFE_cropped.jpg	193.3767	39.0079	cielab_STP_THIRTYSIXCAFE_cropped.jpg	140.7178	22.7154
+STP_TREASUREISLANDCENTER_cropped.jpg	133.0718	63.2544	cielab_STP_TREASUREISLANDCENTER_cropped.jpg	140.7178	22.7154
+STP_UNIONDEPOTEXTERIOR_cropped.jpg	170.5154	63.4315	cielab_STP_UNIONDEPOTEXTERIOR_cropped.jpg	140.7178	22.7154
+STP_VIETNAMVETERANSMEMORIAL_cropped.jpg	129.4169	81.1157	cielab_STP_VIETNAMVETERANSMEMORIAL_cropped.jpg	140.7178	22.7154
+STP_WABASHASTREETBRIDGE_cropped.jpg	129.7259	38.6485	cielab_STP_WABASHASTREETBRIDGE_cropped.jpg	140.7178	22.7154
+STP_WABASHASTREETCAVESSNOOPY_cropped.jpg	135.9592	55.7315	cielab_STP_WABASHASTREETCAVESSNOOPY_cropped.jpg	140.7178	22.7154
+STP_WABASHASTREETCAVES_cropped.jpg	138.4088	52.3475	cielab_STP_WABASHASTREETCAVES_cropped.jpg	140.7178	22.7154
+STP_WELLSFARGOBUILDING2_cropped.jpg	125.0636	49.7869	cielab_STP_WELLSFARGOBUILDING2_cropped.jpg	140.7178	22.7154
+STP_WESTERNSCULPTUREPARK1_cropped.jpg	128.3929	48.5540	cielab_STP_WESTERNSCULPTUREPARK1_cropped.jpg	140.7178	22.7154
+STP_WESTERNSCULPTUREPARK3_cropped.jpg	132.1641	64.6615	cielab_STP_WESTERNSCULPTUREPARK3_cropped.jpg	140.7178	22.7154
+STP_WESTERNSCULPTUREPARK4_cropped.jpg	143.7397	51.9996	cielab_STP_WESTERNSCULPTUREPARK4_cropped.jpg	140.7178	22.7154
+STP_WESTERNSCULPTUREPARK5_cropped.jpg	126.5593	70.0221	cielab_STP_WESTERNSCULPTUREPARK5_cropped.jpg	140.7178	22.7154
+STP_WORLDWARIMEMORIAL_cropped.jpg	110.4540	81.7113	cielab_STP_WORLDWARIMEMORIAL_cropped.jpg	140.7178	22.7154
+STP_YACHTCLUB_cropped.jpg	113.9836	49.8505	cielab_STP_YACHTCLUB_cropped.jpg	140.7178	22.7154
+Sea Life Aquarium_cropped.jpg	127.4898	69.0458	cielab_Sea Life Aquarium_cropped.jpg	140.7178	22.7154
+Shoe Tree_cropped.jpg	101.7495	59.4189	cielab_Shoe Tree_cropped.jpg	140.7178	22.7154
+South Burlington_cropped.jpg	141.7095	71.3492	cielab_South Burlington_cropped.jpg	140.7178	22.7154
+St Louis Church_cropped.jpg	125.0773	69.1889	cielab_St Louis Church_cropped.jpg	140.7178	22.7154
+StateTheatreAnnArborMarquee_cropped.jpg	51.5131	71.8554	cielab_StateTheatreAnnArborMarquee_cropped.jpg	140.7178	22.7154
+Sullivan_250_Marquette_cropped.jpg	138.8750	65.3960	cielab_Sullivan_250_Marquette_cropped.jpg	140.7178	22.7154
+Sullivan_430OakGrove_cropped.jpg	139.0449	61.8735	cielab_Sullivan_430OakGrove_cropped.jpg	140.7178	22.7154
+Sullivan_5th_Street_Toewrs_cropped.jpg	146.7973	62.0805	cielab_Sullivan_5th_Street_Toewrs_cropped.jpg	140.7178	22.7154
+Sullivan_ATT_Tower_cropped.jpg	159.8753	61.4310	cielab_Sullivan_ATT_Tower_cropped.jpg	140.7178	22.7154
+Sullivan_Basillica_cropped.jpg	177.0392	45.5741	cielab_Sullivan_Basillica_cropped.jpg	140.7178	22.7154
+Sullivan_BrittsPub_cropped.jpg	149.5738	65.4887	cielab_Sullivan_BrittsPub_cropped.jpg	140.7178	22.7154
+Sullivan_ChicagoLiquior_cropped.jpg	157.2441	54.6451	cielab_Sullivan_ChicagoLiquior_cropped.jpg	140.7178	22.7154
+Sullivan_Daytons_cropped.jpg	121.0175	63.3738	cielab_Sullivan_Daytons_cropped.jpg	140.7178	22.7154
+Sullivan_FarmersMarketChicken_cropped.jpg	130.6593	67.6984	cielab_Sullivan_FarmersMarketChicken_cropped.jpg	140.7178	22.7154
+Sullivan_FarmersMarketMural_cropped.jpg	141.3079	54.7337	cielab_Sullivan_FarmersMarketMural_cropped.jpg	140.7178	22.7154
+Sullivan_Foshay_Enterance_cropped.jpg	135.5155	48.2516	cielab_Sullivan_Foshay_Enterance_cropped.jpg	140.7178	22.7154
+Sullivan_HennepinTheater_cropped.jpg	119.2856	73.0683	cielab_Sullivan_HennepinTheater_cropped.jpg	140.7178	22.7154
+Sullivan_LoringBridge_cropped.jpg	136.6356	55.0488	cielab_Sullivan_LoringBridge_cropped.jpg	140.7178	22.7154
+Sullivan_LoringGreenwayEnteran_cropped.jpg	120.6836	64.0520	cielab_Sullivan_LoringGreenwayEnteran_cropped.jpg	140.7178	22.7154
+Sullivan_LoringPark1_cropped.jpg	132.2275	66.7609	cielab_Sullivan_LoringPark1_cropped.jpg	140.7178	22.7154
+Sullivan_LoringPark2_cropped.jpg	144.4385	64.6963	cielab_Sullivan_LoringPark2_cropped.jpg	140.7178	22.7154
+Sullivan_LoringPark3_cropped.jpg	104.6998	54.3139	cielab_Sullivan_LoringPark3_cropped.jpg	140.7178	22.7154
+Sullivan_MPLS_WholeFoods_cropped.jpg	149.6592	70.1858	cielab_Sullivan_MPLS_WholeFoods_cropped.jpg	140.7178	22.7154
+Sullivan_Mackenzie_cropped.jpg	129.9249	67.0736	cielab_Sullivan_Mackenzie_cropped.jpg	140.7178	22.7154
+Sullivan_Marquette_Cancer_Surv_cropped.jpg	142.0317	53.0962	cielab_Sullivan_Marquette_Cancer_Surv_cropped.jpg	140.7178	22.7154
+Sullivan_MaryTylerMoore_cropped.jpg	133.8944	67.0720	cielab_Sullivan_MaryTylerMoore_cropped.jpg	140.7178	22.7154
+Sullivan_MidtownMarket_cropped.jpg	159.4446	47.2353	cielab_Sullivan_MidtownMarket_cropped.jpg	140.7178	22.7154
+Sullivan_MusicMural_cropped.jpg	166.0754	54.2458	cielab_Sullivan_MusicMural_cropped.jpg	140.7178	22.7154
+Sullivan_NicolletCaribou_cropped.jpg	122.5985	73.9753	cielab_Sullivan_NicolletCaribou_cropped.jpg	140.7178	22.7154
+Sullivan_NicolletGlobe1_cropped.jpg	109.3647	68.8777	cielab_Sullivan_NicolletGlobe1_cropped.jpg	140.7178	22.7154
+Sullivan_NicolletGlobe2_cropped.jpg	125.1435	67.3610	cielab_Sullivan_NicolletGlobe2_cropped.jpg	140.7178	22.7154
+Sullivan_NicolletSkyway_cropped.jpg	149.0050	54.2796	cielab_Sullivan_NicolletSkyway_cropped.jpg	140.7178	22.7154
+Sullivan_NicolletStation_cropped.jpg	117.7662	75.2959	cielab_Sullivan_NicolletStation_cropped.jpg	140.7178	22.7154
+Sullivan_OrangeLineSign_cropped.jpg	119.3950	72.7147	cielab_Sullivan_OrangeLineSign_cropped.jpg	140.7178	22.7154
+Sullivan_Orpheium_cropped.jpg	128.2974	74.5141	cielab_Sullivan_Orpheium_cropped.jpg	140.7178	22.7154
+Sullivan_PeavyClock_cropped.jpg	122.4096	70.6126	cielab_Sullivan_PeavyClock_cropped.jpg	140.7178	22.7154
+Sullivan_RBC_Gateway_cropped.jpg	153.6289	51.0154	cielab_Sullivan_RBC_Gateway_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden10_cropped.jpg	142.2290	61.4078	cielab_Sullivan_SculptureGarden10_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden11_cropped.jpg	125.0650	84.6612	cielab_Sullivan_SculptureGarden11_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden12_cropped.jpg	147.1842	69.8765	cielab_Sullivan_SculptureGarden12_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden1_cropped.jpg	126.9679	56.7675	cielab_Sullivan_SculptureGarden1_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden2_cropped.jpg	106.9463	57.9435	cielab_Sullivan_SculptureGarden2_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden3_cropped.jpg	115.2173	59.0463	cielab_Sullivan_SculptureGarden3_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden4_cropped.jpg	127.7728	55.6119	cielab_Sullivan_SculptureGarden4_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden5_cropped.jpg	119.3675	58.2564	cielab_Sullivan_SculptureGarden5_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden6_cropped.jpg	109.6410	63.8000	cielab_Sullivan_SculptureGarden6_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden7_cropped.jpg	119.1737	51.8340	cielab_Sullivan_SculptureGarden7_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGarden9_cropped.jpg	145.9604	66.3882	cielab_Sullivan_SculptureGarden9_cropped.jpg	140.7178	22.7154
+Sullivan_SculptureGardenCherry_cropped.jpg	149.0631	54.5060	cielab_Sullivan_SculptureGardenCherry_cropped.jpg	140.7178	22.7154
+Sullivan_Skyway_cropped.jpg	137.9523	62.6350	cielab_Sullivan_Skyway_cropped.jpg	140.7178	22.7154
+Sullivan_SooLineBuilding_cropped.jpg	120.2602	70.6348	cielab_Sullivan_SooLineBuilding_cropped.jpg	140.7178	22.7154
+Sullivan_StThomas_cropped.jpg	128.0961	55.6569	cielab_Sullivan_StThomas_cropped.jpg	140.7178	22.7154
+Sullivan_Target_cropped.jpg	135.1743	57.9390	cielab_Sullivan_Target_cropped.jpg	140.7178	22.7154
+Sullivan_TheNewsRoom_cropped.jpg	129.8080	64.0289	cielab_Sullivan_TheNewsRoom_cropped.jpg	140.7178	22.7154
+Sullivan_ThirdPrecinct_cropped.jpg	131.2029	63.7760	cielab_Sullivan_ThirdPrecinct_cropped.jpg	140.7178	22.7154
+Sullivan_UptownCrown_cropped.jpg	135.3312	69.7350	cielab_Sullivan_UptownCrown_cropped.jpg	140.7178	22.7154
+Sullivan_WCCO_cropped.jpg	118.2843	69.3899	cielab_Sullivan_WCCO_cropped.jpg	140.7178	22.7154
+Sullivan_WellsFargoCenter_cropped.jpg	124.2480	62.6723	cielab_Sullivan_WellsFargoCenter_cropped.jpg	140.7178	22.7154
+Suzzallo_Library_cropped.jpg	131.1789	41.5677	cielab_Suzzallo_Library_cropped.jpg	140.7178	22.7154
+Texas Capitol_cropped.jpg	119.5618	61.2997	cielab_Texas Capitol_cropped.jpg	140.7178	22.7154
+The Breakers_cropped.jpg	139.0173	59.1628	cielab_The Breakers_cropped.jpg	140.7178	22.7154
+The Cathedral Basilica of St. _cropped.jpg	152.9102	49.7424	cielab_The Cathedral Basilica of St. _cropped.jpg	140.7178	22.7154
+The Quad_cropped.jpg	177.6594	58.3596	cielab_The Quad_cropped.jpg	140.7178	22.7154
+This Is The Place Monument_cropped.jpg	157.5679	61.4486	cielab_This Is The Place Monument_cropped.jpg	140.7178	22.7154
+Toledo_cropped.jpg	142.4250	48.9771	cielab_Toledo_cropped.jpg	140.7178	22.7154
+Treasure Island Centre_cropped.jpg	145.4033	55.9747	cielab_Treasure Island Centre_cropped.jpg	140.7178	22.7154
+Twins Stadium_cropped.jpg	136.2328	59.2400	cielab_Twins Stadium_cropped.jpg	140.7178	22.7154
+US Bank Stadium Station_cropped.jpg	116.5318	60.6735	cielab_US Bank Stadium Station_cropped.jpg	140.7178	22.7154
+Union Terminal_cropped.jpg	82.1136	46.9769	cielab_Union Terminal_cropped.jpg	140.7178	22.7154
+University of Washington_cropped.jpg	111.6767	62.3364	cielab_University of Washington_cropped.jpg	140.7178	22.7154
+Vulcan at the Forge Statue_cropped.jpg	195.3221	67.3082	cielab_Vulcan at the Forge Statue_cropped.jpg	140.7178	22.7154
+Walter Library_cropped.jpg	144.7501	39.2394	cielab_Walter Library_cropped.jpg	140.7178	22.7154
+Wells Fargo_cropped.jpg	138.2647	68.3204	cielab_Wells Fargo_cropped.jpg	140.7178	22.7154
+Wells_Fargo_Center_cropped.jpg	148.2349	57.5633	cielab_Wells_Fargo_Center_cropped.jpg	140.7178	22.7154
+Wesley Street_cropped.jpg	138.7663	63.1559	cielab_Wesley Street_cropped.jpg	140.7178	22.7154
+Wiegers_Kathryn_3_cropped.jpg	111.7613	49.9640	cielab_Wiegers_Kathryn_3_cropped.jpg	140.7178	22.7154
+Willard Park_cropped.jpg	126.0175	70.4594	cielab_Willard Park_cropped.jpg	140.7178	22.7154
+Xcel Energy Center_cropped.jpg	133.1136	48.3549	cielab_Xcel Energy Center_cropped.jpg	140.7178	22.7154
+cincyobservatory_thornton013_cropped.jpg	190.7245	65.7786	cielab_cincyobservatory_thornton013_cropped.jpg	140.7178	22.7154
+independence_hall_cropped.jpg	150.7701	54.5914	cielab_independence_hall_cropped.jpg	140.7178	22.7154
+jimmy-lee-rec-center_cropped.jpg	124.8371	56.8224	cielab_jimmy-lee-rec-center_cropped.jpg	140.7178	22.7154
+jpeg_large_202112291737-3d8f4a_cropped.jpg	148.2241	45.5342	cielab_jpeg_large_202112291737-3d8f4a_cropped.jpg	140.7178	22.7154
+pats_steaks_cropped.jpg	125.2866	59.9021	cielab_pats_steaks_cropped.jpg	140.7178	22.7154
+philadelphia_city_hall_cropped.jpg	139.3551	47.1092	cielab_philadelphia_city_hall_cropped.jpg	140.7178	22.7154
+Pooled	132.6973	61.9061	Pooled	140.7178	22.7154
