@@ -12,6 +12,8 @@ from wand.image import Image #install imagemagick on your system as well https:/
 import shutil
 import os
 import pandas as pd
+import re
+import os.path
 
 from tqdm import tqdm
 
@@ -32,6 +34,27 @@ def filter_folders(file_directories):
         if os.path.isdir(directory):
             filtered_directories.append(directory)
     return filtered_directories
+
+targetStrings = ['Sullivan_', 'Ichel_', 'Buchanan', 'MPLS_', 'STP_', 'CTL_']
+def imgRename(targetStrings, name):
+    #replace target stringd
+    for targetStr in targetStrings:
+        name = name.replace(targetStr, '')
+    name = name.replace('_', ' ')
+    name = name.replace('-', ' ')
+    name = re.sub(r'(?<!\s)([a-z])([A-Z])', r'\1 \2', name)    
+    newName = name.title()
+    newName = newName.split()
+    #hard code some specific cases
+    for i, word in enumerate(newName):
+        if word.upper() in ["US", "SE", "NE", "UMN", "MN"]:
+            newName[i] = word.upper()
+        if "’S" in word:
+            newName[i] = word.replace("’S", "’s")
+    newName = " ".join(newName)
+    if newName == 'M M S Store':
+        newName = 'M&Ms Store'
+    return newName
 
 # Provides the directory of the two image folders relative to this script
 rawDir = os.path.join(os.path.dirname(os.getcwd()), 'RawImg') 
@@ -68,25 +91,28 @@ for path in sourcePaths:
                 continue
             sourceFile = os.path.join(sourceDir, file)
             sourceName = os.path.splitext(file)[0]
-            if len(sourceName) > 30: #trim file name if it is too long (causes error in matlab processing)
-                sourceName = sourceName[0:30]
+            # if len(sourceName) > 50: #trim file name if it is too long (causes error in matlab processing)
+            #     sourceName = sourceName[0:50]
+            sourceName = imgRename(targetStrings, sourceName)
             targetPath = os.path.join(targetDir, sourceName + ".jpg")
+            if os.path.isfile(targetPath):
+                targetPath = os.path.join(targetDir, sourceName + "_2" + ".jpg")
             if checkjpg(sourceFile): #if not jpg
                 convert2jpg(sourceFile, targetPath) #convert to jpg in target folder
             else:
                 shutil.copy2(sourceFile, targetPath)
     #check that all images made it safely -- Don't check anymore bc images are checked for rejection
-    # if len(os.listdir(sourceDir)) == len(os.listdir(targetDir)) :
-    #     print('\n>>All images in {} were converted to {}'.format(sourceDir, targetDir))
-    # else:
-    #     print('\n>>Files were lost in conversion. Check for errors')
-    #     break
+    if len(os.listdir(sourceDir)) == len(os.listdir(targetDir)) :
+        print('\n>>All images in {} were converted to {}'.format(sourceDir, targetDir))
+    else:
+        print('\n>>Files were lost in conversion. Check for errors')
+        break
 
 
 print('Done!')
 
 
-
-
             
 
+
+        

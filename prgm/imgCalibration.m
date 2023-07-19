@@ -86,6 +86,7 @@ for i = 1:numel(fileList)
                 mkdir(targetDir)
             end
             targetPath = fullfile(targetDir, processedFileName);
+            targetPath = strrep(targetPath, prefix(1:length(prefix)-1), '');
             copyfile(processedFilePath, targetPath)
         end
     end
@@ -103,19 +104,3 @@ end
 
 cd(baseDir)
 compLum %call separate matlab script
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

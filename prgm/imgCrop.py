@@ -16,7 +16,7 @@ from tqdm import tqdm
 
 ############################### options #######################################
 downsample = 1 #whether or not you want to downsample to the minimum resolution of all images in collection
-targetMinResolution = 700 #images will be rejected if x or y resolution is below this 
+targetMinResolution = 650 #images will be rejected if x or y resolution is below this 
 ###############################################################################
 
 
@@ -69,7 +69,7 @@ def crop2square(file, targetDir):
         cropped_image.thumbnail(targetResolution)
 
     # Save the cropped image with the same filename
-    targetFile = os.path.splitext(file)[0] + "_cropped.jpg"
+    targetFile = os.path.splitext(file)[0] + ".jpg"
     targetPath = os.path.join(targetDir, targetFile)
     cropped_image.save(targetPath)
     
@@ -137,5 +137,3 @@ for path in sourcePaths:
         nRemoved = len(os.listdir(sourceDir)) - len(os.listdir(targetDir))
         print('\n>>{} valid images cropped to {}. {} images were removed due to low resolution.'.format(nCropped, targetDir, nRemoved))
         
-
-
