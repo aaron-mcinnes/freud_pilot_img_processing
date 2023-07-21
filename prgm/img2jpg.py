@@ -47,13 +47,15 @@ def imgRename(targetStrings, name):
     newName = newName.split()
     #hard code some specific cases
     for i, word in enumerate(newName):
-        if word.upper() in ["US", "SE", "NE", "UMN", "MN", "ATT", "CHS", "DNS"]:
+        if word.upper() in ["US", "SE", "NE", "UMN", "MN", "ATT", "CHS", "DNS", "SPS"]:
             newName[i] = word.upper()
         if "’S" in word:
             newName[i] = word.replace("’S", "’s")
     newName = " ".join(newName)
     if newName == 'M M S Store':
         newName = 'M&Ms Store'
+    if newName == 'O’shaughnessy Stadium':
+        newName = 'O’Shaughnessy Stadium'
     match = re.search(r'(\s)(\d+)$', newName)
     if match:
         space_number = match.group(0)  # The matched "<space><number>" string
