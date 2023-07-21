@@ -16,7 +16,7 @@ from tqdm import tqdm
 
 ############################### options #######################################
 downsample = 1 #whether or not you want to downsample to the minimum resolution of all images in collection
-targetMinResolution = 650 #images will be rejected if x or y resolution is below this 
+targetMinResolution = 700 #images will be rejected if x or y resolution is below this 
 ###############################################################################
 
 

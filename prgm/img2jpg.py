@@ -47,13 +47,18 @@ def imgRename(targetStrings, name):
     newName = newName.split()
     #hard code some specific cases
     for i, word in enumerate(newName):
-        if word.upper() in ["US", "SE", "NE", "UMN", "MN"]:
+        if word.upper() in ["US", "SE", "NE", "UMN", "MN", "ATT", "CHS", "DNS"]:
             newName[i] = word.upper()
         if "’S" in word:
             newName[i] = word.replace("’S", "’s")
     newName = " ".join(newName)
     if newName == 'M M S Store':
         newName = 'M&Ms Store'
+    match = re.search(r'(\s)(\d+)$', newName)
+    if match:
+        space_number = match.group(0)  # The matched "<space><number>" string
+        number = match.group(2)        # The matched "<number>" string
+        newName = newName.replace(space_number, '_' + number)  # Replace space with underscore
     return newName
 
 # Provides the directory of the two image folders relative to this script
