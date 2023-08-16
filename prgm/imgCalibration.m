@@ -5,6 +5,9 @@
 baseDir = fileparts(matlab.desktop.editor.getActiveFilename);
 fprintf('%s\n',baseDir);
 
+
+
+
 shineBase = fullfile(baseDir, 'SHINE_color', 'toolbox');
 shineIn = fullfile(shineBase, 'SHINE_color_INPUT');
 shineOut = fullfile(shineBase, 'SHINE_color_OUTPUT');
@@ -101,6 +104,7 @@ for source = 1:numel(sourcePaths)
         disp(['ERROR in copying processed images to ', fullfile(targetPaths{source}, type)]);
     end
 end
+
 
 cd(baseDir)
 compLum %call separate matlab script

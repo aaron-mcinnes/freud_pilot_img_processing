@@ -1,436 +1,436 @@
 Img_pre	Mean_pre	SD_pre	Img_post	Mean_post	SD_post
-250 Marquette.jpg	138.8750	65.3960	cielab_250 Marquette.jpg	137.1485	23.0859
-430 Oak Grove.jpg	139.0449	61.8735	cielab_430 Oak Grove.jpg	137.1485	23.0859
-5Th Street Towers.jpg	146.7973	62.0805	cielab_5Th Street Towers.jpg	137.1485	23.0859
-ATT Tower.jpg	159.8753	61.4310	cielab_ATT Tower.jpg	137.1485	23.0859
-Acadia Cafe.jpg	131.4273	60.6670	cielab_Acadia Cafe.jpg	137.1485	23.0859
-Agra Culture Kitchen.jpg	99.8511	72.2041	cielab_Agra Culture Kitchen.jpg	137.1485	23.0859
-Akron Canal Park.jpg	153.9447	53.6048	cielab_Akron Canal Park.jpg	137.1485	23.0859
-Alabama State Capitol.jpg	154.1685	64.3997	cielab_Alabama State Capitol.jpg	137.1485	23.0859
-Alexander Ramsey House.jpg	119.4831	61.3468	cielab_Alexander Ramsey House.jpg	137.1485	23.0859
-Allianz Field.jpg	139.7130	71.0248	cielab_Allianz Field.jpg	137.1485	23.0859
-Alonzo Hauser The Source.jpg	102.2564	59.4187	cielab_Alonzo Hauser The Source.jpg	137.1485	23.0859
-American Swedish Institute.jpg	134.4897	55.5209	cielab_American Swedish Institute.jpg	137.1485	23.0859
-Amill Artist Lofts.jpg	161.6750	61.4797	cielab_Amill Artist Lofts.jpg	137.1485	23.0859
-Angel Hall Ann Arbor.jpg	158.1464	61.1108	cielab_Angel Hall Ann Arbor.jpg	137.1485	23.0859
-Ann Arbor Mural.jpg	137.9507	65.5660	cielab_Ann Arbor Mural.jpg	137.1485	23.0859
-Annies Parlour.jpg	133.6418	60.5854	cielab_Annies Parlour.jpg	137.1485	23.0859
-Anthony Cragg Sculpture.jpg	142.0849	63.0905	cielab_Anthony Cragg Sculpture.jpg	137.1485	23.0859
-Ard Godfrey House.jpg	103.6778	57.7153	cielab_Ard Godfrey House.jpg	137.1485	23.0859
-Armory.jpg	160.6312	62.1480	cielab_Armory.jpg	137.1485	23.0859
-Arvonne Fraser Library.jpg	137.9523	56.3389	cielab_Arvonne Fraser Library.jpg	137.1485	23.0859
-Aster Cafe.jpg	127.9990	63.6046	cielab_Aster Cafe.jpg	137.1485	23.0859
-Augsburg University.jpg	112.4891	57.5588	cielab_Augsburg University.jpg	137.1485	23.0859
-Band Box Diner.jpg	134.5185	51.9271	cielab_Band Box Diner.jpg	137.1485	23.0859
-Baseball Statue.jpg	122.6043	59.6400	cielab_Baseball Statue.jpg	137.1485	23.0859
-Basillica.jpg	177.0392	45.5741	cielab_Basillica.jpg	137.1485	23.0859
-Baxter Arena.jpg	134.3444	74.2564	cielab_Baxter Arena.jpg	137.1485	23.0859
-Bell Museum.jpg	120.8815	49.5449	cielab_Bell Museum.jpg	137.1485	23.0859
-Beltrami.jpg	127.6246	80.8635	cielab_Beltrami.jpg	137.1485	23.0859
-Bethlehem Baptist Church.jpg	141.0332	58.4200	cielab_Bethlehem Baptist Church.jpg	137.1485	23.0859
-Black Coffee And Waffle Bar.jpg	136.9689	74.3233	cielab_Black Coffee And Waffle Bar.jpg	137.1485	23.0859
-Boom Island Lighthouse.jpg	135.3255	64.3478	cielab_Boom Island Lighthouse.jpg	137.1485	23.0859
-Boynton Health.jpg	136.1722	49.5474	cielab_Boynton Health.jpg	137.1485	23.0859
-Brit’s Pub.jpg	149.5738	65.4887	cielab_Brit’s Pub.jpg	137.1485	23.0859
-Bronze Bulls.jpg	158.1653	64.0073	cielab_Bronze Bulls.jpg	137.1485	23.0859
-Bruininks Hall.jpg	125.3431	43.7337	cielab_Bruininks Hall.jpg	137.1485	23.0859
-Building And Tower Statue.jpg	136.8134	53.1401	cielab_Building And Tower Statue.jpg	137.1485	23.0859
-Burbank Livingston Griggs Mansion.jpg	118.5407	67.6029	cielab_Burbank Livingston Griggs Mansion.jpg	137.1485	23.0859
-CHS Field.jpg	133.7585	45.3633	cielab_CHS Field.jpg	137.1485	23.0859
-Caleb Ddorr Statue.jpg	121.0593	77.7878	cielab_Caleb Ddorr Statue.jpg	137.1485	23.0859
-Campbell Mithun Tower.jpg	109.8440	40.1210	cielab_Campbell Mithun Tower.jpg	137.1485	23.0859
-Candy Land.jpg	111.3319	62.8775	cielab_Candy Land.jpg	137.1485	23.0859
-Capitol Building.jpg	130.3469	40.7042	cielab_Capitol Building.jpg	137.1485	23.0859
-Carlson School Of Management.jpg	167.4783	62.0782	cielab_Carlson School Of Management.jpg	137.1485	23.0859
-Carroll Building,Connecticut.jpg	95.2683	52.1330	cielab_Carroll Building,Connecticut.jpg	137.1485	23.0859
-Carty Park.jpg	118.7489	40.9954	cielab_Carty Park.jpg	137.1485	23.0859
-Cecils.jpg	119.4385	58.9294	cielab_Cecils.jpg	137.1485	23.0859
-Cedar Riverside.jpg	167.9481	59.6280	cielab_Cedar Riverside.jpg	137.1485	23.0859
-Central Ave NE.jpg	136.1150	83.1046	cielab_Central Ave NE.jpg	137.1485	23.0859
-Central Lutheran Church.jpg	137.0702	73.8342	cielab_Central Lutheran Church.jpg	137.1485	23.0859
-Central Presbyterian Church.jpg	133.3764	61.7148	cielab_Central Presbyterian Church.jpg	137.1485	23.0859
-Central Village Park.jpg	112.0341	58.5772	cielab_Central Village Park.jpg	137.1485	23.0859
-Charles Lindbergh Statue.jpg	129.3850	65.8670	cielab_Charles Lindbergh Statue.jpg	137.1485	23.0859
-Charles Schwab Field.jpg	119.3843	82.0729	cielab_Charles Schwab Field.jpg	137.1485	23.0859
-Charlie Brown Statue.jpg	113.5409	68.1285	cielab_Charlie Brown Statue.jpg	137.1485	23.0859
-Chez Olga.jpg	130.9989	87.7444	cielab_Chez Olga.jpg	137.1485	23.0859
-Chicago Liquior.jpg	157.2441	54.6451	cielab_Chicago Liquior.jpg	137.1485	23.0859
-Childrens Hospital.jpg	153.2108	56.3350	cielab_Childrens Hospital.jpg	137.1485	23.0859
-Children’s Hospital.jpg	140.5843	67.1405	cielab_Children’s Hospital.jpg	137.1485	23.0859
-Children’s Museum Of Indianapolis.jpg	137.7577	54.7135	cielab_Children’s Museum Of Indianapolis.jpg	137.1485	23.0859
-Children’s Museum.jpg	154.4936	65.9629	cielab_Children’s Museum.jpg	137.1485	23.0859
-Christopher Columbus Statue.jpg	119.8326	53.1191	cielab_Christopher Columbus Statue.jpg	137.1485	23.0859
-Church Of Scientology.jpg	167.6724	58.2262	cielab_Church Of Scientology.jpg	137.1485	23.0859
-Church Of St Casimir.jpg	109.9662	46.7258	cielab_Church Of St Casimir.jpg	137.1485	23.0859
-Church Of The Assumption.jpg	125.9301	55.7284	cielab_Church Of The Assumption.jpg	137.1485	23.0859
-Cincinnati Eden Park.jpg	110.3576	78.6286	cielab_Cincinnati Eden Park.jpg	137.1485	23.0859
-Cincinnati Music Hall.jpg	122.9316	61.5796	cielab_Cincinnati Music Hall.jpg	137.1485	23.0859
-Cincinnati Observatory.jpg	190.6855	65.4031	cielab_Cincinnati Observatory.jpg	137.1485	23.0859
-Cinnabon Store.jpg	118.0787	64.9415	cielab_Cinnabon Store.jpg	137.1485	23.0859
-Cities Church.jpg	153.7708	66.6266	cielab_Cities Church.jpg	137.1485	23.0859
-City Hall Oakland.jpg	147.5300	49.5878	cielab_City Hall Oakland.jpg	137.1485	23.0859
-City Hall Statue.jpg	133.0850	53.3866	cielab_City Hall Statue.jpg	137.1485	23.0859
-City Hall.jpg	127.0770	59.8248	cielab_City Hall.jpg	137.1485	23.0859
-Cleveland Metropark.jpg	97.2797	55.5959	cielab_Cleveland Metropark.jpg	137.1485	23.0859
-Cochran Park Fountain.jpg	112.4348	76.6248	cielab_Cochran Park Fountain.jpg	137.1485	23.0859
-Coffman Memorial Union.jpg	118.2395	61.9299	cielab_Coffman Memorial Union.jpg	137.1485	23.0859
-Colorado St Bridge.jpg	161.0371	53.1446	cielab_Colorado St Bridge.jpg	137.1485	23.0859
-Como Conservatory.jpg	157.6364	51.3823	cielab_Como Conservatory.jpg	137.1485	23.0859
-Coney Island Tavern.jpg	90.2179	66.0819	cielab_Coney Island Tavern.jpg	137.1485	23.0859
-Cossetta.jpg	118.8163	66.0940	cielab_Cossetta.jpg	137.1485	23.0859
-Craft Council Building.jpg	153.2067	54.0091	cielab_Craft Council Building.jpg	137.1485	23.0859
-Davidson Hotel.jpg	147.1601	67.7110	cielab_Davidson Hotel.jpg	137.1485	23.0859
-Daytons.jpg	121.0175	63.3738	cielab_Daytons.jpg	137.1485	23.0859
-Depew Memorial Fountain.jpg	126.0418	66.3261	cielab_Depew Memorial Fountain.jpg	137.1485	23.0859
-Derham Hall.jpg	128.3417	45.9499	cielab_Derham Hall.jpg	137.1485	23.0859
-Desert Dome.jpg	136.7736	55.3654	cielab_Desert Dome.jpg	137.1485	23.0859
-Dew Drop Pond.jpg	144.4691	74.7838	cielab_Dew Drop Pond.jpg	137.1485	23.0859
-Dewitt Library.jpg	116.3902	63.6550	cielab_Dewitt Library.jpg	137.1485	23.0859
-Dinky Town.jpg	101.0657	62.9234	cielab_Dinky Town.jpg	137.1485	23.0859
-Disappearing People Statues.jpg	142.0684	59.9685	cielab_Disappearing People Statues.jpg	137.1485	23.0859
-Double Tree By Hilton Hotel.jpg	104.7181	60.7462	cielab_Double Tree By Hilton Hotel.jpg	137.1485	23.0859
-E 6Th St.jpg	108.0656	57.1530	cielab_E 6Th St.jpg	137.1485	23.0859
-Earle Brown House Statue.jpg	155.6813	61.2553	cielab_Earle Brown House Statue.jpg	137.1485	23.0859
-East Hennepin Avenue Buildings Statue.jpg	138.9063	54.9817	cielab_East Hennepin Avenue Buildings Statue.jpg	137.1485	23.0859
-Eastcliff Mansion.jpg	150.4718	69.5055	cielab_Eastcliff Mansion.jpg	137.1485	23.0859
-Ecolab Building.jpg	151.6613	41.4024	cielab_Ecolab Building.jpg	137.1485	23.0859
-Eddy Hall Sculptures.jpg	100.8117	52.7926	cielab_Eddy Hall Sculptures.jpg	137.1485	23.0859
-Eddy Hall.jpg	114.4174	63.9266	cielab_Eddy Hall.jpg	137.1485	23.0859
-El Rio Vista Recreation Center.jpg	122.6922	68.1134	cielab_El Rio Vista Recreation Center.jpg	137.1485	23.0859
-Eleven On The River.jpg	185.4774	54.1280	cielab_Eleven On The River.jpg	137.1485	23.0859
-Elliot Park.jpg	104.6616	69.1401	cielab_Elliot Park.jpg	137.1485	23.0859
-Emiliano Zapata Statue.jpg	90.3987	67.9543	cielab_Emiliano Zapata Statue.jpg	137.1485	23.0859
-F Scott Fitzgerald Statue.jpg	107.5521	46.6384	cielab_F Scott Fitzgerald Statue.jpg	137.1485	23.0859
-F. Scott Fitzgerald House.jpg	103.5575	53.7634	cielab_F. Scott Fitzgerald House.jpg	137.1485	23.0859
-Fairgrounds.jpg	194.9396	66.2341	cielab_Fairgrounds.jpg	137.1485	23.0859
-Falcon Heights.jpg	141.0235	57.6425	cielab_Falcon Heights.jpg	137.1485	23.0859
-Farmers Market Chicken.jpg	130.6593	67.6984	cielab_Farmers Market Chicken.jpg	137.1485	23.0859
-Farmers Market Mural.jpg	141.3079	54.7337	cielab_Farmers Market Mural.jpg	137.1485	23.0859
-Farmington Mall.jpg	161.6426	53.9784	cielab_Farmington Mall.jpg	137.1485	23.0859
-Father Hennepin Statue.jpg	178.5156	59.3546	cielab_Father Hennepin Statue.jpg	137.1485	23.0859
-First Avenue.jpg	115.8750	92.7364	cielab_First Avenue.jpg	137.1485	23.0859
-First Baptist Church.jpg	105.9138	43.4573	cielab_First Baptist Church.jpg	137.1485	23.0859
-First Congregational Church Statue.jpg	127.6512	61.0828	cielab_First Congregational Church Statue.jpg	137.1485	23.0859
-First National Bank Building.jpg	141.1816	38.0506	cielab_First National Bank Building.jpg	137.1485	23.0859
-First National Building Ann Arbor.jpg	125.3401	65.3265	cielab_First National Building Ann Arbor.jpg	137.1485	23.0859
-Fitzgerald Theater.jpg	145.2082	62.0232	cielab_Fitzgerald Theater.jpg	137.1485	23.0859
-Fleming Administration Building.jpg	125.3040	65.1018	cielab_Fleming Administration Building.jpg	137.1485	23.0859
-Florence Court Statue.jpg	130.9950	55.5806	cielab_Florence Court Statue.jpg	137.1485	23.0859
-Floyd Olson Statue.jpg	122.9042	55.8272	cielab_Floyd Olson Statue.jpg	137.1485	23.0859
-Folwell Hall.jpg	132.7980	63.9918	cielab_Folwell Hall.jpg	137.1485	23.0859
-Folwell.jpg	144.9794	52.4348	cielab_Folwell.jpg	137.1485	23.0859
-Ford Dam Scenic Overlook.jpg	105.9173	72.7906	cielab_Ford Dam Scenic Overlook.jpg	137.1485	23.0859
-Ford Little League Field.jpg	156.7536	63.3892	cielab_Ford Little League Field.jpg	137.1485	23.0859
-Fort Snelling.jpg	175.8898	43.1235	cielab_Fort Snelling.jpg	137.1485	23.0859
-Foshay Enterance.jpg	135.5155	48.2516	cielab_Foshay Enterance.jpg	137.1485	23.0859
-Fox Theatre.jpg	156.7870	66.4837	cielab_Fox Theatre.jpg	137.1485	23.0859
-Fred L Smith House Statue.jpg	132.9145	57.0882	cielab_Fred L Smith House Statue.jpg	137.1485	23.0859
-General Mills.jpg	107.5702	81.6085	cielab_General Mills.jpg	137.1485	23.0859
-George Latimer Central Library.jpg	147.9833	59.6285	cielab_George Latimer Central Library.jpg	137.1485	23.0859
-Germanic American Institute.jpg	150.9052	69.8914	cielab_Germanic American Institute.jpg	137.1485	23.0859
-Gibbs Farm.jpg	136.4859	57.5206	cielab_Gibbs Farm.jpg	137.1485	23.0859
-Gold Medal Flour Building.jpg	162.3553	62.2885	cielab_Gold Medal Flour Building.jpg	137.1485	23.0859
-Gold Medal Park Sign.jpg	164.6522	56.6841	cielab_Gold Medal Park Sign.jpg	137.1485	23.0859
-Goldy Gopher.jpg	111.0502	48.6723	cielab_Goldy Gopher.jpg	137.1485	23.0859
-Governors Residence.jpg	111.8453	68.7179	cielab_Governors Residence.jpg	137.1485	23.0859
-Graduate Hotel.jpg	121.0609	49.6962	cielab_Graduate Hotel.jpg	137.1485	23.0859
-Grand Avenue Tattoo.jpg	109.0950	75.0142	cielab_Grand Avenue Tattoo.jpg	137.1485	23.0859
-Grand River Railroad Lansing.jpg	123.7064	62.8673	cielab_Grand River Railroad Lansing.jpg	137.1485	23.0859
-Grand Stand.jpg	121.3353	72.6546	cielab_Grand Stand.jpg	137.1485	23.0859
-Grandview Theatre.jpg	110.7794	66.3011	cielab_Grandview Theatre.jpg	137.1485	23.0859
-Groveland Recreation Center.jpg	96.0891	50.4281	cielab_Groveland Recreation Center.jpg	137.1485	23.0859
-Guthrie Theater.jpg	124.3561	74.5924	cielab_Guthrie Theater.jpg	137.1485	23.0859
-Guthrie Theatre.jpg	143.0222	78.6101	cielab_Guthrie Theatre.jpg	137.1485	23.0859
-Hamline University.jpg	128.3450	64.7881	cielab_Hamline University.jpg	137.1485	23.0859
-Harriet Island Park.jpg	114.5923	56.9470	cielab_Harriet Island Park.jpg	137.1485	23.0859
-Harriet Island Pavilion.jpg	113.9781	49.4009	cielab_Harriet Island Pavilion.jpg	137.1485	23.0859
-Healthy Living Supermarket South Burlington.jpg	124.5102	71.0157	cielab_Healthy Living Supermarket South Burlington.jpg	137.1485	23.0859
-Heimie’s Haberdashery.jpg	70.6713	52.3922	cielab_Heimie’s Haberdashery.jpg	137.1485	23.0859
-Hennepin Avenue Bridge.jpg	136.2168	69.7937	cielab_Hennepin Avenue Bridge.jpg	137.1485	23.0859
-Hennepin County Government Center.jpg	150.1949	51.9778	cielab_Hennepin County Government Center.jpg	137.1485	23.0859
-Hennepin County Medical Center.jpg	134.8851	76.9427	cielab_Hennepin County Medical Center.jpg	137.1485	23.0859
-Hennepin County Sheriff S Office.jpg	147.6850	59.4661	cielab_Hennepin County Sheriff S Office.jpg	137.1485	23.0859
-Hennepin Theater.jpg	119.2856	73.0683	cielab_Hennepin Theater.jpg	137.1485	23.0859
-Herb Brooks Statue.jpg	135.3032	45.2498	cielab_Herb Brooks Statue.jpg	137.1485	23.0859
-High Bridge Overlook.jpg	155.1384	79.7911	cielab_High Bridge Overlook.jpg	137.1485	23.0859
-High Bridge.jpg	119.9996	52.0912	cielab_High Bridge.jpg	137.1485	23.0859
-Highland Park Crisp And Green.jpg	120.4771	43.8471	cielab_Highland Park Crisp And Green.jpg	137.1485	23.0859
-Holman Field.jpg	113.3368	44.6552	cielab_Holman Field.jpg	137.1485	23.0859
-Hope Community Church.jpg	137.5364	49.0568	cielab_Hope Community Church.jpg	137.1485	23.0859
-Horace Mann Playground.jpg	142.1761	52.1993	cielab_Horace Mann Playground.jpg	137.1485	23.0859
-Hubert H Humphrey Statue.jpg	121.1772	69.6163	cielab_Hubert H Humphrey Statue.jpg	137.1485	23.0859
-Huntoon Park.jpg	130.5976	68.9054	cielab_Huntoon Park.jpg	137.1485	23.0859
-Huss Center.jpg	177.7505	70.9673	cielab_Huss Center.jpg	137.1485	23.0859
-Independence Hall.jpg	154.9180	67.5157	cielab_Independence Hall.jpg	137.1485	23.0859
-Indian Mounds Park Entrance.jpg	132.0825	54.7630	cielab_Indian Mounds Park Entrance.jpg	137.1485	23.0859
-Indian Mounds Park.jpg	102.5137	58.2446	cielab_Indian Mounds Park.jpg	137.1485	23.0859
-Indian Mounds Regional Park.jpg	123.0487	59.2253	cielab_Indian Mounds Regional Park.jpg	137.1485	23.0859
-Indiana Landmarks Center.jpg	166.7309	68.3193	cielab_Indiana Landmarks Center.jpg	137.1485	23.0859
-International Christian Unity Bible College.jpg	134.8150	69.7349	cielab_International Christian Unity Bible College.jpg	137.1485	23.0859
-Iron Mike Statue.jpg	139.2640	50.3335	cielab_Iron Mike Statue.jpg	137.1485	23.0859
-Irvine Park Gazebo.jpg	120.5181	57.2920	cielab_Irvine Park Gazebo.jpg	137.1485	23.0859
-J. V. Bailey House.jpg	127.6177	71.4180	cielab_J. V. Bailey House.jpg	137.1485	23.0859
-Jack Brickhouse Statue.jpg	134.2090	56.5954	cielab_Jack Brickhouse Statue.jpg	137.1485	23.0859
-James Jhill House.jpg	132.3506	60.9761	cielab_James Jhill House.jpg	137.1485	23.0859
-Jazz Trio.jpg	115.1031	67.5784	cielab_Jazz Trio.jpg	137.1485	23.0859
-Jimmy Lee Play Area.jpg	165.0617	62.2967	cielab_Jimmy Lee Play Area.jpg	137.1485	23.0859
-Jimmy Lee Rec Center.jpg	124.8371	56.8224	cielab_Jimmy Lee Rec Center.jpg	137.1485	23.0859
-John Dudley House Statue.jpg	163.0844	47.6608	cielab_John Dudley House Statue.jpg	137.1485	23.0859
-John J Zampieri State Office.jpg	134.4945	71.0139	cielab_John J Zampieri State Office.jpg	137.1485	23.0859
-Jones Hall Sculpture.jpg	112.5448	50.2936	cielab_Jones Hall Sculpture.jpg	137.1485	23.0859
-Joslyn Castle.jpg	130.9885	66.6518	cielab_Joslyn Castle.jpg	137.1485	23.0859
-Kauffman Center.jpg	148.2241	45.5342	cielab_Kauffman Center.jpg	137.1485	23.0859
-Korean War Memorial Statue.jpg	128.0889	65.6291	cielab_Korean War Memorial Statue.jpg	137.1485	23.0859
-Korean War Memorial.jpg	133.2719	64.4652	cielab_Korean War Memorial.jpg	137.1485	23.0859
-Kowalskis On Grand.jpg	134.7144	67.1768	cielab_Kowalskis On Grand.jpg	137.1485	23.0859
-La Salle.jpg	132.5626	65.6272	cielab_La Salle.jpg	137.1485	23.0859
-Lafayette Bridge.jpg	109.7016	53.5540	cielab_Lafayette Bridge.jpg	137.1485	23.0859
-Lake Calhoun.jpg	120.1952	77.8714	cielab_Lake Calhoun.jpg	137.1485	23.0859
-Lake Mead.jpg	119.6513	62.1582	cielab_Lake Mead.jpg	137.1485	23.0859
-Lake Of The Isles Lutheran Church.jpg	124.7621	48.8433	cielab_Lake Of The Isles Lutheran Church.jpg	137.1485	23.0859
-Landmark Center.jpg	151.1841	42.6602	cielab_Landmark Center.jpg	137.1485	23.0859
-Landmark Plaza.jpg	142.9485	68.0733	cielab_Landmark Plaza.jpg	137.1485	23.0859
-Large Green Chair.jpg	108.2450	69.2436	cielab_Large Green Chair.jpg	137.1485	23.0859
-Lego Store.jpg	102.4749	59.2168	cielab_Lego Store.jpg	137.1485	23.0859
-Leif Erikson Memorial.jpg	148.5803	71.4570	cielab_Leif Erikson Memorial.jpg	137.1485	23.0859
-Lewis And Clark Landing.jpg	162.3713	59.9375	cielab_Lewis And Clark Landing.jpg	137.1485	23.0859
-Literati Bookstore.jpg	73.4750	57.5046	cielab_Literati Bookstore.jpg	137.1485	23.0859
-Logan Park.jpg	126.7875	69.0275	cielab_Logan Park.jpg	137.1485	23.0859
-Lola Bar Cleveland.jpg	117.1952	74.1460	cielab_Lola Bar Cleveland.jpg	137.1485	23.0859
-Longaberger Basket Newark, Ohio.jpg	120.2136	52.9788	cielab_Longaberger Basket Newark, Ohio.jpg	137.1485	23.0859
-Loring Bridge.jpg	136.6356	55.0488	cielab_Loring Bridge.jpg	137.1485	23.0859
-Loring Greenway Enterance.jpg	120.6836	64.0520	cielab_Loring Greenway Enterance.jpg	137.1485	23.0859
-Loring Park Greenway.jpg	120.5383	64.2354	cielab_Loring Park Greenway.jpg	137.1485	23.0859
-Loring Park_1.jpg	132.2275	66.7609	cielab_Loring Park_1.jpg	137.1485	23.0859
-Loring Park_2.jpg	144.4385	64.6963	cielab_Loring Park_2.jpg	137.1485	23.0859
-Loring Park_3.jpg	104.6998	54.3139	cielab_Loring Park_3.jpg	137.1485	23.0859
-Louisiana State Capitol.jpg	157.1671	41.0748	cielab_Louisiana State Capitol.jpg	137.1485	23.0859
-Lowry Hill.jpg	143.3346	60.9575	cielab_Lowry Hill.jpg	137.1485	23.0859
-Luter Gage Johnson Store Statue.jpg	121.1670	59.7372	cielab_Luter Gage Johnson Store Statue.jpg	137.1485	23.0859
-Lyndale Park Gardens.jpg	142.8585	72.8174	cielab_Lyndale Park Gardens.jpg	137.1485	23.0859
-M Flowers.jpg	117.0341	63.9413	cielab_M Flowers.jpg	137.1485	23.0859
-M&Ms Store.jpg	110.7566	71.9057	cielab_M&Ms Store.jpg	137.1485	23.0859
-MN DNS.jpg	126.9210	81.1772	cielab_MN DNS.jpg	137.1485	23.0859
-MN Nice Cream.jpg	136.7043	50.9182	cielab_MN Nice Cream.jpg	137.1485	23.0859
-Macalester College.jpg	128.1787	56.1350	cielab_Macalester College.jpg	137.1485	23.0859
-Macalester Old Main.jpg	123.8611	52.8415	cielab_Macalester Old Main.jpg	137.1485	23.0859
-Mackenzie.jpg	129.9249	67.0736	cielab_Mackenzie.jpg	137.1485	23.0859
-Main Street Buildings.jpg	155.7042	58.0632	cielab_Main Street Buildings.jpg	137.1485	23.0859
-Malcolm Yards.jpg	150.1500	57.1521	cielab_Malcolm Yards.jpg	137.1485	23.0859
-Mall Of America.jpg	133.0745	55.5285	cielab_Mall Of America.jpg	137.1485	23.0859
-Man Lifting Wheat Sack Statue.jpg	122.0579	76.9965	cielab_Man Lifting Wheat Sack Statue.jpg	137.1485	23.0859
-Manhattan Building.jpg	103.0748	56.3892	cielab_Manhattan Building.jpg	137.1485	23.0859
-Mariucci Arena.jpg	142.5458	56.9636	cielab_Mariucci Arena.jpg	137.1485	23.0859
-Marjorie Mc Neely Conservatory.jpg	104.9489	75.1415	cielab_Marjorie Mc Neely Conservatory.jpg	137.1485	23.0859
-Marquette Cancer Survivor Statue.jpg	142.0317	53.0962	cielab_Marquette Cancer Survivor Statue.jpg	137.1485	23.0859
-Martin Luther King Recreation Center.jpg	138.1308	72.7127	cielab_Martin Luther King Recreation Center.jpg	137.1485	23.0859
-Mary Tyler Moore.jpg	133.8944	67.0720	cielab_Mary Tyler Moore.jpg	137.1485	23.0859
-Mcquillan Park.jpg	140.0754	75.7487	cielab_Mcquillan Park.jpg	137.1485	23.0859
-Merchants National Bank Building.jpg	106.7095	73.7159	cielab_Merchants National Bank Building.jpg	137.1485	23.0859
-Merchants National Bank Plaque.jpg	97.9070	40.5837	cielab_Merchants National Bank Plaque.jpg	137.1485	23.0859
-Midtown Market.jpg	159.4446	47.2353	cielab_Midtown Market.jpg	137.1485	23.0859
-Minneapolis Central Library Statue.jpg	140.1354	54.3007	cielab_Minneapolis Central Library Statue.jpg	137.1485	23.0859
-Minneapolis Central Library.jpg	125.4605	58.0532	cielab_Minneapolis Central Library.jpg	137.1485	23.0859
-Minneapolis College.jpg	99.3092	78.9877	cielab_Minneapolis College.jpg	137.1485	23.0859
-Minneapolis Convention Center Sign.jpg	114.9786	60.3940	cielab_Minneapolis Convention Center Sign.jpg	137.1485	23.0859
-Minneapolis Convention Center.jpg	135.5954	52.7267	cielab_Minneapolis Convention Center.jpg	137.1485	23.0859
-Minneapolis Courthouse.jpg	157.7010	60.8762	cielab_Minneapolis Courthouse.jpg	137.1485	23.0859
-Minneapolis Institue Of Art.jpg	148.7450	65.8808	cielab_Minneapolis Institue Of Art.jpg	137.1485	23.0859
-Minnehaha Falls.jpg	125.7245	66.4248	cielab_Minnehaha Falls.jpg	137.1485	23.0859
-Minnesota History Center.jpg	146.1954	41.7244	cielab_Minnesota History Center.jpg	137.1485	23.0859
-Minnesota House Of Representatives.jpg	96.9472	74.4298	cielab_Minnesota House Of Representatives.jpg	137.1485	23.0859
-Minnesota State Office.jpg	122.9571	72.0395	cielab_Minnesota State Office.jpg	137.1485	23.0859
-Molecula Statue.jpg	107.3520	67.6182	cielab_Molecula Statue.jpg	137.1485	23.0859
-Moos Tower.jpg	137.4382	58.6630	cielab_Moos Tower.jpg	137.1485	23.0859
-Morrill Hall.jpg	120.5987	69.7770	cielab_Morrill Hall.jpg	137.1485	23.0859
-Moscow On The Hill.jpg	147.9254	69.7368	cielab_Moscow On The Hill.jpg	137.1485	23.0859
-Mural, Salina.jpg	145.0471	67.0678	cielab_Mural, Salina.jpg	137.1485	23.0859
-Music Education Building.jpg	107.3022	64.1159	cielab_Music Education Building.jpg	137.1485	23.0859
-Music Mural.jpg	166.0754	54.2458	cielab_Music Mural.jpg	137.1485	23.0859
-Nathan Hale Statue.jpg	121.1420	65.1100	cielab_Nathan Hale Statue.jpg	137.1485	23.0859
-News Room.jpg	153.7709	57.2422	cielab_News Room.jpg	137.1485	23.0859
-Nichols Arboretum.jpg	101.8247	57.4375	cielab_Nichols Arboretum.jpg	137.1485	23.0859
-Nickolodeon Universe.jpg	112.2081	62.8172	cielab_Nickolodeon Universe.jpg	137.1485	23.0859
-Nicollet Caribou.jpg	122.5985	73.9753	cielab_Nicollet Caribou.jpg	137.1485	23.0859
-Nicollet Globe1.jpg	109.3647	68.8777	cielab_Nicollet Globe1.jpg	137.1485	23.0859
-Nicollet Island Inn.jpg	142.4635	67.7613	cielab_Nicollet Island Inn.jpg	137.1485	23.0859
-Nicollet Skyway.jpg	149.0050	54.2796	cielab_Nicollet Skyway.jpg	137.1485	23.0859
-Nicollet Station.jpg	117.7662	75.2959	cielab_Nicollet Station.jpg	137.1485	23.0859
-Nina’s Coffee.jpg	103.4312	69.0443	cielab_Nina’s Coffee.jpg	137.1485	23.0859
-Norman Borlaug Statue.jpg	102.5215	76.7739	cielab_Norman Borlaug Statue.jpg	137.1485	23.0859
-North Pole Express.jpg	169.5532	59.8738	cielab_North Pole Express.jpg	137.1485	23.0859
-Northrop Auditorium.jpg	164.6632	54.0120	cielab_Northrop Auditorium.jpg	137.1485	23.0859
-Northwestern Casket Company.jpg	151.2518	72.5223	cielab_Northwestern Casket Company.jpg	137.1485	23.0859
-Northwestern National Life Insurance Building.jpg	118.2812	76.6344	cielab_Northwestern National Life Insurance Building.jpg	137.1485	23.0859
-Nylife Eagle.jpg	131.9293	71.8555	cielab_Nylife Eagle.jpg	137.1485	23.0859
-Oakland Cemetery Cathedral.jpg	143.9293	53.9009	cielab_Oakland Cemetery Cathedral.jpg	137.1485	23.0859
-Oakland Cemetery.jpg	127.6985	59.4476	cielab_Oakland Cemetery.jpg	137.1485	23.0859
-Octavius Broughton House Statue.jpg	168.4233	62.0017	cielab_Octavius Broughton House Statue.jpg	137.1485	23.0859
-Office Of Tourism Carson City, Nevada.jpg	113.3000	56.9757	cielab_Office Of Tourism Carson City, Nevada.jpg	137.1485	23.0859
-Old Main Plaque.jpg	131.2850	69.1319	cielab_Old Main Plaque.jpg	137.1485	23.0859
-Old State House.jpg	107.2193	53.8682	cielab_Old State House.jpg	137.1485	23.0859
-Orange Line Sign.jpg	119.3950	72.7147	cielab_Orange Line Sign.jpg	137.1485	23.0859
-Ordway.jpg	135.5976	62.6867	cielab_Ordway.jpg	137.1485	23.0859
-Orpheium.jpg	128.2974	74.5141	cielab_Orpheium.jpg	137.1485	23.0859
-Orpheum Theater.jpg	154.8424	55.7814	cielab_Orpheum Theater.jpg	137.1485	23.0859
-Otter’s Saloon.jpg	135.8575	62.4155	cielab_Otter’s Saloon.jpg	137.1485	23.0859
-Our Lady Of Victory Chapel.jpg	124.4531	53.9992	cielab_Our Lady Of Victory Chapel.jpg	137.1485	23.0859
-O’Shaughnessy Stadium.jpg	105.0586	61.5216	cielab_O’Shaughnessy Stadium.jpg	137.1485	23.0859
-Padelford Riverboat.jpg	143.0386	55.7395	cielab_Padelford Riverboat.jpg	137.1485	23.0859
-Patrick Mcgoverns Pub.jpg	131.5691	75.0548	cielab_Patrick Mcgoverns Pub.jpg	137.1485	23.0859
-Pat’s Steaks.jpg	125.2866	59.9021	cielab_Pat’s Steaks.jpg	137.1485	23.0859
-Peanuts Character Statue.jpg	133.1270	67.0238	cielab_Peanuts Character Statue.jpg	137.1485	23.0859
-Peavey Plaza.jpg	118.4862	59.7920	cielab_Peavey Plaza.jpg	137.1485	23.0859
-Peavy Clock.jpg	122.4096	70.6126	cielab_Peavy Clock.jpg	137.1485	23.0859
-Peter Less House Statue.jpg	121.6992	54.3199	cielab_Peter Less House Statue.jpg	137.1485	23.0859
-Pez Vela Statue.jpg	133.5543	71.2749	cielab_Pez Vela Statue.jpg	137.1485	23.0859
-Phalen Regional Park.jpg	124.1917	64.9215	cielab_Phalen Regional Park.jpg	137.1485	23.0859
-Philadelphia City Hall.jpg	139.3551	47.1092	cielab_Philadelphia City Hall.jpg	137.1485	23.0859
-Pillsbury Amill Statue.jpg	116.9920	72.1276	cielab_Pillsbury Amill Statue.jpg	137.1485	23.0859
-Pillsbury Library.jpg	118.9347	55.9081	cielab_Pillsbury Library.jpg	137.1485	23.0859
-Pillsbury Statue.jpg	87.7619	75.3746	cielab_Pillsbury Statue.jpg	137.1485	23.0859
-Pilsbury Hall.jpg	132.9840	53.6444	cielab_Pilsbury Hall.jpg	137.1485	23.0859
-Pioneer Building.jpg	120.9447	64.6191	cielab_Pioneer Building.jpg	137.1485	23.0859
-Pioneer Courage Statue.jpg	111.1058	63.9103	cielab_Pioneer Courage Statue.jpg	137.1485	23.0859
-Pioneers Statue.jpg	137.0101	60.8821	cielab_Pioneers Statue.jpg	137.1485	23.0859
-Platonic Figure.jpg	110.9033	63.4211	cielab_Platonic Figure.jpg	137.1485	23.0859
-Pleasant St SE.jpg	132.9668	44.3128	cielab_Pleasant St SE.jpg	137.1485	23.0859
-Prince Mural.jpg	147.6528	60.6877	cielab_Prince Mural.jpg	137.1485	23.0859
-Prince Statue.jpg	117.1807	56.8812	cielab_Prince Statue.jpg	137.1485	23.0859
-Pro Medica Headquarters Toledo, Ohio.jpg	142.4250	48.9771	cielab_Pro Medica Headquarters Toledo, Ohio.jpg	137.1485	23.0859
-Psycho Suzie’s.jpg	143.7083	70.3732	cielab_Psycho Suzie’s.jpg	137.1485	23.0859
-Public Service Building.jpg	139.2395	69.5973	cielab_Public Service Building.jpg	137.1485	23.0859
-Purcell Cutts House.jpg	131.8253	66.3995	cielab_Purcell Cutts House.jpg	137.1485	23.0859
-Quadriga Statue.jpg	140.8829	55.8712	cielab_Quadriga Statue.jpg	137.1485	23.0859
-Ramsay County Courthouse.jpg	100.1842	52.7673	cielab_Ramsay County Courthouse.jpg	137.1485	23.0859
-Raspberry Island.jpg	140.0005	54.8971	cielab_Raspberry Island.jpg	137.1485	23.0859
-Rbc Gateway.jpg	153.6289	51.0154	cielab_Rbc Gateway.jpg	137.1485	23.0859
-Regions Hospital.jpg	115.5572	59.9683	cielab_Regions Hospital.jpg	137.1485	23.0859
-Regis Center For The Arts.jpg	114.3831	53.9874	cielab_Regis Center For The Arts.jpg	137.1485	23.0859
-Reverence Statue South Burlington, Vermont.jpg	141.7095	71.3492	cielab_Reverence Statue South Burlington, Vermont.jpg	137.1485	23.0859
-Reverie Cafe And Bar.jpg	89.7539	64.9178	cielab_Reverie Cafe And Bar.jpg	137.1485	23.0859
-Rice Park Fountain.jpg	144.2745	54.2396	cielab_Rice Park Fountain.jpg	137.1485	23.0859
-Rice Park.jpg	136.1420	48.7994	cielab_Rice Park.jpg	137.1485	23.0859
-Ridder Arena.jpg	104.2563	59.0930	cielab_Ridder Arena.jpg	137.1485	23.0859
-River Centre Parking Ramp.jpg	145.5617	54.1586	cielab_River Centre Parking Ramp.jpg	137.1485	23.0859
-Riverside Plaza.jpg	147.7244	72.9457	cielab_Riverside Plaza.jpg	137.1485	23.0859
-Ryman Auditorium.jpg	127.3072	67.7114	cielab_Ryman Auditorium.jpg	137.1485	23.0859
-SE Washington Ave.jpg	125.6811	61.8946	cielab_SE Washington Ave.jpg	137.1485	23.0859
-SPS Tower.jpg	125.5468	61.6397	cielab_SPS Tower.jpg	137.1485	23.0859
-Saint Paul Seminary.jpg	99.2626	74.5942	cielab_Saint Paul Seminary.jpg	137.1485	23.0859
-Sarah Porter Memorial Farmington.jpg	131.4244	68.1063	cielab_Sarah Porter Memorial Farmington.jpg	137.1485	23.0859
-Scholars Walk.jpg	124.3074	51.0140	cielab_Scholars Walk.jpg	137.1485	23.0859
-Schroeder And Lucy.jpg	142.9485	68.0733	cielab_Schroeder And Lucy.jpg	137.1485	23.0859
-Science Museum Of MN.jpg	98.8803	56.6351	cielab_Science Museum Of MN.jpg	137.1485	23.0859
-Science Museum.jpg	119.3148	56.9305	cielab_Science Museum.jpg	137.1485	23.0859
-Sculpture Garden Cherry Spoon.jpg	149.0631	54.5060	cielab_Sculpture Garden Cherry Spoon.jpg	137.1485	23.0859
-Sculpture Garden9.jpg	145.9604	66.3882	cielab_Sculpture Garden9.jpg	137.1485	23.0859
-Sculpture Garden_1.jpg	126.9679	56.7675	cielab_Sculpture Garden_1.jpg	137.1485	23.0859
-Sculpture Garden_10.jpg	142.2290	61.4078	cielab_Sculpture Garden_10.jpg	137.1485	23.0859
-Sculpture Garden_11.jpg	125.0650	84.6612	cielab_Sculpture Garden_11.jpg	137.1485	23.0859
-Sculpture Garden_12.jpg	147.1842	69.8765	cielab_Sculpture Garden_12.jpg	137.1485	23.0859
-Sculpture Garden_2.jpg	106.9463	57.9435	cielab_Sculpture Garden_2.jpg	137.1485	23.0859
-Sculpture Garden_3.jpg	115.2173	59.0463	cielab_Sculpture Garden_3.jpg	137.1485	23.0859
-Sculpture Garden_4.jpg	127.7728	55.6119	cielab_Sculpture Garden_4.jpg	137.1485	23.0859
-Sculpture Garden_5.jpg	119.3675	58.2564	cielab_Sculpture Garden_5.jpg	137.1485	23.0859
-Sculpture Garden_6.jpg	109.6410	63.8000	cielab_Sculpture Garden_6.jpg	137.1485	23.0859
-Sculpture Garden_7.jpg	119.1737	51.8340	cielab_Sculpture Garden_7.jpg	137.1485	23.0859
-Sea Foam Stadium.jpg	142.7748	71.4512	cielab_Sea Foam Stadium.jpg	137.1485	23.0859
-Sea Life Aquarium.jpg	127.4898	69.0458	cielab_Sea Life Aquarium.jpg	137.1485	23.0859
-Shepard Manufacturing Company Statue.jpg	143.9246	64.0794	cielab_Shepard Manufacturing Company Statue.jpg	137.1485	23.0859
-Shoe Tree.jpg	101.7495	59.4189	cielab_Shoe Tree.jpg	137.1485	23.0859
-Skyway Map.jpg	72.9824	85.1135	cielab_Skyway Map.jpg	137.1485	23.0859
-Skyway.jpg	137.9523	62.6350	cielab_Skyway.jpg	137.1485	23.0859
-Snoopy Statue.jpg	115.7457	48.9585	cielab_Snoopy Statue.jpg	137.1485	23.0859
-Soldiers And Sailors Statue.jpg	137.1362	47.5449	cielab_Soldiers And Sailors Statue.jpg	137.1485	23.0859
-Soo Line Building.jpg	120.2602	70.6348	cielab_Soo Line Building.jpg	137.1485	23.0859
-St Anthony Falls.jpg	177.2848	47.5563	cielab_St Anthony Falls.jpg	137.1485	23.0859
-St Anthony.jpg	145.4862	82.9595	cielab_St Anthony.jpg	137.1485	23.0859
-St Catherine’s.jpg	125.3340	59.4812	cielab_St Catherine’s.jpg	137.1485	23.0859
-St Francis Como Conservatory.jpg	104.8408	76.1638	cielab_St Francis Como Conservatory.jpg	137.1485	23.0859
-St John The Evangelist Episcopal Church.jpg	120.0100	58.5356	cielab_St John The Evangelist Episcopal Church.jpg	137.1485	23.0859
-St Louis Church.jpg	125.0773	69.1889	cielab_St Louis Church.jpg	137.1485	23.0859
-St Paul Academy And Summit School.jpg	121.8542	70.8500	cielab_St Paul Academy And Summit School.jpg	137.1485	23.0859
-St Paul Brewing.jpg	140.8720	63.6476	cielab_St Paul Brewing.jpg	137.1485	23.0859
-St Paul Cathedral.jpg	152.3726	52.2735	cielab_St Paul Cathedral.jpg	137.1485	23.0859
-St Paul Chamber Orchestra.jpg	137.4235	73.7139	cielab_St Paul Chamber Orchestra.jpg	137.1485	23.0859
-St Paul College.jpg	118.2456	51.1185	cielab_St Paul College.jpg	137.1485	23.0859
-St Paul Farmers Market.jpg	135.1284	80.9199	cielab_St Paul Farmers Market.jpg	137.1485	23.0859
-St Paul Hotel.jpg	115.3738	55.5783	cielab_St Paul Hotel.jpg	137.1485	23.0859
-St Paul Library.jpg	144.2205	53.9615	cielab_St Paul Library.jpg	137.1485	23.0859
-St Paul’s United Church Of Christ.jpg	128.8737	49.9808	cielab_St Paul’s United Church Of Christ.jpg	137.1485	23.0859
-St Thomas Cathedral.jpg	130.3456	70.2628	cielab_St Thomas Cathedral.jpg	137.1485	23.0859
-St Thomas Statue.jpg	139.1760	74.1516	cielab_St Thomas Statue.jpg	137.1485	23.0859
-St Thomas.jpg	128.0961	55.6569	cielab_St Thomas.jpg	137.1485	23.0859
-Stassen Building.jpg	143.5787	61.9257	cielab_Stassen Building.jpg	137.1485	23.0859
-State Theater.jpg	117.0206	74.6502	cielab_State Theater.jpg	137.1485	23.0859
-State Theatre Ann Arbor Marquee.jpg	51.5131	71.8554	cielab_State Theatre Ann Arbor Marquee.jpg	137.1485	23.0859
-Stone Arch Bridge.jpg	164.1181	64.7320	cielab_Stone Arch Bridge.jpg	137.1485	23.0859
-Strategic Air Command And Aerospace Museum.jpg	156.6735	38.5045	cielab_Strategic Air Command And Aerospace Museum.jpg	137.1485	23.0859
-Street Mural Rutlant,Vermont.jpg	111.7890	49.2487	cielab_Street Mural Rutlant,Vermont.jpg	137.1485	23.0859
-Summit Avenue.jpg	138.5095	68.8718	cielab_Summit Avenue.jpg	137.1485	23.0859
-Summit Hill Community Garden.jpg	163.4213	64.3742	cielab_Summit Hill Community Garden.jpg	137.1485	23.0859
-Summit Manor Reception House.jpg	125.1842	82.9208	cielab_Summit Manor Reception House.jpg	137.1485	23.0859
-Suzzallo Library.jpg	131.1789	41.5677	cielab_Suzzallo Library.jpg	137.1485	23.0859
-Sweet Marthas Cookies.jpg	175.9662	57.4881	cielab_Sweet Marthas Cookies.jpg	137.1485	23.0859
-T. J. Jones Memorial Library.jpg	145.7137	75.6369	cielab_T. J. Jones Memorial Library.jpg	137.1485	23.0859
-Target Field.jpg	130.2377	40.8739	cielab_Target Field.jpg	137.1485	23.0859
-Target.jpg	135.1743	57.9390	cielab_Target.jpg	137.1485	23.0859
-Texas Capitol.jpg	119.5618	61.2997	cielab_Texas Capitol.jpg	137.1485	23.0859
-The Lexington.jpg	121.9110	73.6747	cielab_The Lexington.jpg	137.1485	23.0859
-The News Room.jpg	129.8080	64.0289	cielab_The News Room.jpg	137.1485	23.0859
-The Quad.jpg	177.6594	58.3596	cielab_The Quad.jpg	137.1485	23.0859
-The Rose Theatre.jpg	132.3895	58.6767	cielab_The Rose Theatre.jpg	137.1485	23.0859
-The University Club Of St Paul.jpg	103.3978	52.4199	cielab_The University Club Of St Paul.jpg	137.1485	23.0859
-Third Precinct.jpg	131.2029	63.7760	cielab_Third Precinct.jpg	137.1485	23.0859
-Thirty Six Cafe.jpg	193.3767	39.0079	cielab_Thirty Six Cafe.jpg	137.1485	23.0859
-Thomas Fandrews House Statue.jpg	124.9627	50.3656	cielab_Thomas Fandrews House Statue.jpg	137.1485	23.0859
-Toledo Bridge.jpg	85.6666	44.8881	cielab_Toledo Bridge.jpg	137.1485	23.0859
-Travelers Tower Hartford,Ct.jpg	124.8370	52.8858	cielab_Travelers Tower Hartford,Ct.jpg	137.1485	23.0859
-Treasure Island Center.jpg	118.1254	65.6815	cielab_Treasure Island Center.jpg	137.1485	23.0859
-Twins Stadium.jpg	136.2328	59.2400	cielab_Twins Stadium.jpg	137.1485	23.0859
-UMN Armory.jpg	125.4143	48.6173	cielab_UMN Armory.jpg	137.1485	23.0859
-UMN Sign.jpg	102.7082	59.6714	cielab_UMN Sign.jpg	137.1485	23.0859
-US Bank Plaza.jpg	118.8587	56.6400	cielab_US Bank Plaza.jpg	137.1485	23.0859
-US Bank Stadium Station.jpg	116.5318	60.6735	cielab_US Bank Stadium Station.jpg	137.1485	23.0859
-US Bank Stadium.jpg	98.4041	45.3666	cielab_US Bank Stadium.jpg	137.1485	23.0859
-Union Depot.jpg	170.5154	63.4315	cielab_Union Depot.jpg	137.1485	23.0859
-University Of Washington.jpg	111.6767	62.3364	cielab_University Of Washington.jpg	137.1485	23.0859
-Uno Clock Tower Nebraska.jpg	76.1116	40.7420	cielab_Uno Clock Tower Nebraska.jpg	137.1485	23.0859
-Uptown Crown.jpg	135.3312	69.7350	cielab_Uptown Crown.jpg	137.1485	23.0859
-Uptown Large Chairs.jpg	134.9951	66.7033	cielab_Uptown Large Chairs.jpg	137.1485	23.0859
-Van Cleve House.jpg	167.7041	60.3375	cielab_Van Cleve House.jpg	137.1485	23.0859
-Vietnam Veterans Memorial.jpg	129.4169	81.1157	cielab_Vietnam Veterans Memorial.jpg	137.1485	23.0859
-Vikings Longhouse.jpg	155.8792	79.2145	cielab_Vikings Longhouse.jpg	137.1485	23.0859
-Vulcan At The Forge Statue Birmingham.jpg	195.3221	67.3082	cielab_Vulcan At The Forge Statue Birmingham.jpg	137.1485	23.0859
-Wabasha Street Bridge.jpg	129.7259	38.6485	cielab_Wabasha Street Bridge.jpg	137.1485	23.0859
-Wabasha Street Caves.jpg	138.4088	52.3475	cielab_Wabasha Street Caves.jpg	137.1485	23.0859
-Wabasha Street Snoopy.jpg	135.9592	55.7315	cielab_Wabasha Street Snoopy.jpg	137.1485	23.0859
-Walker Art Center.jpg	165.0306	59.8943	cielab_Walker Art Center.jpg	137.1485	23.0859
-Walter Library.jpg	123.4341	72.1167	cielab_Walter Library.jpg	137.1485	23.0859
-Walter Library_2.jpg	144.7501	39.2394	cielab_Walter Library_2.jpg	137.1485	23.0859
-Washington Ave Bridge.jpg	109.7646	59.4750	cielab_Washington Ave Bridge.jpg	137.1485	23.0859
-Washington Ave SE.jpg	124.2480	62.6723	cielab_Washington Ave SE.jpg	137.1485	23.0859
-Washington Avenue Bridge.jpg	120.5073	62.8843	cielab_Washington Avenue Bridge.jpg	137.1485	23.0859
-Wcco.jpg	118.2843	69.3899	cielab_Wcco.jpg	137.1485	23.0859
-Weisman Art Museum.jpg	162.3848	57.5953	cielab_Weisman Art Museum.jpg	137.1485	23.0859
-Wells Fargo 550 Tower.jpg	100.7568	58.8708	cielab_Wells Fargo 550 Tower.jpg	137.1485	23.0859
-Wells Fargo Building.jpg	125.0636	49.7869	cielab_Wells Fargo Building.jpg	137.1485	23.0859
-Wells Fargo Center.jpg	124.2480	62.6723	cielab_Wells Fargo Center.jpg	137.1485	23.0859
-Wells Fargo Center_2.jpg	142.6632	60.9803	cielab_Wells Fargo Center_2.jpg	137.1485	23.0859
-Wells Fargo.jpg	138.2647	68.3204	cielab_Wells Fargo.jpg	137.1485	23.0859
-West Bank.jpg	120.4174	59.9879	cielab_West Bank.jpg	137.1485	23.0859
-Western Sculpture Park_1.jpg	128.3929	48.5540	cielab_Western Sculpture Park_1.jpg	137.1485	23.0859
-Western Sculpture Park_3.jpg	132.1641	64.6615	cielab_Western Sculpture Park_3.jpg	137.1485	23.0859
-Western Sculpture Park_4.jpg	143.7397	51.9996	cielab_Western Sculpture Park_4.jpg	137.1485	23.0859
-Western Sculpture Park_5.jpg	126.5593	70.0221	cielab_Western Sculpture Park_5.jpg	137.1485	23.0859
-Whole Foods.jpg	149.6592	70.1858	cielab_Whole Foods.jpg	137.1485	23.0859
-Willard Park Cleveland.jpg	126.0175	70.4594	cielab_Willard Park Cleveland.jpg	137.1485	23.0859
-Wilson Library.jpg	126.5149	52.1946	cielab_Wilson Library.jpg	137.1485	23.0859
-Winslow House Hotel Statue.jpg	133.5907	67.6822	cielab_Winslow House Hotel Statue.jpg	137.1485	23.0859
-Winthrop School East High School Statue.jpg	150.1961	68.1507	cielab_Winthrop School East High School Statue.jpg	137.1485	23.0859
-Woodbury Fisk House Statue.jpg	118.0982	51.0837	cielab_Woodbury Fisk House Statue.jpg	137.1485	23.0859
-World War I Memorial.jpg	110.4540	81.7113	cielab_World War I Memorial.jpg	137.1485	23.0859
-Xcel Energy Center.jpg	133.1136	48.3549	cielab_Xcel Energy Center.jpg	137.1485	23.0859
-Yacht Club.jpg	113.9836	49.8505	cielab_Yacht Club.jpg	137.1485	23.0859
-Pooled	130.7982	62.1379	Pooled	137.1485	23.0859
+250 Marquette.jpg	138.8750	65.3960	cielab_250 Marquette.jpg	137.5183	23.1644
+430 Oak Grove.jpg	139.0449	61.8735	cielab_430 Oak Grove.jpg	137.5183	23.1644
+5Th Street Towers.jpg	146.7973	62.0805	cielab_5Th Street Towers.jpg	137.5183	23.1644
+Acadia Cafe.jpg	131.4273	60.6670	cielab_Acadia Cafe.jpg	137.5183	23.1644
+Agra Culture Kitchen.jpg	99.8511	72.2041	cielab_Agra Culture Kitchen.jpg	137.5183	23.1644
+Akron Canal Park.jpg	153.9447	53.6048	cielab_Akron Canal Park.jpg	137.5183	23.1644
+Alabama State Capitol.jpg	154.1685	64.3997	cielab_Alabama State Capitol.jpg	137.5183	23.1644
+Alexander Ramsey House.jpg	119.4831	61.3468	cielab_Alexander Ramsey House.jpg	137.5183	23.1644
+Allianz Field.jpg	139.7130	71.0248	cielab_Allianz Field.jpg	137.5183	23.1644
+American Swedish Institute.jpg	134.4897	55.5209	cielab_American Swedish Institute.jpg	137.5183	23.1644
+Amill Artist Lofts.jpg	161.6750	61.4797	cielab_Amill Artist Lofts.jpg	137.5183	23.1644
+Angel Hall Ann Arbor.jpg	158.1464	61.1108	cielab_Angel Hall Ann Arbor.jpg	137.5183	23.1644
+Ann Arbor Mural.jpg	137.9507	65.5660	cielab_Ann Arbor Mural.jpg	137.5183	23.1644
+Annies Parlour.jpg	133.6418	60.5854	cielab_Annies Parlour.jpg	137.5183	23.1644
+Anthony Cragg Sculpture.jpg	142.0849	63.0905	cielab_Anthony Cragg Sculpture.jpg	137.5183	23.1644
+Ard Godfrey House.jpg	103.6778	57.7153	cielab_Ard Godfrey House.jpg	137.5183	23.1644
+Armory.jpg	160.6312	62.1480	cielab_Armory.jpg	137.5183	23.1644
+Arvonne Fraser Library.jpg	137.9523	56.3389	cielab_Arvonne Fraser Library.jpg	137.5183	23.1644
+Aster Cafe.jpg	127.9990	63.6046	cielab_Aster Cafe.jpg	137.5183	23.1644
+At T Tower.jpg	159.8753	61.4310	cielab_At T Tower.jpg	137.5183	23.1644
+Augsburg University.jpg	112.4891	57.5588	cielab_Augsburg University.jpg	137.5183	23.1644
+Band Box Diner.jpg	134.5185	51.9271	cielab_Band Box Diner.jpg	137.5183	23.1644
+Baseball Statue.jpg	122.6043	59.6400	cielab_Baseball Statue.jpg	137.5183	23.1644
+Basillica.jpg	177.0392	45.5741	cielab_Basillica.jpg	137.5183	23.1644
+Baxter Arena.jpg	134.3444	74.2564	cielab_Baxter Arena.jpg	137.5183	23.1644
+Bell Museum.jpg	120.8815	49.5449	cielab_Bell Museum.jpg	137.5183	23.1644
+Bethlehem Baptist Church.jpg	141.0332	58.4200	cielab_Bethlehem Baptist Church.jpg	137.5183	23.1644
+Black Coffee And Waffle Bar.jpg	136.9689	74.3233	cielab_Black Coffee And Waffle Bar.jpg	137.5183	23.1644
+Blue Chicken Sculpture.jpg	147.1842	69.8765	cielab_Blue Chicken Sculpture.jpg	137.5183	23.1644
+Boom Island Lighthouse.jpg	135.3255	64.3478	cielab_Boom Island Lighthouse.jpg	137.5183	23.1644
+Boynton Health.jpg	136.1722	49.5474	cielab_Boynton Health.jpg	137.5183	23.1644
+Brit’s Pub.jpg	149.5738	65.4887	cielab_Brit’s Pub.jpg	137.5183	23.1644
+Bronze Bulls.jpg	158.1653	64.0073	cielab_Bronze Bulls.jpg	137.5183	23.1644
+Bruininks Hall.jpg	125.3431	43.7337	cielab_Bruininks Hall.jpg	137.5183	23.1644
+Building And Tower Statue.jpg	136.8134	53.1401	cielab_Building And Tower Statue.jpg	137.5183	23.1644
+CHS Field.jpg	133.7585	45.3633	cielab_CHS Field.jpg	137.5183	23.1644
+Caleb Ddorr Statue.jpg	121.0593	77.7878	cielab_Caleb Ddorr Statue.jpg	137.5183	23.1644
+Campbell Mithun Tower.jpg	109.8440	40.1210	cielab_Campbell Mithun Tower.jpg	137.5183	23.1644
+Candy Land.jpg	111.3319	62.8775	cielab_Candy Land.jpg	137.5183	23.1644
+Capitol Building.jpg	130.3469	40.7042	cielab_Capitol Building.jpg	137.5183	23.1644
+Carlson School Of Management.jpg	167.4783	62.0782	cielab_Carlson School Of Management.jpg	137.5183	23.1644
+Carroll Building,Connecticut.jpg	95.2683	52.1330	cielab_Carroll Building,Connecticut.jpg	137.5183	23.1644
+Carty Park.jpg	118.7489	40.9954	cielab_Carty Park.jpg	137.5183	23.1644
+Cecils.jpg	119.4385	58.9294	cielab_Cecils.jpg	137.5183	23.1644
+Central Ave NE.jpg	136.1150	83.1046	cielab_Central Ave NE.jpg	137.5183	23.1644
+Central Lutheran Church.jpg	137.0702	73.8342	cielab_Central Lutheran Church.jpg	137.5183	23.1644
+Central Presbyterian Church.jpg	133.3764	61.7148	cielab_Central Presbyterian Church.jpg	137.5183	23.1644
+Central Village Park.jpg	112.0341	58.5772	cielab_Central Village Park.jpg	137.5183	23.1644
+Charles Lindbergh Statue.jpg	129.3850	65.8670	cielab_Charles Lindbergh Statue.jpg	137.5183	23.1644
+Charles Schwab Field.jpg	119.3843	82.0729	cielab_Charles Schwab Field.jpg	137.5183	23.1644
+Charlie Brown Statue.jpg	113.5409	68.1285	cielab_Charlie Brown Statue.jpg	137.5183	23.1644
+Cherry On The Spoon.jpg	149.0631	54.5060	cielab_Cherry On The Spoon.jpg	137.5183	23.1644
+Chez Olga.jpg	130.9989	87.7444	cielab_Chez Olga.jpg	137.5183	23.1644
+Chicago Liquior.jpg	157.2441	54.6451	cielab_Chicago Liquior.jpg	137.5183	23.1644
+Childrens Hospital St Paul.jpg	153.2108	56.3350	cielab_Childrens Hospital St Paul.jpg	137.5183	23.1644
+Children’s Hospital Minneapolis.jpg	140.5843	67.1405	cielab_Children’s Hospital Minneapolis.jpg	137.5183	23.1644
+Children’s Museum Of Indianapolis.jpg	137.7577	54.7135	cielab_Children’s Museum Of Indianapolis.jpg	137.5183	23.1644
+Christopher Columbus Statue.jpg	119.8326	53.1191	cielab_Christopher Columbus Statue.jpg	137.5183	23.1644
+Church Of Scientology.jpg	167.6724	58.2262	cielab_Church Of Scientology.jpg	137.5183	23.1644
+Church Of St Casimir.jpg	109.9662	46.7258	cielab_Church Of St Casimir.jpg	137.5183	23.1644
+Church Of The Assumption.jpg	125.9301	55.7284	cielab_Church Of The Assumption.jpg	137.5183	23.1644
+Cincinnati Eden Park.jpg	110.3576	78.6286	cielab_Cincinnati Eden Park.jpg	137.5183	23.1644
+Cincinnati Music Hall.jpg	122.9316	61.5796	cielab_Cincinnati Music Hall.jpg	137.5183	23.1644
+Cincinnati Observatory.jpg	190.6855	65.4031	cielab_Cincinnati Observatory.jpg	137.5183	23.1644
+Cinnabon Store Mall Of America.jpg	118.0787	64.9415	cielab_Cinnabon Store Mall Of America.jpg	137.5183	23.1644
+Cities Church.jpg	153.7708	66.6266	cielab_Cities Church.jpg	137.5183	23.1644
+City Hall Oakland.jpg	147.5300	49.5878	cielab_City Hall Oakland.jpg	137.5183	23.1644
+City Hall Statue.jpg	133.0850	53.3866	cielab_City Hall Statue.jpg	137.5183	23.1644
+City Hall.jpg	127.0770	59.8248	cielab_City Hall.jpg	137.5183	23.1644
+Cleveland Metropark.jpg	97.2797	55.5959	cielab_Cleveland Metropark.jpg	137.5183	23.1644
+Cochran Park Fountain.jpg	112.4348	76.6248	cielab_Cochran Park Fountain.jpg	137.5183	23.1644
+Coffman Memorial Union.jpg	118.2395	61.9299	cielab_Coffman Memorial Union.jpg	137.5183	23.1644
+Colorado St Bridge.jpg	161.0371	53.1446	cielab_Colorado St Bridge.jpg	137.5183	23.1644
+Como Conservatory.jpg	157.6364	51.3823	cielab_Como Conservatory.jpg	137.5183	23.1644
+Como Zoo Conservatory.jpg	104.9489	75.1415	cielab_Como Zoo Conservatory.jpg	137.5183	23.1644
+Coney Island Tavern.jpg	90.2179	66.0819	cielab_Coney Island Tavern.jpg	137.5183	23.1644
+Cossetta.jpg	118.8163	66.0940	cielab_Cossetta.jpg	137.5183	23.1644
+Craft Council Building.jpg	153.2067	54.0091	cielab_Craft Council Building.jpg	137.5183	23.1644
+Davidson Hotel.jpg	147.1601	67.7110	cielab_Davidson Hotel.jpg	137.5183	23.1644
+Daytons.jpg	121.0175	63.3738	cielab_Daytons.jpg	137.5183	23.1644
+Depew Memorial Fountain.jpg	126.0418	66.3261	cielab_Depew Memorial Fountain.jpg	137.5183	23.1644
+Derham Hall.jpg	128.3417	45.9499	cielab_Derham Hall.jpg	137.5183	23.1644
+Desert Dome.jpg	136.7736	55.3654	cielab_Desert Dome.jpg	137.5183	23.1644
+Dew Drop Pond.jpg	144.4691	74.7838	cielab_Dew Drop Pond.jpg	137.5183	23.1644
+Dewitt Library.jpg	116.3902	63.6550	cielab_Dewitt Library.jpg	137.5183	23.1644
+Disappearing People Statues.jpg	142.0684	59.9685	cielab_Disappearing People Statues.jpg	137.5183	23.1644
+Double Tree By Hilton Hotel.jpg	104.7181	60.7462	cielab_Double Tree By Hilton Hotel.jpg	137.5183	23.1644
+Earle Brown House Statue.jpg	155.6813	61.2553	cielab_Earle Brown House Statue.jpg	137.5183	23.1644
+East Hennepin Avenue Buildings Statue.jpg	138.9063	54.9817	cielab_East Hennepin Avenue Buildings Statue.jpg	137.5183	23.1644
+Eastcliff Mansion.jpg	150.4718	69.5055	cielab_Eastcliff Mansion.jpg	137.5183	23.1644
+Ecolab Building.jpg	151.6613	41.4024	cielab_Ecolab Building.jpg	137.5183	23.1644
+Eddy Hall Sculptures.jpg	100.8117	52.7926	cielab_Eddy Hall Sculptures.jpg	137.5183	23.1644
+Eddy Hall.jpg	114.4174	63.9266	cielab_Eddy Hall.jpg	137.5183	23.1644
+El Rio Vista Recreation Center.jpg	122.6922	68.1134	cielab_El Rio Vista Recreation Center.jpg	137.5183	23.1644
+Eleven On The River.jpg	185.4774	54.1280	cielab_Eleven On The River.jpg	137.5183	23.1644
+Eli S East Hennepin.jpg	127.6246	80.8635	cielab_Eli S East Hennepin.jpg	137.5183	23.1644
+Elliot Park.jpg	104.6616	69.1401	cielab_Elliot Park.jpg	137.5183	23.1644
+Emiliano Zapata Statue.jpg	90.3987	67.9543	cielab_Emiliano Zapata Statue.jpg	137.5183	23.1644
+F Scott Fitzgerald Statue.jpg	107.5521	46.6384	cielab_F Scott Fitzgerald Statue.jpg	137.5183	23.1644
+F. Scott Fitzgerald House.jpg	103.5575	53.7634	cielab_F. Scott Fitzgerald House.jpg	137.5183	23.1644
+Falcon Heights.jpg	141.0235	57.6425	cielab_Falcon Heights.jpg	137.5183	23.1644
+Farmers Market Chicken.jpg	130.6593	67.6984	cielab_Farmers Market Chicken.jpg	137.5183	23.1644
+Farmers Market Mural.jpg	141.3079	54.7337	cielab_Farmers Market Mural.jpg	137.5183	23.1644
+Farmington Mall.jpg	161.6426	53.9784	cielab_Farmington Mall.jpg	137.5183	23.1644
+Father Hennepin Statue.jpg	178.5156	59.3546	cielab_Father Hennepin Statue.jpg	137.5183	23.1644
+First Avenue.jpg	115.8750	92.7364	cielab_First Avenue.jpg	137.5183	23.1644
+First Baptist Church.jpg	105.9138	43.4573	cielab_First Baptist Church.jpg	137.5183	23.1644
+First Congregational Church Statue.jpg	127.6512	61.0828	cielab_First Congregational Church Statue.jpg	137.5183	23.1644
+First National Bank Building.jpg	141.1816	38.0506	cielab_First National Bank Building.jpg	137.5183	23.1644
+First National Building Ann Arbor.jpg	125.3401	65.3265	cielab_First National Building Ann Arbor.jpg	137.5183	23.1644
+Fitzgerald Theater.jpg	145.2082	62.0232	cielab_Fitzgerald Theater.jpg	137.5183	23.1644
+Fleming Administration Building.jpg	125.3040	65.1018	cielab_Fleming Administration Building.jpg	137.5183	23.1644
+Florence Court Statue.jpg	130.9950	55.5806	cielab_Florence Court Statue.jpg	137.5183	23.1644
+Floyd Olson Statue.jpg	122.9042	55.8272	cielab_Floyd Olson Statue.jpg	137.5183	23.1644
+Folwell Hall.jpg	132.7980	63.9918	cielab_Folwell Hall.jpg	137.5183	23.1644
+Folwell.jpg	144.9794	52.4348	cielab_Folwell.jpg	137.5183	23.1644
+Ford Dam Scenic Overlook.jpg	105.9173	72.7906	cielab_Ford Dam Scenic Overlook.jpg	137.5183	23.1644
+Ford Little League Field.jpg	156.7536	63.3892	cielab_Ford Little League Field.jpg	137.5183	23.1644
+Fort Snelling.jpg	175.8898	43.1235	cielab_Fort Snelling.jpg	137.5183	23.1644
+Foshay Enterance.jpg	135.5155	48.2516	cielab_Foshay Enterance.jpg	137.5183	23.1644
+Fox Theatre.jpg	156.7870	66.4837	cielab_Fox Theatre.jpg	137.5183	23.1644
+Fred L Smith House Statue.jpg	132.9145	57.0882	cielab_Fred L Smith House Statue.jpg	137.5183	23.1644
+General Mills.jpg	107.5702	81.6085	cielab_General Mills.jpg	137.5183	23.1644
+George Latimer Central Library.jpg	147.9833	59.6285	cielab_George Latimer Central Library.jpg	137.5183	23.1644
+Germanic American Institute.jpg	150.9052	69.8914	cielab_Germanic American Institute.jpg	137.5183	23.1644
+Gibbs Farm.jpg	136.4859	57.5206	cielab_Gibbs Farm.jpg	137.5183	23.1644
+Gold Medal Flour Building.jpg	162.3553	62.2885	cielab_Gold Medal Flour Building.jpg	137.5183	23.1644
+Gold Medal Park Sign.jpg	164.6522	56.6841	cielab_Gold Medal Park Sign.jpg	137.5183	23.1644
+Goldy Gopher.jpg	111.0502	48.6723	cielab_Goldy Gopher.jpg	137.5183	23.1644
+Governors Residence.jpg	111.8453	68.7179	cielab_Governors Residence.jpg	137.5183	23.1644
+Graduate Hotel.jpg	121.0609	49.6962	cielab_Graduate Hotel.jpg	137.5183	23.1644
+Grand Avenue Tattoo.jpg	109.0950	75.0142	cielab_Grand Avenue Tattoo.jpg	137.5183	23.1644
+Grand River Railroad Lansing.jpg	123.7064	62.8673	cielab_Grand River Railroad Lansing.jpg	137.5183	23.1644
+Grand Stand.jpg	121.3353	72.6546	cielab_Grand Stand.jpg	137.5183	23.1644
+Grandview Theatre.jpg	110.7794	66.3011	cielab_Grandview Theatre.jpg	137.5183	23.1644
+Griggs Mansion.jpg	118.5407	67.6029	cielab_Griggs Mansion.jpg	137.5183	23.1644
+Groveland Recreation Center.jpg	96.0891	50.4281	cielab_Groveland Recreation Center.jpg	137.5183	23.1644
+Guthrie Theater.jpg	124.3561	74.5924	cielab_Guthrie Theater.jpg	137.5183	23.1644
+Guthrie Theatre.jpg	143.0222	78.6101	cielab_Guthrie Theatre.jpg	137.5183	23.1644
+Hamline University.jpg	128.3450	64.7881	cielab_Hamline University.jpg	137.5183	23.1644
+Harriet Island Park.jpg	114.5923	56.9470	cielab_Harriet Island Park.jpg	137.5183	23.1644
+Harriet Island Pavilion.jpg	113.9781	49.4009	cielab_Harriet Island Pavilion.jpg	137.5183	23.1644
+Healthy Living Supermarket South Burlington.jpg	124.5102	71.0157	cielab_Healthy Living Supermarket South Burlington.jpg	137.5183	23.1644
+Heimie’s Haberdashery.jpg	70.6713	52.3922	cielab_Heimie’s Haberdashery.jpg	137.5183	23.1644
+Hennepin Avenue Bridge.jpg	136.2168	69.7937	cielab_Hennepin Avenue Bridge.jpg	137.5183	23.1644
+Hennepin County Government Center.jpg	150.1949	51.9778	cielab_Hennepin County Government Center.jpg	137.5183	23.1644
+Hennepin County Medical Center.jpg	134.8851	76.9427	cielab_Hennepin County Medical Center.jpg	137.5183	23.1644
+Hennepin County Sheriff’s Office.jpg	147.6850	59.4661	cielab_Hennepin County Sheriff’s Office.jpg	137.5183	23.1644
+Hennepin Theater.jpg	119.2856	73.0683	cielab_Hennepin Theater.jpg	137.5183	23.1644
+Herb Brooks Statue.jpg	135.3032	45.2498	cielab_Herb Brooks Statue.jpg	137.5183	23.1644
+High Bridge Overlook.jpg	155.1384	79.7911	cielab_High Bridge Overlook.jpg	137.5183	23.1644
+High Bridge.jpg	119.9996	52.0912	cielab_High Bridge.jpg	137.5183	23.1644
+Highland Park Crisp And Green.jpg	120.4771	43.8471	cielab_Highland Park Crisp And Green.jpg	137.5183	23.1644
+Holman Field.jpg	113.3368	44.6552	cielab_Holman Field.jpg	137.5183	23.1644
+Hope Community Church.jpg	137.5364	49.0568	cielab_Hope Community Church.jpg	137.5183	23.1644
+Horace Mann Playground.jpg	142.1761	52.1993	cielab_Horace Mann Playground.jpg	137.5183	23.1644
+Hubert H Humphrey Statue.jpg	121.1772	69.6163	cielab_Hubert H Humphrey Statue.jpg	137.5183	23.1644
+Huntoon Park.jpg	130.5976	68.9054	cielab_Huntoon Park.jpg	137.5183	23.1644
+Huss Center.jpg	177.7505	70.9673	cielab_Huss Center.jpg	137.5183	23.1644
+Independence Hall.jpg	154.9180	67.5157	cielab_Independence Hall.jpg	137.5183	23.1644
+Indian Mounds Park Entrance.jpg	132.0825	54.7630	cielab_Indian Mounds Park Entrance.jpg	137.5183	23.1644
+Indian Mounds Park.jpg	102.5137	58.2446	cielab_Indian Mounds Park.jpg	137.5183	23.1644
+Indian Mounds Regional Park.jpg	123.0487	59.2253	cielab_Indian Mounds Regional Park.jpg	137.5183	23.1644
+Indiana Landmarks Center.jpg	166.7309	68.3193	cielab_Indiana Landmarks Center.jpg	137.5183	23.1644
+International Christian Unity Bible College.jpg	134.8150	69.7349	cielab_International Christian Unity Bible College.jpg	137.5183	23.1644
+Iron Mike Statue.jpg	139.2640	50.3335	cielab_Iron Mike Statue.jpg	137.5183	23.1644
+Irvine Park Gazebo.jpg	120.5181	57.2920	cielab_Irvine Park Gazebo.jpg	137.5183	23.1644
+J. V. Bailey House.jpg	127.6177	71.4180	cielab_J. V. Bailey House.jpg	137.5183	23.1644
+Jack Brickhouse Statue.jpg	134.2090	56.5954	cielab_Jack Brickhouse Statue.jpg	137.5183	23.1644
+James J Hill House.jpg	132.3506	60.9761	cielab_James J Hill House.jpg	137.5183	23.1644
+Jazz Trio.jpg	115.1031	67.5784	cielab_Jazz Trio.jpg	137.5183	23.1644
+Jimmy Lee Play Area.jpg	165.0617	62.2967	cielab_Jimmy Lee Play Area.jpg	137.5183	23.1644
+Jimmy Lee Rec Center.jpg	124.8371	56.8224	cielab_Jimmy Lee Rec Center.jpg	137.5183	23.1644
+John Dudley House Statue.jpg	163.0844	47.6608	cielab_John Dudley House Statue.jpg	137.5183	23.1644
+John J Zampieri State Office.jpg	134.4945	71.0139	cielab_John J Zampieri State Office.jpg	137.5183	23.1644
+Jones Hall Sculpture.jpg	112.5448	50.2936	cielab_Jones Hall Sculpture.jpg	137.5183	23.1644
+Joslyn Castle.jpg	130.9885	66.6518	cielab_Joslyn Castle.jpg	137.5183	23.1644
+Kauffman Center.jpg	148.2241	45.5342	cielab_Kauffman Center.jpg	137.5183	23.1644
+Korean War Memorial Statue.jpg	128.0889	65.6291	cielab_Korean War Memorial Statue.jpg	137.5183	23.1644
+Korean War Memorial.jpg	133.2719	64.4652	cielab_Korean War Memorial.jpg	137.5183	23.1644
+Kowalskis On Grand.jpg	134.7144	67.1768	cielab_Kowalskis On Grand.jpg	137.5183	23.1644
+La Salle.jpg	132.5626	65.6272	cielab_La Salle.jpg	137.5183	23.1644
+Lafayette Bridge.jpg	109.7016	53.5540	cielab_Lafayette Bridge.jpg	137.5183	23.1644
+Lake Calhoun.jpg	120.1952	77.8714	cielab_Lake Calhoun.jpg	137.5183	23.1644
+Lake Mead.jpg	119.6513	62.1582	cielab_Lake Mead.jpg	137.5183	23.1644
+Lake Of The Isles Lutheran Church.jpg	124.7621	48.8433	cielab_Lake Of The Isles Lutheran Church.jpg	137.5183	23.1644
+Landmark Center.jpg	151.1841	42.6602	cielab_Landmark Center.jpg	137.5183	23.1644
+Landmark Plaza.jpg	142.9485	68.0733	cielab_Landmark Plaza.jpg	137.5183	23.1644
+Large Green Chair.jpg	108.2450	69.2436	cielab_Large Green Chair.jpg	137.5183	23.1644
+Lego Store.jpg	102.4749	59.2168	cielab_Lego Store.jpg	137.5183	23.1644
+Leif Erikson Memorial.jpg	148.5803	71.4570	cielab_Leif Erikson Memorial.jpg	137.5183	23.1644
+Lewis And Clark Landing.jpg	162.3713	59.9375	cielab_Lewis And Clark Landing.jpg	137.5183	23.1644
+Literati Bookstore.jpg	73.4750	57.5046	cielab_Literati Bookstore.jpg	137.5183	23.1644
+Logan Park.jpg	126.7875	69.0275	cielab_Logan Park.jpg	137.5183	23.1644
+Lola Bar Cleveland.jpg	117.1952	74.1460	cielab_Lola Bar Cleveland.jpg	137.5183	23.1644
+Longaberger Basket Newark, Ohio.jpg	120.2136	52.9788	cielab_Longaberger Basket Newark, Ohio.jpg	137.5183	23.1644
+Loring Bridge.jpg	136.6356	55.0488	cielab_Loring Bridge.jpg	137.5183	23.1644
+Loring Greenway Enterance.jpg	120.6836	64.0520	cielab_Loring Greenway Enterance.jpg	137.5183	23.1644
+Loring Park Greenway Fountain.jpg	120.5383	64.2354	cielab_Loring Park Greenway Fountain.jpg	137.5183	23.1644
+Loring Park_1.jpg	132.2275	66.7609	cielab_Loring Park_1.jpg	137.5183	23.1644
+Loring Park_2.jpg	144.4385	64.6963	cielab_Loring Park_2.jpg	137.5183	23.1644
+Loring Park_3.jpg	104.6998	54.3139	cielab_Loring Park_3.jpg	137.5183	23.1644
+Louisiana State Capitol.jpg	157.1671	41.0748	cielab_Louisiana State Capitol.jpg	137.5183	23.1644
+Lowry Hill.jpg	143.3346	60.9575	cielab_Lowry Hill.jpg	137.5183	23.1644
+Luter Gage Johnson Store Statue.jpg	121.1670	59.7372	cielab_Luter Gage Johnson Store Statue.jpg	137.5183	23.1644
+Lyndale Park Gardens.jpg	142.8585	72.8174	cielab_Lyndale Park Gardens.jpg	137.5183	23.1644
+M M S Store Mall Of America.jpg	110.7566	71.9057	cielab_M M S Store Mall Of America.jpg	137.5183	23.1644
+M Sign Garden.jpg	117.0341	63.9413	cielab_M Sign Garden.jpg	137.5183	23.1644
+MN Department Of Natural Resources.jpg	126.9210	81.1772	cielab_MN Department Of Natural Resources.jpg	137.5183	23.1644
+MN Nice Cream.jpg	136.7043	50.9182	cielab_MN Nice Cream.jpg	137.5183	23.1644
+Macalester College.jpg	128.1787	56.1350	cielab_Macalester College.jpg	137.5183	23.1644
+Macalester Old Main.jpg	123.8611	52.8415	cielab_Macalester Old Main.jpg	137.5183	23.1644
+Mackenzie Pub.jpg	129.9249	67.0736	cielab_Mackenzie Pub.jpg	137.5183	23.1644
+Main Street Buildings Statues.jpg	155.7042	58.0632	cielab_Main Street Buildings Statues.jpg	137.5183	23.1644
+Mall Of America.jpg	133.0745	55.5285	cielab_Mall Of America.jpg	137.5183	23.1644
+Man Lifting Wheat Sack Statue.jpg	122.0579	76.9965	cielab_Man Lifting Wheat Sack Statue.jpg	137.5183	23.1644
+Manhattan Building.jpg	103.0748	56.3892	cielab_Manhattan Building.jpg	137.5183	23.1644
+Mariucci Arena.jpg	142.5458	56.9636	cielab_Mariucci Arena.jpg	137.5183	23.1644
+Market At Malcolm Yards.jpg	150.1500	57.1521	cielab_Market At Malcolm Yards.jpg	137.5183	23.1644
+Marquette Cancer Survivor Statue.jpg	142.0317	53.0962	cielab_Marquette Cancer Survivor Statue.jpg	137.5183	23.1644
+Martin Luther King Recreation Center.jpg	138.1308	72.7127	cielab_Martin Luther King Recreation Center.jpg	137.5183	23.1644
+Mary Tyler Moore.jpg	133.8944	67.0720	cielab_Mary Tyler Moore.jpg	137.5183	23.1644
+Mcquillan Park.jpg	140.0754	75.7487	cielab_Mcquillan Park.jpg	137.5183	23.1644
+Merchants National Bank Building.jpg	106.7095	73.7159	cielab_Merchants National Bank Building.jpg	137.5183	23.1644
+Merchants National Bank Plaque.jpg	97.9070	40.5837	cielab_Merchants National Bank Plaque.jpg	137.5183	23.1644
+Midtown Market.jpg	159.4446	47.2353	cielab_Midtown Market.jpg	137.5183	23.1644
+Minneapolis Central Library Statue.jpg	140.1354	54.3007	cielab_Minneapolis Central Library Statue.jpg	137.5183	23.1644
+Minneapolis Central Library.jpg	125.4605	58.0532	cielab_Minneapolis Central Library.jpg	137.5183	23.1644
+Minneapolis College.jpg	99.3092	78.9877	cielab_Minneapolis College.jpg	137.5183	23.1644
+Minneapolis Convention Center Sign.jpg	114.9786	60.3940	cielab_Minneapolis Convention Center Sign.jpg	137.5183	23.1644
+Minneapolis Convention Center.jpg	135.5954	52.7267	cielab_Minneapolis Convention Center.jpg	137.5183	23.1644
+Minneapolis Courthouse.jpg	157.7010	60.8762	cielab_Minneapolis Courthouse.jpg	137.5183	23.1644
+Minneapolis Institue Of Art.jpg	148.7450	65.8808	cielab_Minneapolis Institue Of Art.jpg	137.5183	23.1644
+Minnehaha Falls.jpg	125.7245	66.4248	cielab_Minnehaha Falls.jpg	137.5183	23.1644
+Minnesota Children’s Museum.jpg	154.4936	65.9629	cielab_Minnesota Children’s Museum.jpg	137.5183	23.1644
+Minnesota History Center.jpg	146.1954	41.7244	cielab_Minnesota History Center.jpg	137.5183	23.1644
+Minnesota House Of Representatives.jpg	96.9472	74.4298	cielab_Minnesota House Of Representatives.jpg	137.5183	23.1644
+Minnesota State Office.jpg	122.9571	72.0395	cielab_Minnesota State Office.jpg	137.5183	23.1644
+Molecule Statue.jpg	107.3520	67.6182	cielab_Molecule Statue.jpg	137.5183	23.1644
+Moos Tower.jpg	137.4382	58.6630	cielab_Moos Tower.jpg	137.5183	23.1644
+Morrill Hall.jpg	120.5987	69.7770	cielab_Morrill Hall.jpg	137.5183	23.1644
+Moscow On The Hill.jpg	147.9254	69.7368	cielab_Moscow On The Hill.jpg	137.5183	23.1644
+Mural, Salina.jpg	145.0471	67.0678	cielab_Mural, Salina.jpg	137.5183	23.1644
+Music Education Building.jpg	107.3022	64.1159	cielab_Music Education Building.jpg	137.5183	23.1644
+Music Mural.jpg	166.0754	54.2458	cielab_Music Mural.jpg	137.5183	23.1644
+Nathan Hale Statue.jpg	121.1420	65.1100	cielab_Nathan Hale Statue.jpg	137.5183	23.1644
+New York Life Eagle.jpg	131.9293	71.8555	cielab_New York Life Eagle.jpg	137.5183	23.1644
+News Room.jpg	153.7709	57.2422	cielab_News Room.jpg	137.5183	23.1644
+Nichols Arboretum.jpg	101.8247	57.4375	cielab_Nichols Arboretum.jpg	137.5183	23.1644
+Nickolodeon Universe.jpg	112.2081	62.8172	cielab_Nickolodeon Universe.jpg	137.5183	23.1644
+Nicollet Caribou.jpg	122.5985	73.9753	cielab_Nicollet Caribou.jpg	137.5183	23.1644
+Nicollet Globe_1.jpg	109.3647	68.8777	cielab_Nicollet Globe_1.jpg	137.5183	23.1644
+Nicollet Island Inn.jpg	142.4635	67.7613	cielab_Nicollet Island Inn.jpg	137.5183	23.1644
+Nicollet Skyway.jpg	149.0050	54.2796	cielab_Nicollet Skyway.jpg	137.5183	23.1644
+Nicollet Station.jpg	117.7662	75.2959	cielab_Nicollet Station.jpg	137.5183	23.1644
+Nina’s Coffee.jpg	103.4312	69.0443	cielab_Nina’s Coffee.jpg	137.5183	23.1644
+Norman Borlaug Statue.jpg	102.5215	76.7739	cielab_Norman Borlaug Statue.jpg	137.5183	23.1644
+North Pole Express.jpg	169.5532	59.8738	cielab_North Pole Express.jpg	137.5183	23.1644
+Northrop Auditorium.jpg	164.6632	54.0120	cielab_Northrop Auditorium.jpg	137.5183	23.1644
+Northwestern Casket Company.jpg	151.2518	72.5223	cielab_Northwestern Casket Company.jpg	137.5183	23.1644
+Northwestern National Life Insurance Building.jpg	118.2812	76.6344	cielab_Northwestern National Life Insurance Building.jpg	137.5183	23.1644
+Oakland Cemetery Cathedral.jpg	143.9293	53.9009	cielab_Oakland Cemetery Cathedral.jpg	137.5183	23.1644
+Oakland Cemetery.jpg	127.6985	59.4476	cielab_Oakland Cemetery.jpg	137.5183	23.1644
+Octavius Broughton House Statue.jpg	168.4233	62.0017	cielab_Octavius Broughton House Statue.jpg	137.5183	23.1644
+Office Of Tourism Carson City, Nevada.jpg	113.3000	56.9757	cielab_Office Of Tourism Carson City, Nevada.jpg	137.5183	23.1644
+Old Main Plaque.jpg	131.2850	69.1319	cielab_Old Main Plaque.jpg	137.5183	23.1644
+Old State House.jpg	107.2193	53.8682	cielab_Old State House.jpg	137.5183	23.1644
+Orange Line Sign.jpg	119.3950	72.7147	cielab_Orange Line Sign.jpg	137.5183	23.1644
+Ordway.jpg	135.5976	62.6867	cielab_Ordway.jpg	137.5183	23.1644
+Orpheium.jpg	128.2974	74.5141	cielab_Orpheium.jpg	137.5183	23.1644
+Orpheum Theater.jpg	154.8424	55.7814	cielab_Orpheum Theater.jpg	137.5183	23.1644
+Otter’s Saloon.jpg	135.8575	62.4155	cielab_Otter’s Saloon.jpg	137.5183	23.1644
+Our Lady Of Victory Chapel.jpg	124.4531	53.9992	cielab_Our Lady Of Victory Chapel.jpg	137.5183	23.1644
+O’Shaughnessy Stadium.jpg	105.0586	61.5216	cielab_O’Shaughnessy Stadium.jpg	137.5183	23.1644
+Padelford Riverboat.jpg	143.0386	55.7395	cielab_Padelford Riverboat.jpg	137.5183	23.1644
+Patrick Mcgoverns Pub.jpg	131.5691	75.0548	cielab_Patrick Mcgoverns Pub.jpg	137.5183	23.1644
+Pat’s Steaks.jpg	125.2866	59.9021	cielab_Pat’s Steaks.jpg	137.5183	23.1644
+Peanuts Character Statue.jpg	133.1270	67.0238	cielab_Peanuts Character Statue.jpg	137.5183	23.1644
+Peavey Plaza.jpg	118.4862	59.7920	cielab_Peavey Plaza.jpg	137.5183	23.1644
+Peavy Clock.jpg	122.4096	70.6126	cielab_Peavy Clock.jpg	137.5183	23.1644
+Peter Less House Statue.jpg	121.6992	54.3199	cielab_Peter Less House Statue.jpg	137.5183	23.1644
+Pez Vela Statue.jpg	133.5543	71.2749	cielab_Pez Vela Statue.jpg	137.5183	23.1644
+Phalen Regional Park.jpg	124.1917	64.9215	cielab_Phalen Regional Park.jpg	137.5183	23.1644
+Phi Gamma Delta House.jpg	101.0657	62.9234	cielab_Phi Gamma Delta House.jpg	137.5183	23.1644
+Philadelphia City Hall.jpg	139.3551	47.1092	cielab_Philadelphia City Hall.jpg	137.5183	23.1644
+Pillsbury Amill Statue.jpg	116.9920	72.1276	cielab_Pillsbury Amill Statue.jpg	137.5183	23.1644
+Pillsbury Hall_2.jpg	132.9840	53.6444	cielab_Pillsbury Hall_2.jpg	137.5183	23.1644
+Pillsbury Library.jpg	118.9347	55.9081	cielab_Pillsbury Library.jpg	137.5183	23.1644
+Pillsbury Statue.jpg	87.7619	75.3746	cielab_Pillsbury Statue.jpg	137.5183	23.1644
+Pioneer Building.jpg	120.9447	64.6191	cielab_Pioneer Building.jpg	137.5183	23.1644
+Pioneer Courage Statue.jpg	111.1058	63.9103	cielab_Pioneer Courage Statue.jpg	137.5183	23.1644
+Pioneers Statue.jpg	137.0101	60.8821	cielab_Pioneers Statue.jpg	137.5183	23.1644
+Platonic Figure.jpg	110.9033	63.4211	cielab_Platonic Figure.jpg	137.5183	23.1644
+Pleasant St SE.jpg	132.9668	44.3128	cielab_Pleasant St SE.jpg	137.5183	23.1644
+Prince Mural.jpg	147.6528	60.6877	cielab_Prince Mural.jpg	137.5183	23.1644
+Prince Statue.jpg	117.1807	56.8812	cielab_Prince Statue.jpg	137.5183	23.1644
+Pro Medica Headquarters Toledo, Ohio.jpg	142.4250	48.9771	cielab_Pro Medica Headquarters Toledo, Ohio.jpg	137.5183	23.1644
+Psycho Suzie’s Patio.jpg	143.7083	70.3732	cielab_Psycho Suzie’s Patio.jpg	137.5183	23.1644
+Public Service Building.jpg	139.2395	69.5973	cielab_Public Service Building.jpg	137.5183	23.1644
+Purcell Cutts House.jpg	131.8253	66.3995	cielab_Purcell Cutts House.jpg	137.5183	23.1644
+Quadriga Statue.jpg	140.8829	55.8712	cielab_Quadriga Statue.jpg	137.5183	23.1644
+Ramsay County Courthouse.jpg	100.1842	52.7673	cielab_Ramsay County Courthouse.jpg	137.5183	23.1644
+Raspberry Island.jpg	140.0005	54.8971	cielab_Raspberry Island.jpg	137.5183	23.1644
+Rbc Gateway.jpg	153.6289	51.0154	cielab_Rbc Gateway.jpg	137.5183	23.1644
+Regions Hospital.jpg	115.5572	59.9683	cielab_Regions Hospital.jpg	137.5183	23.1644
+Regis Center For The Arts.jpg	114.3831	53.9874	cielab_Regis Center For The Arts.jpg	137.5183	23.1644
+Reverence Statue South Burlington, Vermont.jpg	141.7095	71.3492	cielab_Reverence Statue South Burlington, Vermont.jpg	137.5183	23.1644
+Reverie Cafe And Bar.jpg	89.7539	64.9178	cielab_Reverie Cafe And Bar.jpg	137.5183	23.1644
+Rice Park Fountain.jpg	144.2745	54.2396	cielab_Rice Park Fountain.jpg	137.5183	23.1644
+Rice Park.jpg	136.1420	48.7994	cielab_Rice Park.jpg	137.5183	23.1644
+Ridder Arena.jpg	104.2563	59.0930	cielab_Ridder Arena.jpg	137.5183	23.1644
+River Centre Parking Ramp.jpg	145.5617	54.1586	cielab_River Centre Parking Ramp.jpg	137.5183	23.1644
+Riverside Plaza.jpg	147.7244	72.9457	cielab_Riverside Plaza.jpg	137.5183	23.1644
+Riverside Plaza_2.jpg	167.9481	59.6280	cielab_Riverside Plaza_2.jpg	137.5183	23.1644
+Ryman Auditorium.jpg	127.3072	67.7114	cielab_Ryman Auditorium.jpg	137.5183	23.1644
+SE Washington Ave.jpg	125.6811	61.8946	cielab_SE Washington Ave.jpg	137.5183	23.1644
+SPS Tower.jpg	125.5468	61.6397	cielab_SPS Tower.jpg	137.5183	23.1644
+Saint Paul Seminary.jpg	99.2626	74.5942	cielab_Saint Paul Seminary.jpg	137.5183	23.1644
+Sarah Porter Memorial Farmington.jpg	131.4244	68.1063	cielab_Sarah Porter Memorial Farmington.jpg	137.5183	23.1644
+Scholars Walk.jpg	124.3074	51.0140	cielab_Scholars Walk.jpg	137.5183	23.1644
+Schroeder And Lucy.jpg	142.9485	68.0733	cielab_Schroeder And Lucy.jpg	137.5183	23.1644
+Science Museum Of MN.jpg	98.8803	56.6351	cielab_Science Museum Of MN.jpg	137.5183	23.1644
+Science Museum Of Minnesota.jpg	119.3148	56.9305	cielab_Science Museum Of Minnesota.jpg	137.5183	23.1644
+Sculpture Garden9.jpg	145.9604	66.3882	cielab_Sculpture Garden9.jpg	137.5183	23.1644
+Sculpture Garden_1.jpg	126.9679	56.7675	cielab_Sculpture Garden_1.jpg	137.5183	23.1644
+Sculpture Garden_10.jpg	142.2290	61.4078	cielab_Sculpture Garden_10.jpg	137.5183	23.1644
+Sculpture Garden_11.jpg	125.0650	84.6612	cielab_Sculpture Garden_11.jpg	137.5183	23.1644
+Sculpture Garden_2.jpg	106.9463	57.9435	cielab_Sculpture Garden_2.jpg	137.5183	23.1644
+Sculpture Garden_3.jpg	115.2173	59.0463	cielab_Sculpture Garden_3.jpg	137.5183	23.1644
+Sculpture Garden_4.jpg	127.7728	55.6119	cielab_Sculpture Garden_4.jpg	137.5183	23.1644
+Sculpture Garden_5.jpg	119.3675	58.2564	cielab_Sculpture Garden_5.jpg	137.5183	23.1644
+Sculpture Garden_6.jpg	109.6410	63.8000	cielab_Sculpture Garden_6.jpg	137.5183	23.1644
+Sculpture Garden_7.jpg	119.1737	51.8340	cielab_Sculpture Garden_7.jpg	137.5183	23.1644
+Sea Foam Stadium.jpg	142.7748	71.4512	cielab_Sea Foam Stadium.jpg	137.5183	23.1644
+Sea Life Aquarium.jpg	127.4898	69.0458	cielab_Sea Life Aquarium.jpg	137.5183	23.1644
+Shepard Manufacturing Company Statue.jpg	143.9246	64.0794	cielab_Shepard Manufacturing Company Statue.jpg	137.5183	23.1644
+Shoe Tree.jpg	101.7495	59.4189	cielab_Shoe Tree.jpg	137.5183	23.1644
+Skyway Map.jpg	72.9824	85.1135	cielab_Skyway Map.jpg	137.5183	23.1644
+Skyway.jpg	137.9523	62.6350	cielab_Skyway.jpg	137.5183	23.1644
+Snoopy Statue.jpg	115.7457	48.9585	cielab_Snoopy Statue.jpg	137.5183	23.1644
+Soldiers And Sailors Statue.jpg	137.1362	47.5449	cielab_Soldiers And Sailors Statue.jpg	137.5183	23.1644
+Soo Line Building.jpg	120.2602	70.6348	cielab_Soo Line Building.jpg	137.5183	23.1644
+St Anthony Falls.jpg	177.2848	47.5563	cielab_St Anthony Falls.jpg	137.5183	23.1644
+St Anthony.jpg	145.4862	82.9595	cielab_St Anthony.jpg	137.5183	23.1644
+St Catherine’s University.jpg	125.3340	59.4812	cielab_St Catherine’s University.jpg	137.5183	23.1644
+St Francis Como Conservatory.jpg	104.8408	76.1638	cielab_St Francis Como Conservatory.jpg	137.5183	23.1644
+St John The Evangelist Episcopal Church.jpg	120.0100	58.5356	cielab_St John The Evangelist Episcopal Church.jpg	137.5183	23.1644
+St Louis Church.jpg	125.0773	69.1889	cielab_St Louis Church.jpg	137.5183	23.1644
+St Paul Academy And Summit School.jpg	121.8542	70.8500	cielab_St Paul Academy And Summit School.jpg	137.5183	23.1644
+St Paul Brewing.jpg	140.8720	63.6476	cielab_St Paul Brewing.jpg	137.5183	23.1644
+St Paul Cathedral.jpg	152.3726	52.2735	cielab_St Paul Cathedral.jpg	137.5183	23.1644
+St Paul Chamber Orchestra.jpg	137.4235	73.7139	cielab_St Paul Chamber Orchestra.jpg	137.5183	23.1644
+St Paul College.jpg	118.2456	51.1185	cielab_St Paul College.jpg	137.5183	23.1644
+St Paul Farmers Market.jpg	135.1284	80.9199	cielab_St Paul Farmers Market.jpg	137.5183	23.1644
+St Paul Hotel.jpg	115.3738	55.5783	cielab_St Paul Hotel.jpg	137.5183	23.1644
+St Paul Library.jpg	144.2205	53.9615	cielab_St Paul Library.jpg	137.5183	23.1644
+St Paul’s United Church Of Christ.jpg	128.8737	49.9808	cielab_St Paul’s United Church Of Christ.jpg	137.5183	23.1644
+St Thomas Cathedral.jpg	130.3456	70.2628	cielab_St Thomas Cathedral.jpg	137.5183	23.1644
+St Thomas Statue.jpg	139.1760	74.1516	cielab_St Thomas Statue.jpg	137.5183	23.1644
+St Thomas.jpg	128.0961	55.6569	cielab_St Thomas.jpg	137.5183	23.1644
+Stassen Building.jpg	143.5787	61.9257	cielab_Stassen Building.jpg	137.5183	23.1644
+State Fair Grounds.jpg	194.9396	66.2341	cielab_State Fair Grounds.jpg	137.5183	23.1644
+State Theater.jpg	117.0206	74.6502	cielab_State Theater.jpg	137.5183	23.1644
+State Theatre Ann Arbor Marquee.jpg	51.5131	71.8554	cielab_State Theatre Ann Arbor Marquee.jpg	137.5183	23.1644
+Stone Arch Bridge.jpg	164.1181	64.7320	cielab_Stone Arch Bridge.jpg	137.5183	23.1644
+Strategic Air Command And Aerospace Museum.jpg	156.6735	38.5045	cielab_Strategic Air Command And Aerospace Museum.jpg	137.5183	23.1644
+Street Mural Rutlant,Vermont.jpg	111.7890	49.2487	cielab_Street Mural Rutlant,Vermont.jpg	137.5183	23.1644
+Summit Avenue.jpg	138.5095	68.8718	cielab_Summit Avenue.jpg	137.5183	23.1644
+Summit Hill Community Garden.jpg	163.4213	64.3742	cielab_Summit Hill Community Garden.jpg	137.5183	23.1644
+Summit Manor Reception House.jpg	125.1842	82.9208	cielab_Summit Manor Reception House.jpg	137.5183	23.1644
+Suzzallo Library.jpg	131.1789	41.5677	cielab_Suzzallo Library.jpg	137.5183	23.1644
+Sweet Marthas Cookies.jpg	175.9662	57.4881	cielab_Sweet Marthas Cookies.jpg	137.5183	23.1644
+T. J. Jones Memorial Library.jpg	145.7137	75.6369	cielab_T. J. Jones Memorial Library.jpg	137.5183	23.1644
+Target Field.jpg	130.2377	40.8739	cielab_Target Field.jpg	137.5183	23.1644
+Target.jpg	135.1743	57.9390	cielab_Target.jpg	137.5183	23.1644
+Texas Capitol.jpg	119.5618	61.2997	cielab_Texas Capitol.jpg	137.5183	23.1644
+The Bulldog Restaurant.jpg	108.0656	57.1530	cielab_The Bulldog Restaurant.jpg	137.5183	23.1644
+The Lexington.jpg	121.9110	73.6747	cielab_The Lexington.jpg	137.5183	23.1644
+The News Room.jpg	129.8080	64.0289	cielab_The News Room.jpg	137.5183	23.1644
+The Quad.jpg	177.6594	58.3596	cielab_The Quad.jpg	137.5183	23.1644
+The Rose Theatre.jpg	132.3895	58.6767	cielab_The Rose Theatre.jpg	137.5183	23.1644
+The Source Statue.jpg	102.2564	59.4187	cielab_The Source Statue.jpg	137.5183	23.1644
+The University Club Of St Paul.jpg	103.3978	52.4199	cielab_The University Club Of St Paul.jpg	137.5183	23.1644
+Third Precinct.jpg	131.2029	63.7760	cielab_Third Precinct.jpg	137.5183	23.1644
+Thirty Six Cafe.jpg	193.3767	39.0079	cielab_Thirty Six Cafe.jpg	137.5183	23.1644
+Thomas Fandrews House Statue.jpg	124.9627	50.3656	cielab_Thomas Fandrews House Statue.jpg	137.5183	23.1644
+Toledo Bridge.jpg	85.6666	44.8881	cielab_Toledo Bridge.jpg	137.5183	23.1644
+Travelers Tower Hartford,Ct.jpg	124.8370	52.8858	cielab_Travelers Tower Hartford,Ct.jpg	137.5183	23.1644
+Treasure Island Center.jpg	118.1254	65.6815	cielab_Treasure Island Center.jpg	137.5183	23.1644
+Twins Stadium.jpg	136.2328	59.2400	cielab_Twins Stadium.jpg	137.5183	23.1644
+UMN Armory.jpg	125.4143	48.6173	cielab_UMN Armory.jpg	137.5183	23.1644
+UMN Sign.jpg	102.7082	59.6714	cielab_UMN Sign.jpg	137.5183	23.1644
+US Bank Plaza.jpg	118.8587	56.6400	cielab_US Bank Plaza.jpg	137.5183	23.1644
+US Bank Stadium Station.jpg	116.5318	60.6735	cielab_US Bank Stadium Station.jpg	137.5183	23.1644
+US Bank Stadium.jpg	98.4041	45.3666	cielab_US Bank Stadium.jpg	137.5183	23.1644
+Union Depot.jpg	170.5154	63.4315	cielab_Union Depot.jpg	137.5183	23.1644
+University Of Washington.jpg	111.6767	62.3364	cielab_University Of Washington.jpg	137.5183	23.1644
+Uno Clock Tower Nebraska.jpg	76.1116	40.7420	cielab_Uno Clock Tower Nebraska.jpg	137.5183	23.1644
+Uptown Crown.jpg	135.3312	69.7350	cielab_Uptown Crown.jpg	137.5183	23.1644
+Uptown Large Chairs.jpg	134.9951	66.7033	cielab_Uptown Large Chairs.jpg	137.5183	23.1644
+Van Cleve House.jpg	167.7041	60.3375	cielab_Van Cleve House.jpg	137.5183	23.1644
+Vietnam Veterans Memorial.jpg	129.4169	81.1157	cielab_Vietnam Veterans Memorial.jpg	137.5183	23.1644
+Vikings Longhouse.jpg	155.8792	79.2145	cielab_Vikings Longhouse.jpg	137.5183	23.1644
+Vulcan At The Forge Statue Birmingham.jpg	195.3221	67.3082	cielab_Vulcan At The Forge Statue Birmingham.jpg	137.5183	23.1644
+Wabasha Street Bridge.jpg	129.7259	38.6485	cielab_Wabasha Street Bridge.jpg	137.5183	23.1644
+Wabasha Street Caves.jpg	138.4088	52.3475	cielab_Wabasha Street Caves.jpg	137.5183	23.1644
+Wabasha Street Snoopy.jpg	135.9592	55.7315	cielab_Wabasha Street Snoopy.jpg	137.5183	23.1644
+Walker Art Center.jpg	165.0306	59.8943	cielab_Walker Art Center.jpg	137.5183	23.1644
+Walter Library.jpg	123.4341	72.1167	cielab_Walter Library.jpg	137.5183	23.1644
+Walter Library_2.jpg	144.7501	39.2394	cielab_Walter Library_2.jpg	137.5183	23.1644
+Washington Ave Bridge.jpg	109.7646	59.4750	cielab_Washington Ave Bridge.jpg	137.5183	23.1644
+Washington Ave SE.jpg	124.2480	62.6723	cielab_Washington Ave SE.jpg	137.5183	23.1644
+Washington Avenue Bridge.jpg	120.5073	62.8843	cielab_Washington Avenue Bridge.jpg	137.5183	23.1644
+Wcco.jpg	118.2843	69.3899	cielab_Wcco.jpg	137.5183	23.1644
+Weisman Art Museum.jpg	162.3848	57.5953	cielab_Weisman Art Museum.jpg	137.5183	23.1644
+Wells Fargo 550 Tower.jpg	100.7568	58.8708	cielab_Wells Fargo 550 Tower.jpg	137.5183	23.1644
+Wells Fargo Building.jpg	125.0636	49.7869	cielab_Wells Fargo Building.jpg	137.5183	23.1644
+Wells Fargo Center.jpg	124.2480	62.6723	cielab_Wells Fargo Center.jpg	137.5183	23.1644
+Wells Fargo Center_2.jpg	142.6632	60.9803	cielab_Wells Fargo Center_2.jpg	137.5183	23.1644
+Wells Fargo.jpg	138.2647	68.3204	cielab_Wells Fargo.jpg	137.5183	23.1644
+West Bank Sign.jpg	120.4174	59.9879	cielab_West Bank Sign.jpg	137.5183	23.1644
+Western Sculpture Park_1.jpg	128.3929	48.5540	cielab_Western Sculpture Park_1.jpg	137.5183	23.1644
+Western Sculpture Park_3.jpg	132.1641	64.6615	cielab_Western Sculpture Park_3.jpg	137.5183	23.1644
+Western Sculpture Park_4.jpg	143.7397	51.9996	cielab_Western Sculpture Park_4.jpg	137.5183	23.1644
+Western Sculpture Park_5.jpg	126.5593	70.0221	cielab_Western Sculpture Park_5.jpg	137.5183	23.1644
+Whole Foods On Nicollet.jpg	149.6592	70.1858	cielab_Whole Foods On Nicollet.jpg	137.5183	23.1644
+Willard Park Cleveland.jpg	126.0175	70.4594	cielab_Willard Park Cleveland.jpg	137.5183	23.1644
+Wilson Library.jpg	126.5149	52.1946	cielab_Wilson Library.jpg	137.5183	23.1644
+Winslow House Hotel Statue.jpg	133.5907	67.6822	cielab_Winslow House Hotel Statue.jpg	137.5183	23.1644
+Winthrop School East High School Statue.jpg	150.1961	68.1507	cielab_Winthrop School East High School Statue.jpg	137.5183	23.1644
+Woodbury Fisk House Statue.jpg	118.0982	51.0837	cielab_Woodbury Fisk House Statue.jpg	137.5183	23.1644
+World War I Memorial.jpg	110.4540	81.7113	cielab_World War I Memorial.jpg	137.5183	23.1644
+Xcel Energy Center.jpg	133.1136	48.3549	cielab_Xcel Energy Center.jpg	137.5183	23.1644
+Yacht Club.jpg	113.9836	49.8505	cielab_Yacht Club.jpg	137.5183	23.1644
+Pooled	130.7982	62.1379	Pooled	137.5183	23.1644
